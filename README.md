@@ -9,8 +9,6 @@
 </tr>
 </table>
 
-<img width="2000" height="1600" alt="vidyasetu marketing" src="https://github.com/user-attachments/assets/9c79221a-f898-4b5e-b741-138f6b995ada" />
-
 ---
 
 ## 🚀 Overview
