@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "pack_version": "1.3",
+    "language_code": "en-IN",
+    "target_class": "8_SSC",
+    "subject": "Geography",
+    "generated_date": "2025-11-27",
+    "model_source": "Gemini-1.5-Pro"
+  },
+  "chapters": [
+    {
+      "chapter_id": "geo_08_01_local_standard_time",
+      "chapter_title": "Local Time and Standard Time",
+      "concepts": [
+        {
+          "id": "c_08_01_01",
+          "topic": "Longitude and Time Calculation",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The mathematical relationship between the earth's rotation and time.",
+            "explanation_text": "The earth takes 24 hours to rotate 360 degrees. This means it rotates 15 degrees in 1 hour, or 1 degree in 4 minutes. As we move East of the Prime Meridian, time is ahead; to the West, it is behind.",
+            "key_points": [
+              "Earth rotates West to East.",
+              "1 degree rotation = 4 minutes time difference.",
+              "15 degrees rotation = 1 hour time difference."
+            ],
+            "formula_latex": "Time = Degrees \\times 4 \\text{ minutes}"
+          },
+          "keywords": ["rotation", "longitude", "degrees", "minutes", "calculation"],
+          "question_variations": ["How many minutes does earth take to rotate 1 degree?", "Calculate time difference for 15 degree longitude."],
+          "related_concept_ids": ["c_08_01_02", "c_08_01_03"]
+        },
+        {
+          "id": "c_08_01_02",
+          "topic": "Standard Time (IST)",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The uniform time officially adopted for India based on the 82° 30' E longitude.",
+            "explanation_text": "To avoid confusion caused by varying local times, India adopted the local time of the 82° 30' E longitude (passing through Mirzapur) as the Standard Time for the whole country. It is 5 hours 30 minutes ahead of GMT.",
+            "key_points": [
+              "Reference Longitude: 82° 30' E.",
+              "Location: Mirzapur, Allahabad.",
+              "Difference: +5:30 hours from GMT."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["IST", "Mirzapur", "82.5 E", "GMT"],
+          "question_variations": ["What is the longitude for Indian Standard Time?", "Why is standard time important?"],
+          "related_concept_ids": ["c_08_01_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "geo_08_02_interior_earth",
+      "chapter_title": "Interior of the Earth",
+      "concepts": [
+        {
+          "id": "c_08_02_01",
+          "topic": "Layers of the Earth",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The distinct concentric layers that make up the earth: Crust, Mantle, and Core.",
+            "explanation_text": "The earth is made of the Crust (solid outer layer, divided into Continental/Sial and Oceanic/Sima), the Mantle (source of magma, semi-liquid upper part called Asthenosphere), and the Core (Outer liquid iron, Inner solid Nickel-Iron/Nife).",
+            "key_points": [
+              "Crust: Sial (Granite) and Sima (Basalt).",
+              "Mantle: Asthenosphere, Earthquake epicenter location.",
+              "Core: Outer (Liquid), Inner (Solid Nife), Magnetic field generator."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["crust", "mantle", "core", "sial", "sima", "nife", "asthenosphere"],
+          "question_variations": ["Differentiate between Sial and Sima.", "What is the core made of?", "Which layer generates the magnetic field?"],
+          "related_concept_ids": ["c_08_02_02"]
+        },
+        {
+          "id": "c_08_02_02",
+          "topic": "Discontinuities",
+          "relevance_score": 0.8,
+          "content_payload": {
+            "short_definition": "Transitional zones between earth's layers.",
+            "explanation_text": "Specific boundaries separate the layers. Conrad (between continental/oceanic crust), Moho (between crust/mantle), and Gutenberg (between mantle/core).",
+            "key_points": ["Conrad Discontinuity", "Mohorovicic (Moho) Discontinuity", "Gutenberg Discontinuity"],
+            "formula_latex": null
+          },
+          "keywords": ["discontinuity", "moho", "gutenberg", "conrad"],
+          "question_variations": ["Where is the Moho discontinuity located?"],
+          "related_concept_ids": ["c_08_02_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "geo_08_03_humidity_clouds",
+      "chapter_title": "Humidity and Clouds",
+      "concepts": [
+        {
+          "id": "c_08_03_01",
+          "topic": "Absolute vs Relative Humidity",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Measurements of moisture in the air.",
+            "explanation_text": "Absolute humidity is the actual weight of water vapour in a volume of air (gm/m³). Relative humidity is the percentage of vapour present compared to what the air can hold at that temperature. Warmer air holds more moisture.",
+            "key_points": [
+              "Absolute: Actual quantity.",
+              "Relative: Percentage of saturation.",
+              "Saturated air has 100% Relative Humidity."
+            ],
+            "formula_latex": "RH(\\%) = \\frac{\\text{Absolute Humidity}}{\\text{Vapour Capacity}} \\times 100"
+          },
+          "keywords": ["humidity", "absolute", "relative", "saturation", "vapour capacity"],
+          "question_variations": ["Define Relative Humidity.", "What is the unit of absolute humidity?"],
+          "related_concept_ids": ["c_08_03_02"]
+        },
+        {
+          "id": "c_08_03_02",
+          "topic": "Cloud Types",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Classification of clouds based on altitude.",
+            "explanation_text": "Clouds are condensed moisture around dust particles. They are classified as High (Cirrus - ice), Medium (Alto), Low (Stratus), and Vertical (Cumulonimbus - thunderstorms/hail).",
+            "key_points": [
+              "Cirrus: High, wispy, ice.",
+              "Cumulonimbus: Vertical, storm, thunder, hail.",
+              "Condensation happens at dew point."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["cirrus", "cumulonimbus", "stratus", "altitude", "condensation"],
+          "question_variations": ["Which cloud type brings thunderstorms?", "Classify clouds by height."],
+          "related_concept_ids": ["c_08_03_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "geo_08_04_ocean_floor",
+      "chapter_title": "Structure of Ocean Floor",
+      "concepts": [
+        {
+          "id": "c_08_04_01",
+          "topic": "Ocean Relief",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Landforms submerged under the sea.",
+            "explanation_text": "The ocean floor consists of the Continental Shelf (shallow, fishing/oil), Continental Slope (steep boundary), Abyssal Plains (flat), and Trenches (deepest, e.g., Mariana Trench).",
+            "key_points": [
+              "Shelf: Shallow, sunlight reaches, rich resources.",
+              "Slope: Steep, boundary of continents.",
+              "Trench: Deepest, active volcanoes/earthquakes."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["continental shelf", "slope", "abyssal plain", "trench", "mariana"],
+          "question_variations": ["Explain the importance of the Continental Shelf.", "What is the deepest trench?"],
+          "related_concept_ids": ["c_08_04_02"]
+        },
+        {
+          "id": "c_08_04_02",
+          "topic": "Marine Deposition",
+          "relevance_score": 0.8,
+          "content_payload": {
+            "short_definition": "Materials deposited on the ocean bed.",
+            "explanation_text": "Includes Marine Oozes (remains of marine life, lava, ash) and Anthropogenic deposits (pollution, sewage, plastic).",
+            "key_points": ["Marine Oozes", "Anthropogenic deposits (Human made)", "Sedimentary rock formation"],
+            "formula_latex": null
+          },
+          "keywords": ["oozes", "sediments", "anthropogenic", "pollution"],
+          "question_variations": ["What are marine oozes?", "How does human waste affect the ocean floor?"],
+          "related_concept_ids": ["c_08_04_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "geo_08_05_ocean_currents",
+      "chapter_title": "Ocean Currents",
+      "concepts": [
+        {
+          "id": "c_08_05_01",
+          "topic": "Types of Ocean Currents",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Continuous flow of ocean water driven by temperature, density, and winds.",
+            "explanation_text": "Currents are Surface (10% water, fast) or Deep (Thermohaline circulation, slow). They are Warm (Equator to Poles) or Cold (Poles to Equator). Their direction is influenced by the Earth's rotation (Coriolis effect).",
+            "key_points": [
+              "Warm Currents: Equator -> Poles.",
+              "Cold Currents: Poles -> Equator.",
+              "Thermohaline circulation: Deep water movement due to temperature/salinity."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["warm current", "cold current", "thermohaline", "coriolis", "circulation"],
+          "question_variations": ["Differentiate between warm and cold currents.", "What is thermohaline circulation?"],
+          "related_concept_ids": ["c_08_05_02"]
+        },
+        {
+          "id": "c_08_05_02",
+          "topic": "Effects of Ocean Currents",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Impact of currents on climate and human activity.",
+            "explanation_text": "Where warm and cold currents meet (e.g., Gulf Stream and Labrador), extensive fishing grounds form (plankton growth), but also dense fog which hinders navigation.",
+            "key_points": [
+              "Fishing Grounds: Plankton abundance (Grand Bank, Dogger Bank).",
+              "Climate: Warm currents keep ports ice-free in winter.",
+              "Fog: Created where warm/cold currents meet."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["fishing", "fog", "plankton", "grand bank", "climate"],
+          "question_variations": ["Why are major fishing grounds located where currents meet?", "How do currents affect coastal climate?"],
+          "related_concept_ids": ["c_08_05_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "geo_08_06_land_use",
+      "chapter_title": "Land Use",
+      "concepts": [
+        {
+          "id": "c_08_06_01",
+          "topic": "Classification of Land Use",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "How land is utilized in rural and urban areas.",
+            "explanation_text": "Rural land use focuses on agriculture, fallow land, forests, and pasture. Urban land use includes residential, commercial (CBD), industrial, and public utility areas. The transition zone between the two is the Rural-Urban Fringe.",
+            "key_points": [
+              "Rural: Agriculture, Fallow, Pasture.",
+              "Urban: Residential, Commercial, Transport.",
+              "Fallow land: Temporarily not cultivated to regain fertility."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["rural", "urban", "fallow", "agriculture", "commercial"],
+          "question_variations": ["Compare rural and urban land use.", "What is fallow land?"],
+          "related_concept_ids": ["c_08_06_02"]
+        },
+        {
+          "id": "c_08_06_02",
+          "topic": "Land Records (7/12 and Property Card)",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Official documents maintained by the revenue department to show land ownership.",
+            "explanation_text": "The '7/12 Extract' (Satbara) is for rural land (agricultural rights, crops). 'Property Card' is for urban non-agricultural land ownership. Both serve as legal proof of rights.",
+            "key_points": [
+              "7/12 Extract: Rural/Agriculture.",
+              "Property Card: Urban.",
+              "Issued by Revenue Department."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["7/12 extract", "satbara", "property card", "ownership", "revenue"],
+          "question_variations": ["What information does a 7/12 extract provide?", "Which document proves ownership in urban areas?"],
+          "related_concept_ids": ["c_08_06_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "geo_08_07_population",
+      "chapter_title": "Population",
+      "concepts": [
+        {
+          "id": "c_08_07_01",
+          "topic": "Population Density and Indicators",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Metrics to measure population distribution and quality.",
+            "explanation_text": "Population density is the number of people per unit area. Sex ratio is the number of females per 1000 males. Literacy and Life Expectancy indicate quality. The productive population is the 15-59 age group.",
+            "key_points": [
+              "Sex Ratio: Females per 1000 males.",
+              "Productive Age: 15-59 years.",
+              "Density depends on physical factors (relief, water) and economic factors."
+            ],
+            "formula_latex": "\\text{Density} = \\frac{\\text{Total Population}}{\\text{Total Area}}"
+          },
+          "keywords": ["density", "sex ratio", "literacy", "productive population", "formula"],
+          "question_variations": ["Define Sex Ratio.", "How is population density calculated?", "What is the productive age group?"],
+          "related_concept_ids": ["c_08_07_02"]
+        },
+        {
+          "id": "c_08_07_02",
+          "topic": "Human Development Index (HDI)",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "A statistic used to rank countries by level of human development.",
+            "explanation_text": "Developed by Mahbub Ul Haq and Amartya Sen. It measures development based on three dimensions: Economic (Standard of living), Health (Life expectancy), and Education (Years of schooling). Values range from 0 to 1.",
+            "key_points": [
+              "Parameters: Economy, Health, Education.",
+              "Range: 0 to 1 (1 is best).",
+              "Published by UNDP."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["HDI", "development", "UNDP", "health", "education"],
+          "question_variations": ["What are the three parameters of HDI?", "Who developed the concept of HDI?"],
+          "related_concept_ids": ["c_08_07_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "geo_08_08_industries",
+      "chapter_title": "Industries",
+      "concepts": [
+        {
+          "id": "c_08_08_01",
+          "topic": "Factors and Classification of Industries",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Secondary occupations converting raw material into finished goods.",
+            "explanation_text": "Location depends on raw material, water, labour, transport, and market. Industries are classified by size (Small, Medium, Heavy) or source (Agro-based, Mineral-based).",
+            "key_points": [
+              "Input: Raw material, Labour, Capital.",
+              "Output: Finished Goods.",
+              "Heavy Industries: Iron & Steel, Cement."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["raw material", "heavy industry", "agro-based", "location factors"],
+          "question_variations": ["Classify industries based on their nature.", "Why are sugar industries located near sugarcane fields?"],
+          "related_concept_ids": ["c_08_08_02"]
+        },
+        {
+          "id": "c_08_08_02",
+          "topic": "Corporate Social Responsibility (CSR)",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "A regulation requiring profitable companies to spend on social welfare.",
+            "explanation_text": "Companies with net value >500cr, turnover >1000cr, or profit >5cr must spend at least 2% of profits on social/environmental work (schools, health, villages).",
+            "key_points": [
+              "Mandatory 2% spending.",
+              "Focus: Education, Health, Environment.",
+              "Applicable to profitable large companies."
+            ],
+            "formula_latex": "\\text{Spend} = 2\\% \\text{ of Profit}"
+          },
+          "keywords": ["CSR", "social welfare", "2 percent", "profit", "responsibility"],
+          "question_variations": ["What is Corporate Social Responsibility?", "How much percentage of profit must be spent under CSR?"],
+          "related_concept_ids": ["c_08_08_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "geo_08_09_map_scale",
+      "chapter_title": "Map Scale",
+      "concepts": [
+        {
+          "id": "c_08_09_01",
+          "topic": "Types of Map Scales",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The ratio between map distance and ground distance.",
+            "explanation_text": "Scales are expressed in three ways: 1. Verbal (words, e.g., '1cm = 1km'). 2. Numerical/Representative Fraction (Ratio, e.g., 1:100,000). 3. Linear/Graphical (drawn bar). Graphical scales are best for maps that might be resized (photocopied) as the ratio remains valid visually.",
+            "key_points": [
+              "Verbal Scale: Uses units (cm, km).",
+              "Numerical Scale (R.F.): Unitless ratio.",
+              "Graphical Scale: Drawn line, unaffected by resizing."
+            ],
+            "formula_latex": "\\text{Scale} = \\frac{\\text{Map Distance}}{\\text{Ground Distance}}"
+          },
+          "keywords": ["verbal", "numerical", "graphical", "R.F.", "representative fraction"],
+          "question_variations": ["Why is a graphical scale useful when photocopying maps?", "Convert 1cm=1km into a Representative Fraction."],
+          "related_concept_ids": ["c_08_09_02"]
+        },
+        {
+          "id": "c_08_09_02",
+          "topic": "Large Scale vs Small Scale Maps",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Classification based on the area covered and detail shown.",
+            "explanation_text": "Large Scale Maps cover a small area with high detail (e.g., Village map, 1:10,000). Small Scale Maps cover a large area with low detail (e.g., World map, 1:50,00,000). Note: In fractions, a smaller denominator means a larger value/scale.",
+            "key_points": [
+              "Large Scale: Small area, More detail (Village map).",
+              "Small Scale: Large area, Less detail (Atlas/World map)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["large scale", "small scale", "detail", "area", "atlas"],
+          "question_variations": ["Differentiate between large scale and small scale maps.", "Is a world map a large scale map?"],
+          "related_concept_ids": ["c_08_09_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "geo_08_10_field_trip",
+      "chapter_title": "Field Trip",
+      "concepts": [
+        {
+          "id": "c_08_10_01",
+          "topic": "Importance and Planning of Field Trips",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "A method to get first-hand experience of geographical concepts.",
+            "explanation_text": "Field trips help understand the relationship between humans and the environment. Planning involves selecting a location, obtaining permission, and preparing a questionnaire. A final report including maps, photos, and data is essential after the trip.",
+            "key_points": [
+              "First-hand observation.",
+              "Requires Questionnaire.",
+              "Final step is Report Writing."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["field trip", "observation", "questionnaire", "report", "planning"],
+          "question_variations": ["Why are field trips important in geography?", "What preparations are needed for a field trip?"],
+          "related_concept_ids": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1088 @@
+[
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_01_what_is_history",
+    "chapter_title": "What is History?",
+    "concepts": [
+      {
+        "id": "con_01_01_definition",
+        "topic": "Definition and Scientific Method of History",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "History is the science that explains past events using scientific methods.",
+          "explanation_text": "History is a science that tells us about events in the past. It uses the scientific method to look for, collect, and examine evidence to determine reliability. It is not written solely on imagination but relies on material, written, and oral sources.",
+          "key_points": [
+            "History is a science about past events.",
+            "It uses the scientific method to verify evidence.",
+            "Sources of history: Material, Written, and Oral.",
+            "Past, Present, and Future are linked by a chain of events."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "History",
+          "Scientific method",
+          "Evidence",
+          "Sources of history",
+          "Past"
+        ],
+        "question_variations": [
+          "What is history?",
+          "Why is history considered a scientific discipline?",
+          "What are the three types of sources of history?"
+        ],
+        "related_concept_ids": [
+          "con_01_02_time"
+        ]
+      },
+      {
+        "id": "con_01_02_time",
+        "topic": "Time and History",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "The division of time into past, present, and future.",
+          "explanation_text": "Time is divided for convenience into the past (time gone by), the present (time now), and the future (time to come). History studies the past to understand how human civilization progressed and to shape a good future.",
+          "key_points": [
+            "Past: Time gone by.",
+            "Present: Time we are in now.",
+            "Future: Time yet to come.",
+            "History studies past societies and their actions."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Past",
+          "Present",
+          "Future",
+          "Time",
+          "Civilization"
+        ],
+        "question_variations": [
+          "What constitutes the past?",
+          "How does history help shape the future?"
+        ],
+        "related_concept_ids": [
+          "con_01_01_definition"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_02_history_and_time",
+    "chapter_title": "History and the Concept of 'Time'",
+    "concepts": [
+      {
+        "id": "con_02_01_division_of_time",
+        "topic": "Division of Time",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Methods of reckoning time including the Common Era and Before Common Era.",
+          "explanation_text": "Time is continuous but divided for convenience. The unilinear division includes the Common Era (CE) or Christian Era (AD), which counts forward from the memory of Jesus Christ, and Before Common Era (BCE) or Before Christ (BC), which counts backward.",
+          "key_points": [
+            "Unilinear division of time.",
+            "Common Era (CE) / Anno Domini (AD).",
+            "Before Common Era (BCE) / Before Christ (BC).",
+            "Time measurement units: Second, minute, hour, day, week, month, year, century, millennium."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Common Era",
+          "Christian Era",
+          "BCE",
+          "Unilinear division",
+          "Century",
+          "Millennium"
+        ],
+        "question_variations": [
+          "What does CE stand for?",
+          "How are years counted in BCE?",
+          "What is a unilinear division of time?"
+        ],
+        "related_concept_ids": [
+          "con_02_02_dating_methods"
+        ]
+      },
+      {
+        "id": "con_02_02_dating_methods",
+        "topic": "Dating Methods",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Scientific methods used to determine the age of ancient objects.",
+          "explanation_text": "Dating techniques are scientific methods used to estimate the age of archaeological finds. The most common method is Carbon-14 analysis, invented by Willard Libby. Another method is Tree-rings analysis (Dendrochronology).",
+          "key_points": [
+            "Carbon-14 analysis (C-14 dating).",
+            "Tree-rings analysis (Dendrochronology).",
+            "Used to date fossils and ancient artefacts.",
+            "Helps place events on a timeline."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Carbon-14",
+          "Dating methods",
+          "Willard Libby",
+          "Tree-rings analysis",
+          "Fossils"
+        ],
+        "question_variations": [
+          "What is Carbon-14 analysis used for?",
+          "Who invented the C-14 dating method?",
+          "What is Dendrochronology?"
+        ],
+        "related_concept_ids": [
+          "con_02_01_division_of_time"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_03_life_on_earth",
+    "chapter_title": "Life on Earth",
+    "concepts": [
+      {
+        "id": "con_03_01_formation",
+        "topic": "Formation of the Earth",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The creation of the earth and solar system around 4.5 billion years ago.",
+          "explanation_text": "About 4.5 billion years ago, an enormous cloud of hot gases and dust formed in space. Its circular motion divided it, creating the sun and planets. The earth is the only planet known to support life.",
+          "key_points": [
+            "Formed 4.5 billion years ago.",
+            "Created from a spinning cloud of hot gas and dust.",
+            "Earth is a planet in the solar system."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Solar system",
+          "Planets",
+          "4.5 billion years",
+          "Formation of earth"
+        ],
+        "question_variations": [
+          "When was the earth formed?",
+          "How was the solar system created?"
+        ],
+        "related_concept_ids": [
+          "con_03_02_beginning_of_life"
+        ]
+      },
+      {
+        "id": "con_03_02_beginning_of_life",
+        "topic": "Beginning of Life",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The appearance of unicellular organisms in water.",
+          "explanation_text": "It took 80 crore years for the earth to cool and water bodies to form. Life first appeared in water as unicellular organisms called 'protozoa'. Gradually, multicellular living things evolved from them.",
+          "key_points": [
+            "Life began in water.",
+            "First living things: Unicellular organisms (Protozoa).",
+            "Protozoa are visible only under a microscope."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Protozoa",
+          "Unicellular",
+          "Multicellular",
+          "Microscope"
+        ],
+        "question_variations": [
+          "Where did life first appear on earth?",
+          "What are protozoa?"
+        ],
+        "related_concept_ids": [
+          "con_03_01_formation"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_04_evolution",
+    "chapter_title": "Evolution",
+    "concepts": [
+      {
+        "id": "con_04_01_concept",
+        "topic": "Concept of Evolution",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Gradual and continuous change in species for survival.",
+          "explanation_text": "Evolution means gradual and continuous change. Species adapt to environmental changes, leading to physical changes that are inherited. Charles Darwin systematically explained this concept.",
+          "key_points": [
+            "Definition: Gradual and continuous change.",
+            "Adaptation to environment.",
+            "Survival of the fittest.",
+            "Charles Darwin proposed the theory."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Evolution",
+          "Charles Darwin",
+          "Adaptation",
+          "Survival",
+          "Extinction"
+        ],
+        "question_variations": [
+          "What is evolution?",
+          "Who proposed the systematic theory of evolution?"
+        ],
+        "related_concept_ids": [
+          "con_04_02_stages"
+        ]
+      },
+      {
+        "id": "con_04_02_stages",
+        "topic": "Stages of Evolution of Animals",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "The progression from invertebrates to vertebrates and mammals.",
+          "explanation_text": "Evolution progressed from invertebrates (no backbone) to vertebrates (with backbone). Vertebrates include aquatic animals, amphibians, reptiles, birds, and mammals. Mammals are the most evolved, characterized by suckling their young.",
+          "key_points": [
+            "Invertebrates (e.g., snail).",
+            "Vertebrates (Fish, Frogs, Birds, Reptiles).",
+            "Mammals (e.g., Cow, Human).",
+            "Mammals give birth and suckle young (exceptions: Platypus, Anteater)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Invertebrates",
+          "Vertebrates",
+          "Mammals",
+          "Amphibians",
+          "Reptiles"
+        ],
+        "question_variations": [
+          "What are the characteristics of mammals?",
+          "Give an example of an invertebrate."
+        ],
+        "related_concept_ids": [
+          "con_04_03_apes"
+        ]
+      },
+      {
+        "id": "con_04_03_apes",
+        "topic": "Apes",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Species somewhat like humans that evolved into primitive man.",
+          "explanation_text": "Apes lived mostly on trees. Those that moved to grasslands evolved into the human species. This first happened in Africa. The first human species is called 'primitive man'.",
+          "key_points": [
+            "Apes resemble humans.",
+            "Evolution happened in grasslands.",
+            "First primitive man appeared in Africa."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Apes",
+          "Primitive man",
+          "Africa",
+          "Grasslands"
+        ],
+        "question_variations": [
+          "Where did the first human species appear?",
+          "Why did some apes start living on the ground?"
+        ],
+        "related_concept_ids": [
+          "con_04_01_concept"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_05_evolution_of_mankind",
+    "chapter_title": "Evolution of Mankind",
+    "concepts": [
+      {
+        "id": "con_05_01_homo_habilis",
+        "topic": "Homo habilis",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The 'Skilled Human' who could use hands skilfully.",
+          "explanation_text": "Homo habilis, found in Africa by Louis Leakey, could stand on two feet but had a bent spine. He made simple stone tools (choppers) to scrape meat or break bones. He was a forager.",
+          "key_points": [
+            "Meaning: The skilled human.",
+            "Discovered by: Louis Leakey in Africa.",
+            "Tools: Stone choppers.",
+            "Diet: Forager (leftovers, eggs, fruits)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Homo habilis",
+          "Skilled human",
+          "Louis Leakey",
+          "Choppers",
+          "Forager"
+        ],
+        "question_variations": [
+          "Who discovered Homo habilis?",
+          "What kind of tools did Homo habilis make?"
+        ],
+        "related_concept_ids": [
+          "con_05_02_homo_erectus"
+        ]
+      },
+      {
+        "id": "con_05_02_homo_erectus",
+        "topic": "Homo erectus",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The 'Upright Man' who used fire and made hand-axes.",
+          "explanation_text": "Homo erectus had a more developed brain and stood erect. He lived in groups, knew the use of fire (but not how to make it), and made developed tools like the hand-axe. Remains found in Africa, Asia, and Europe.",
+          "key_points": [
+            "Meaning: The one who stands erect.",
+            "Tools: Hand-axe.",
+            "Skill: Used fire (fetching burning branches).",
+            "Habitat: Africa, Asia, Europe."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Homo erectus",
+          "Hand-axe",
+          "Fire",
+          "Upright man"
+        ],
+        "question_variations": [
+          "Which human species first used fire?",
+          "What does Homo erectus mean?"
+        ],
+        "related_concept_ids": [
+          "con_05_03_neanderthal"
+        ]
+      },
+      {
+        "id": "con_05_03_neanderthal",
+        "topic": "Homo Neanderthalensis (Neanderthal Man)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Physically big humans who lived in caves and made fire.",
+          "explanation_text": "Neanderthals were strong, lived in caves, and hunted big animals. They made tools like spears and axes. They knew the art of making fire by friction. They had burial rituals and some artistic skills.",
+          "key_points": [
+            "Named after: Neanderthal, Germany.",
+            "Characteristics: Big, strong, lived in caves.",
+            "Skills: Making fire, hunting big animals, burial rituals.",
+            "Extinction: Around 30,000 years ago."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Neanderthal",
+          "Caves",
+          "Spears",
+          "Burial rituals",
+          "Making fire"
+        ],
+        "question_variations": [
+          "Where were Neanderthal remains first found?",
+          "How did Neanderthals make fire?"
+        ],
+        "related_concept_ids": [
+          "con_05_04_homo_sapiens"
+        ]
+      },
+      {
+        "id": "con_05_04_homo_sapiens",
+        "topic": "Homo sapiens",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The 'Intelligent Man' or 'Thinking Man'.",
+          "explanation_text": "Homo sapiens (also known as Cro-Magnon in Europe) were more intelligent. They made specialized tools like stone blades fixed in wood/bone handles. They had a developed language system and produced artistic objects.",
+          "key_points": [
+            "Meaning: Intelligent/Thinking Man.",
+            "Also known as: Cro-Magnon.",
+            "Tools: Stone blades, knives, chisels.",
+            "Skills: Developed language, art."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Homo sapiens",
+          "Intelligent Man",
+          "Cro-Magnon",
+          "Language",
+          "Art"
+        ],
+        "question_variations": [
+          "What does Homo sapiens mean?",
+          "What kind of tools did Homo sapiens make?"
+        ],
+        "related_concept_ids": [
+          "con_05_05_homo_sapiens_sapiens"
+        ]
+      },
+      {
+        "id": "con_05_05_homo_sapiens_sapiens",
+        "topic": "Homo sapiens sapiens",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Modern humans who developed civilization.",
+          "explanation_text": "Homo sapiens sapiens refers to modern humans with advanced thinking capacity. Around 11,000-10,000 BC, they developed agriculture and animal husbandry, leading to settled life and the development of culture.",
+          "key_points": [
+            "Modern humans.",
+            "Developed agriculture and animal husbandry.",
+            "Settled life led to culture and civilization.",
+            "Genetics studies heredity linking us to ancestors."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Homo sapiens sapiens",
+          "Agriculture",
+          "Civilization",
+          "Genetics",
+          "Modern humans"
+        ],
+        "question_variations": [
+          "Who are Homo sapiens sapiens?",
+          "What major change occurred around 10,000 BC?"
+        ],
+        "related_concept_ids": [
+          "con_05_04_homo_sapiens"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_06_stone_age_tools",
+    "chapter_title": "Stone Age : Stone Tools",
+    "concepts": [
+      {
+        "id": "con_06_01_tool_making",
+        "topic": "Tool Making Principles",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Factors determining the choice of tools.",
+          "explanation_text": "Humans create tools based on necessity. The choice of tools depends on four factors: availability of resources, minimal use of time/energy, maximum efficiency, and skill acquired through practice.",
+          "key_points": [
+            "Tools depend on the task.",
+            "Factors: Resources, Time/Energy, Efficiency, Skill.",
+            "Humans used stone, bone, and wood."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Tools",
+          "Efficiency",
+          "Resources",
+          "Skill"
+        ],
+        "question_variations": [
+          "What factors determine the choice of tools?",
+          "Why did humans start making tools?"
+        ],
+        "related_concept_ids": [
+          "con_06_02_old_stone_age"
+        ]
+      },
+      {
+        "id": "con_06_02_old_stone_age",
+        "topic": "Old Stone Age (Palaeolithic Age)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The age of crude stone tools made by percussion technique.",
+          "explanation_text": "In the Old Stone Age, Homo habilis and Homo erectus made tools like choppers and hand-axes using the percussion technique (striking stones). These were used for breaking nuts/bones or scraping meat. Important sites in India include Gangapur and Chirki-Nevasa.",
+          "key_points": [
+            "Technique: Percussion.",
+            "Tools: Choppers, Hand-axe, Cleaver.",
+            "Sites: Gangapur, Chirki-Nevasa (Maharashtra), Hathnora (MP)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Palaeolithic",
+          "Percussion technique",
+          "Chopper",
+          "Hand-axe",
+          "Hathnora"
+        ],
+        "question_variations": [
+          "What is the percussion technique?",
+          "Name an Old Stone Age site in Maharashtra."
+        ],
+        "related_concept_ids": [
+          "con_06_03_middle_stone_age"
+        ]
+      },
+      {
+        "id": "con_06_03_middle_stone_age",
+        "topic": "Middle Stone Age (Mesolithic Age)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The age of microliths and domestication of the dog.",
+          "explanation_text": "In the Mesolithic Age, humans domesticated the dog and started harvesting wild grains. They made smaller, lighter tools called 'microliths' (tiny stone blades) using the fluted core technique. These were fixed to handles to make knives, sickles, and arrows.",
+          "key_points": [
+            "Domestication of dog.",
+            "Tools: Microliths (fluted core technique).",
+            "Sites: Bagor (Rajasthan), Bhimbetka (MP)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Mesolithic",
+          "Microliths",
+          "Fluted core",
+          "Domestication",
+          "Bhimbetka"
+        ],
+        "question_variations": [
+          "What are microliths?",
+          "Which animal was domesticated in the Middle Stone Age?"
+        ],
+        "related_concept_ids": [
+          "con_06_04_new_stone_age"
+        ]
+      },
+      {
+        "id": "con_06_04_new_stone_age",
+        "topic": "New Stone Age (Neolithic Age)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The age of polished stone tools and agriculture.",
+          "explanation_text": "The Neolithic Age is characterized by polished, smooth stone tools. Agriculture and animal husbandry became the main way of life, replacing hunting as the primary food source.",
+          "key_points": [
+            "Tools: Polished stone tools.",
+            "Main activity: Agriculture and Animal Husbandry.",
+            "Shift from hunting to settled life."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Neolithic",
+          "Polished tools",
+          "Agriculture",
+          "Animal husbandry"
+        ],
+        "question_variations": [
+          "What is the main characteristic of the New Stone Age?",
+          "Why is it called the 'New' Stone Age?"
+        ],
+        "related_concept_ids": [
+          "con_06_03_middle_stone_age"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_07_shelters_to_villages",
+    "chapter_title": "From Shelters to Village-settlements",
+    "concepts": [
+      {
+        "id": "con_07_01_shelter",
+        "topic": "Evolution of Shelter",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Transition from caves to huts.",
+          "explanation_text": "Neanderthals lived in caves and used animal hides/fire for warmth. In the Middle Stone Age, Homo sapiens established seasonal camps. In the New Stone Age, permanent village settlements were formed due to agriculture.",
+          "key_points": [
+            "Caves (Neanderthals).",
+            "Seasonal camps (Middle Stone Age).",
+            "Village settlements (New Stone Age)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Shelter",
+          "Caves",
+          "Seasonal camps",
+          "Village settlements"
+        ],
+        "question_variations": [
+          "Where did Neanderthals live?",
+          "Why did humans start building village settlements?"
+        ],
+        "related_concept_ids": [
+          "con_07_02_seasonal_camps"
+        ]
+      },
+      {
+        "id": "con_07_02_seasonal_camps",
+        "topic": "Seasonal Camps",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Temporary settlements based on seasons and food availability.",
+          "explanation_text": "In the Middle Stone Age, changing climate and diet (fishing, small game) allowed humans to roam and set up seasonal camps. They harvested wild grains and gathered seasonal fruits.",
+          "key_points": [
+            "Middle Stone Age.",
+            "Moved according to seasons.",
+            "Activities: Fishing, hunting, gathering."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Seasonal camps",
+          "Middle Stone Age",
+          "Fishing",
+          "Gathering"
+        ],
+        "question_variations": [
+          "Why did Homo sapiens set up seasonal camps?",
+          "What changes in diet occurred in the Middle Stone Age?"
+        ],
+        "related_concept_ids": [
+          "con_07_03_village_settlements"
+        ]
+      },
+      {
+        "id": "con_07_03_village_settlements",
+        "topic": "Village-settlements",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Permanent settlements formed due to agriculture.",
+          "explanation_text": "In the New Stone Age, agriculture required people to stay in one place for long periods. This led to the establishment of permanent village settlements. People lived in wattle-and-daub houses.",
+          "key_points": [
+            "New Stone Age.",
+            "Cause: Agriculture.",
+            "Houses: Wattle and daub.",
+            "Lifestyle: Settled."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Village settlements",
+          "Agriculture",
+          "New Stone Age",
+          "Wattle and daub"
+        ],
+        "question_variations": [
+          "What led to the formation of village settlements?",
+          "What kind of houses were built in the New Stone Age?"
+        ],
+        "related_concept_ids": [
+          "con_07_01_shelter"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_08_settled_life",
+    "chapter_title": "Beginning of Settled Life",
+    "concepts": [
+      {
+        "id": "con_08_01_domestication",
+        "topic": "Domestication of Animals",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Taming wild animals for human use.",
+          "explanation_text": "Domestication involves capturing wild animals, taming them, and obtaining useful materials (milk) or services (labor). The dog was the first domesticated animal, followed by sheep and goats.",
+          "key_points": [
+            "Steps: Capture, Tame, Utilize.",
+            "First animal: Dog (Middle Stone Age).",
+            "Animal Husbandry: Keeping animals for use."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Domestication",
+          "Animal Husbandry",
+          "Dog",
+          "Taming"
+        ],
+        "question_variations": [
+          "What are the steps in domesticating animals?",
+          "Which was the first animal to be domesticated?"
+        ],
+        "related_concept_ids": [
+          "con_08_02_agriculture"
+        ]
+      },
+      {
+        "id": "con_08_02_agriculture",
+        "topic": "Agriculture",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The practice of farming that began 11,000 years ago.",
+          "explanation_text": "Agriculture began around 11,000 years ago in Israel and Iraq. Women are credited with starting cultivation using pointed sticks. Later, ploughs pulled by animals increased production, making agriculture the main source of livelihood.",
+          "key_points": [
+            "Started: ~11,000 years ago.",
+            "Location: Israel and Iraq.",
+            "Role of women: Started cultivation.",
+            "Impact: Settled life, worship of nature."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Agriculture",
+          "Cultivation",
+          "Plough",
+          "Settled life"
+        ],
+        "question_variations": [
+          "Where did agriculture first begin?",
+          "Who is credited with starting cultivation?"
+        ],
+        "related_concept_ids": [
+          "con_08_03_community_life"
+        ]
+      },
+      {
+        "id": "con_08_03_community_life",
+        "topic": "Community Life and Crafts",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Development of crafts, trade, and social systems.",
+          "explanation_text": "Surplus food allowed people to develop special skills and crafts (e.g., pot making). A barter system emerged for trade (exchanging goods). Village settlements developed rules and administration for protection and cooperation.",
+          "key_points": [
+            "Surplus food led to crafts.",
+            "Barter system for trade.",
+            "Salt was an essential trade item.",
+            "Village chiefs managed administration."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Community life",
+          "Barter system",
+          "Crafts",
+          "Salt trade"
+        ],
+        "question_variations": [
+          "What is the barter system?",
+          "How did trade expand in the New Stone Age?"
+        ],
+        "related_concept_ids": [
+          "con_08_04_kinship"
+        ]
+      },
+      {
+        "id": "con_08_04_kinship",
+        "topic": "Kinship and Family",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Social structure based on extended families.",
+          "explanation_text": "Village settlements were often composed of a single clan, making the village an extended family. People were buried within the house or courtyard, symbolizing a continued bond after death.",
+          "key_points": [
+            "Village as extended family.",
+            "Single clan settlements.",
+            "Burial rituals: Burying dead inside houses."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Kinship",
+          "Extended family",
+          "Clan",
+          "Burial"
+        ],
+        "question_variations": [
+          "Why were people buried inside houses in the New Stone Age?",
+          "What was the social structure of a village settlement?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_09_urban_civilization",
+    "chapter_title": "Settled Life and Urban Civilization",
+    "concepts": [
+      {
+        "id": "con_09_01_metals",
+        "topic": "Use of Metals",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The progression from stone to copper and iron ages.",
+          "explanation_text": "Christian Thomsen classified history into Stone, Copper, and Iron Ages. Gold was the first metal used, but Copper was the first useful metal for tools. The Copper Age (Chalcolithic) saw the use of copper alongside stone tools.",
+          "key_points": [
+            "Three Age System: Stone, Copper, Iron.",
+            "First metal used: Gold.",
+            "First useful metal for tools: Copper.",
+            "Bronze: Alloy of Copper and Tin."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Copper Age",
+          "Iron Age",
+          "Gold",
+          "Bronze",
+          "Christian Thomsen"
+        ],
+        "question_variations": [
+          "What was the first metal used by humans?",
+          "What is the Copper Age also known as?"
+        ],
+        "related_concept_ids": [
+          "con_09_02_wheel"
+        ]
+      },
+      {
+        "id": "con_09_02_wheel",
+        "topic": "Invention of the Wheel",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A revolutionary invention first used by potters.",
+          "explanation_text": "The wheel was first used by potters to make pots efficiently. Later, it was used for transport in carts and chariots. This invention boosted production and trade.",
+          "key_points": [
+            "First used by: Potters.",
+            "Impact: Mass production of pots, improved transport.",
+            "Vehicles: Carts, Chariots."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Wheel",
+          "Potter's wheel",
+          "Transport",
+          "Carts"
+        ],
+        "question_variations": [
+          "Who first used the wheel?",
+          "How did the wheel help in the development of civilization?"
+        ],
+        "related_concept_ids": [
+          "con_09_03_cities_script"
+        ]
+      },
+      {
+        "id": "con_09_03_cities_script",
+        "topic": "Rise of Cities and Script",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Growth of trade led to cities and the need for writing.",
+          "explanation_text": "Long-distance trade and large-scale production led to the rise of cities. To keep records of trade, signs and symbols were developed, which eventually evolved into scripts.",
+          "key_points": [
+            "Trade led to urbanization.",
+            "Record keeping led to scripts.",
+            "Cities became centers of culture and administration."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Cities",
+          "Script",
+          "Trade",
+          "Urbanization"
+        ],
+        "question_variations": [
+          "What led to the rise of cities?",
+          "Why did humans develop scripts?"
+        ],
+        "related_concept_ids": [
+          "con_09_04_social_org"
+        ]
+      },
+      {
+        "id": "con_09_04_social_org",
+        "topic": "Social Organization in Ancient Cities",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "The structure of society centered around temples and trade.",
+          "explanation_text": "Ancient cities grew from agricultural roots. Temples became central to social life and administration. The chiefs of temples often became the heads of administration and later, kings.",
+          "key_points": [
+            "Roots in agricultural faith.",
+            "Temples were power centers.",
+            "Temple chiefs became administrators/kings."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Social organization",
+          "Temples",
+          "Administration",
+          "Kings"
+        ],
+        "question_variations": [
+          "What was the role of temples in ancient cities?",
+          "How did the position of King evolve?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "en-IN",
+      "target_class": "05_EVS2",
+      "generated_date": "2025-11-27",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_10_historic_period",
+    "chapter_title": "Historic Period",
+    "concepts": [
+      {
+        "id": "con_10_01_culture",
+        "topic": "Concept of Culture",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The accumulated knowledge, arts, and traditions of a society.",
+          "explanation_text": "Humans change their environment to suit their needs (e.g., cooking food, building houses). The skills, arts, and traditions developed and passed down through generations constitute 'culture'.",
+          "key_points": [
+            "Humans modify environment.",
+            "Knowledge passed generations.",
+            "Includes arts, skills, traditions."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Culture",
+          "Traditions",
+          "Skills",
+          "Arts"
+        ],
+        "question_variations": [
+          "What is culture?",
+          "How is human behavior different from animals regarding the environment?"
+        ],
+        "related_concept_ids": [
+          "con_10_02_riverine_civilizations"
+        ]
+      },
+      {
+        "id": "con_10_02_riverine_civilizations",
+        "topic": "Ancient Riverine Civilizations",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Four major civilizations that developed along river valleys.",
+          "explanation_text": "Around 3000 BC, civilizations flourished in four regions: Mesopotamia (Tigris-Euphrates), Egypt (Nile), China (Huang He), and Harappa (Indus). These are called Riverine Civilizations.",
+          "key_points": [
+            "Mesopotamia: Land between two rivers.",
+            "Egypt: Nile valley.",
+            "China: Huang He valley.",
+            "Harappa: Indus valley."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Riverine Civilizations",
+          "Mesopotamia",
+          "Egypt",
+          "China",
+          "Harappa"
+        ],
+        "question_variations": [
+          "Name the four ancient riverine civilizations.",
+          "Which river is associated with the Egyptian civilization?"
+        ],
+        "related_concept_ids": [
+          "con_10_03_harappa"
+        ]
+      },
+      {
+        "id": "con_10_03_harappa",
+        "topic": "Harappan Civilization",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The earliest civilization on the Indian subcontinent.",
+          "explanation_text": "Also known as the Indus Civilization. Major sites: Harappa, Mohen-jo-daro, Lothal. Known for systematic town planning, drainage systems, standardized bricks, and seals. They worshipped Pashupati and Mother Goddess.",
+          "key_points": [
+            "Earliest Indian civilization.",
+            "Systematic town planning.",
+            "Covered drainage.",
+            "Worship: Pashupati, Mother Goddess."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Harappa",
+          "Indus Civilization",
+          "Town planning",
+          "Bathrooms",
+          "Seals"
+        ],
+        "question_variations": [
+          "What are the features of Harappan town planning?",
+          "Which deities did Harappans worship?"
+        ],
+        "related_concept_ids": [
+          "con_10_04_sports_entertainment"
+        ]
+      },
+      {
+        "id": "con_10_04_sports_entertainment",
+        "topic": "Sports and Entertainment",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Recreational activities in ancient civilizations.",
+          "explanation_text": "Ancient people enjoyed hunting, wrestling, and board games (like Senat in Egypt). Music and dance were essential for festivals. Instruments like the 'Balag' (Mesopotamia) were used.",
+          "key_points": [
+            "Sports: Hunting, Wrestling.",
+            "Games: Board games (Senat).",
+            "Music/Dance: Essential for festivals.",
+            "Instruments: Balag, drums, flutes."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Sports",
+          "Entertainment",
+          "Senat",
+          "Balag",
+          "Music"
+        ],
+        "question_variations": [
+          "What was the game 'Senat'?",
+          "Name a musical instrument from ancient Mesopotamia."
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  }
+]

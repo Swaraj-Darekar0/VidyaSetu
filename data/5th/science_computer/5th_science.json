@@ -1,0 +1,1825 @@
+{
+  "meta": {
+    "pack_version": "1.3",
+    "language_code": "en-IN",
+    "target_class": "05_EVS1",
+    "generated_date": "2024-05-20",
+    "model_source": "Gemini-1.5-Pro"
+  },
+  "chapters": [
+    {
+      "chapter_id": "evs1_05_01_earth_solar_system",
+      "chapter_title": "Our Earth and Our Solar System",
+      "concepts": [
+        {
+          "id": "c_05_01_01",
+          "topic": "Stars and Planets",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Stars are heavenly bodies that twinkle and have their own light. Planets do not twinkle and get light from stars.",
+            "explanation_text": "When we look at the sky, we see many heavenly bodies. Stars twinkle because they have their own light. The Sun is a star. Planets do not have their own light; they reflect light from stars. Planets revolve around stars.",
+            "key_points": [
+              "Stars twinkle; Planets do not.",
+              "The Sun is a star.",
+              "Planets revolve around stars."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "stars",
+            "planets",
+            "twinkle",
+            "sun",
+            "heavenly bodies"
+          ],
+          "question_variations": [
+            "What is the difference between a star and a planet?",
+            "Why does the sun appear big and brilliant?",
+            "Do planets have their own light?"
+          ],
+          "related_concept_ids": ["c_05_01_02"]
+        },
+        {
+          "id": "c_05_01_02",
+          "topic": "The Solar System",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The sun and the planets revolving around it, along with other heavenly bodies, form the solar system.",
+            "explanation_text": "Our earth is a planet that revolves around the sun. There are seven other planets: Mercury, Venus, Mars, Jupiter, Saturn, Uranus, and Neptune. The solar system also includes satellites, dwarf planets, and asteroids.",
+            "key_points": [
+              "Sun is the center.",
+              "8 Planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.",
+              "Includes satellites, dwarf planets, and asteroids."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "solar system",
+            "planets",
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars",
+            "Jupiter",
+            "Saturn"
+          ],
+          "question_variations": [
+            "Name the planets in the solar system.",
+            "Which planet is nearest to the sun?",
+            "What constitutes the solar system?"
+          ],
+          "related_concept_ids": ["c_05_01_03"]
+        },
+        {
+          "id": "c_05_01_03",
+          "topic": "Gravity and Space Missions",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Gravity is the force of attraction between heavenly bodies. Space missions use rockets to overcome earth's gravity.",
+            "explanation_text": "All heavenly bodies exert a force of attraction called gravity. The sun pulls planets, while planets tend to move away, keeping them in orbit. To send objects into space, we use rockets to overcome earth's gravitational force. India's ISRO has launched missions like Chandrayaan and Mangalyaan.",
+            "key_points": [
+              "Gravity keeps planets in orbit.",
+              "Rockets are used for space travel.",
+              "ISRO launched Chandrayaan and Mangalyaan."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "gravity",
+            "space",
+            "rocket",
+            "ISRO",
+            "Chandrayaan",
+            "Mangalyaan"
+          ],
+          "question_variations": [
+            "What is gravity?",
+            "Why do things fall down to earth?",
+            "Name India's space missions to the Moon and Mars."
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_02_motions_of_earth",
+      "chapter_title": "Motions of the Earth",
+      "concepts": [
+        {
+          "id": "c_05_02_01",
+          "topic": "Rotation",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The turning of an object around itself is called rotation.",
+            "explanation_text": "The earth rotates around its axis, which is an imaginary line passing through its center. This rotation causes day and night. One rotation takes 24 hours.",
+            "key_points": [
+              "Rotation causes day and night.",
+              "Earth rotates around its axis.",
+              "One rotation = 24 hours (1 day)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "rotation",
+            "axis",
+            "day",
+            "night",
+            "24 hours"
+          ],
+          "question_variations": [
+            "What is rotation?",
+            "What causes day and night?",
+            "How long does the earth take to complete one rotation?"
+          ],
+          "related_concept_ids": ["c_05_02_02"]
+        },
+        {
+          "id": "c_05_02_02",
+          "topic": "Revolution",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The movement of the earth around the sun is called revolution.",
+            "explanation_text": "The earth revolves around the sun in an orbit. It takes 365 days and 6 hours to complete one revolution, which makes one year. The revolution and the inclined axis of the earth cause seasons.",
+            "key_points": [
+              "Revolution causes seasons.",
+              "Earth revolves around the sun.",
+              "One revolution = 1 year (365 days and 6 hours)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "revolution",
+            "orbit",
+            "year",
+            "seasons",
+            "365 days"
+          ],
+          "question_variations": [
+            "What is revolution?",
+            "How long is one year?",
+            "What causes the cycle of seasons?"
+          ],
+          "related_concept_ids": ["c_05_02_03"]
+        },
+        {
+          "id": "c_05_02_03",
+          "topic": "Phases of the Moon",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "The different shapes of the moon seen from the earth are called phases of the moon.",
+            "explanation_text": "The moon revolves around the earth. We see only the illuminated part of the moon. From Full Moon to New Moon, the bright part decreases (waning). From New Moon to Full Moon, it increases (waxing). A lunar month has about 28-30 days.",
+            "key_points": [
+              "Full Moon (Poornima) to New Moon (Amavasya).",
+              "Waxing and Waning.",
+              "Lunar month = 28-30 days."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "phases of moon",
+            "full moon",
+            "new moon",
+            "lunar month",
+            "tithi"
+          ],
+          "question_variations": [
+            "What are phases of the moon?",
+            "What is a lunar month?",
+            "What is the difference between full moon and new moon?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_03_earth_living_world",
+      "chapter_title": "The Earth and its Living World",
+      "concepts": [
+        {
+          "id": "c_05_03_01",
+          "topic": "Spheres of the Earth",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The earth consists of the lithosphere (land), hydrosphere (water), and atmosphere (air).",
+            "explanation_text": "The earth's surface is made of land and water. The lithosphere is the land part (crust). The hydrosphere includes oceans, rivers, lakes, and groundwater. The atmosphere is the layer of air surrounding the earth. The biosphere includes all living things in these three spheres.",
+            "key_points": [
+              "Lithosphere: Land (1/3rd of earth).",
+              "Hydrosphere: Water (2/3rds of earth).",
+              "Atmosphere: Air.",
+              "Biosphere: Living things."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "lithosphere",
+            "hydrosphere",
+            "atmosphere",
+            "biosphere",
+            "spheres"
+          ],
+          "question_variations": [
+            "What are the spheres of the earth?",
+            "What constitutes the biosphere?",
+            "How much of the earth's surface is water?"
+          ],
+          "related_concept_ids": ["c_05_03_02"]
+        },
+        {
+          "id": "c_05_03_02",
+          "topic": "The Water Cycle",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The continuous process of evaporation, condensation, and rainfall.",
+            "explanation_text": "Water from the earth evaporates due to the sun's heat. Water vapour rises, cools, and condenses to form clouds. When drops become heavy, they fall as rain. Rainwater flows into rivers and seas, and the cycle continues.",
+            "key_points": [
+              "Evaporation: Water to vapour.",
+              "Condensation: Vapour to clouds.",
+              "Precipitation: Rain.",
+              "Continuous cycle."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "water cycle",
+            "evaporation",
+            "condensation",
+            "rain",
+            "clouds"
+          ],
+          "question_variations": [
+            "Explain the water cycle.",
+            "How is rain formed?",
+            "What is condensation?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_04_environmental_balance",
+      "chapter_title": "Environmental Balance",
+      "concepts": [
+        {
+          "id": "c_05_04_01",
+          "topic": "Food Chain and Food Web",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A food chain shows how living things depend on each other for food. A food web is a network of food chains.",
+            "explanation_text": "In nature, one living thing eats another. For example, grass -> grasshopper -> bird. This is a food chain. Many food chains linked together form a food web. Plants are the main support of all food chains.",
+            "key_points": [
+              "Food chain: Sequence of eating and being eaten.",
+              "Food web: Interconnected food chains.",
+              "Plants are the primary producers."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "food chain",
+            "food web",
+            "plants",
+            "dependence",
+            "producers"
+          ],
+          "question_variations": [
+            "What is a food chain?",
+            "Give an example of a food chain.",
+            "What is the main support of every food chain?"
+          ],
+          "related_concept_ids": ["c_05_04_02"]
+        },
+        {
+          "id": "c_05_04_02",
+          "topic": "Environmental Balance",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The maintenance of balance in nature through various cycles and food chains.",
+            "explanation_text": "Nature has cycles like the water cycle, carbon dioxide-oxygen cycle, and food chains. These cycles ensure that living things get food, water, and air continuously. If these cycles are undisturbed, environmental balance is maintained.",
+            "key_points": [
+              "Cycles: Water, Oxygen, Food chains.",
+              "Interactions between living and non-living things.",
+              "Balance is necessary for survival."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "balance",
+            "cycles",
+            "oxygen cycle",
+            "interaction",
+            "nature"
+          ],
+          "question_variations": [
+            "How is environmental balance maintained?",
+            "Why are cycles in nature important?",
+            "What happens if a link in a food chain is lost?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_05_family_values",
+      "chapter_title": "Family Values",
+      "concepts": [
+        {
+          "id": "c_05_05_01",
+          "topic": "Decision Making and Honesty",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Participating in family decisions and being honest strengthens relationships.",
+            "explanation_text": "Everyone in the family should have a say in decisions. This makes everyone feel valued. Honesty is important in private and public life. It builds self-confidence and trust. Dishonesty leads to loss of trust.",
+            "key_points": [
+              "Decision making involves everyone.",
+              "Honesty is our strength.",
+              "Honesty increases efficiency in public life."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "decision making",
+            "honesty",
+            "trust",
+            "family",
+            "values"
+          ],
+          "question_variations": [
+            "Why should everyone participate in decision making?",
+            "What are the benefits of honesty?",
+            "What happens if we are dishonest?"
+          ],
+          "related_concept_ids": ["c_05_05_02"]
+        },
+        {
+          "id": "c_05_05_02",
+          "topic": "Co-operation and Tolerance",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Helping each other and respecting different opinions.",
+            "explanation_text": "Co-operation is needed in families, sports, and public life. Tolerance means respecting opinions different from our own. It helps preserve diversity and maintain peace. Gender equality means treating boys and girls equally.",
+            "key_points": [
+              "Co-operation makes tasks easier.",
+              "Tolerance preserves diversity.",
+              "Gender equality: Boys and girls are equal."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "co-operation",
+            "tolerance",
+            "gender equality",
+            "diversity",
+            "respect"
+          ],
+          "question_variations": [
+            "What is tolerance?",
+            "Why is co-operation important?",
+            "What is gender equality?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_06_rules_for_everyone",
+      "chapter_title": "Rules Are for Everyone",
+      "concepts": [
+        {
+          "id": "c_05_06_01",
+          "topic": "Importance of Rules",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Rules ensure discipline and efficiency in social life.",
+            "explanation_text": "Rules are made to specify duties and responsibilities. They apply equally to everyone. Following rules makes life disciplined and efficient. Disobeying rules leads to punishment without discrimination.",
+            "key_points": [
+              "Rules bring discipline.",
+              "Rules apply to all equally.",
+              "Equality is the basis of rules."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "rules",
+            "discipline",
+            "equality",
+            "justice",
+            "social life"
+          ],
+          "question_variations": [
+            "Why do we need rules?",
+            "What is the basis of rules?",
+            "What happens if we disobey rules?"
+          ],
+          "related_concept_ids": ["c_05_06_02"]
+        },
+        {
+          "id": "c_05_06_02",
+          "topic": "Social Issues and Reform",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Addressing wrong customs like caste discrimination and child labour through laws.",
+            "explanation_text": "Some customs like untouchability, child marriage, and dowry were unjust. Laws were made to ban them. Social reformers like Mahatma Phule, Dr. Ambedkar, and Savitribai Phule fought against these evils. We must protect the environment and follow rules for a better society.",
+            "key_points": [
+              "Unjust customs: Untouchability, Child Marriage, Dowry.",
+              "Laws abolish wrong customs.",
+              "Social reformers fought for change."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "social issues",
+            "customs",
+            "laws",
+            "reformers",
+            "untouchability"
+          ],
+          "question_variations": [
+            "Name some unjust customs banned by law.",
+            "Who fought for women's education?",
+            "Why are laws necessary for the environment?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+        "chapter_id": "evs1_05_07_solve_problems",
+      "chapter_title": "Let us Solve our own Problems",
+      "concepts": [
+        {
+          "id": "c_05_07_01",
+          "topic": "Solving Civic Problems",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Identifying and resolving issues faced in daily life through cooperation.",
+            "explanation_text": "We face problems like garbage disposal, water shortage, and lack of transport in civic life. Turning a blind eye makes them worse. Solving them requires everyone's effort and cooperation. The 'Mahatma Gandhi Dispute-Free Village Mission' helps villages solve disputes peacefully.",
+            "key_points": [
+              "Civic problems: Garbage, water, traffic.",
+              "Solution: Cooperation and timely action.",
+              "Mahatma Gandhi Dispute-Free Village Mission (since 2007)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "civic life",
+            "problems",
+            "disputes",
+            "cooperation",
+            "Mahatma Gandhi Dispute-Free Village Mission"
+          ],
+          "question_variations": [
+            "How can civic problems be solved?",
+            "What is the aim of the Mahatma Gandhi Dispute-Free Village Mission?",
+            "Why should we not turn a blind eye to problems?"
+          ],
+          "related_concept_ids": ["c_05_07_02"]
+        },
+        {
+          "id": "c_05_07_02",
+          "topic": "Cleanliness and Peace",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "The importance of hygiene and a peaceful environment for progress.",
+            "explanation_text": "Sant Gadgebaba and Rashtrasant Tukdoji Maharaj stressed the importance of cleanliness. Villages like Khudawadi cleaned themselves through 'shramdaan'. Peace is a social value that contributes to progress in business, industry, and education.",
+            "key_points": [
+              "Cleanliness through Shramdaan.",
+              "Sant Gadgebaba & Tukdoji Maharaj promoted hygiene.",
+              "Peace is essential for development.",
+              "21 September: International Peace Day."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "cleanliness",
+            "shramdaan",
+            "peace",
+            "Sant Gadgebaba",
+            "Rashtrasant Tukdoji Maharaj"
+          ],
+          "question_variations": [
+            "Who explained the importance of cleanliness through 'Gram Geeta'?",
+            "What is shramdaan?",
+            "When is International Peace Day celebrated?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_08_public_facilities",
+      "chapter_title": "Public Facilities and My School",
+      "concepts": [
+        {
+          "id": "c_05_08_01",
+          "topic": "Public Services",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Services available to everyone, such as water, electricity, and transport.",
+            "explanation_text": "We use public services like water supply, electricity, health services, education, and transport (bus, railway). These are meant for everyone and should be used responsibly. Schools are also a part of this public system.",
+            "key_points": [
+              "Examples: Water, Electricity, Transport, Health, Education.",
+              "Available to all.",
+              "Must be used responsibly."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "public facilities",
+            "services",
+            "transport",
+            "responsibility",
+            "school"
+          ],
+          "question_variations": [
+            "Name three public facilities we use.",
+            "Why should we use public facilities responsibly?",
+            "Is school a public facility?"
+          ],
+          "related_concept_ids": ["c_05_08_02"]
+        },
+        {
+          "id": "c_05_08_02",
+          "topic": "Role of Community in School",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "How parents and the community contribute to the development of a school.",
+            "explanation_text": "Schools develop with the help of the community. Parents, past students, and artists help by providing equipment, building classrooms, or setting up libraries. The 'Right to Education Act' ensures every child aged 6-14 goes to school.",
+            "key_points": [
+              "Community helps build school infrastructure.",
+              "Right to Education Act (Age 6-14).",
+              "Parent Teacher Association (PTA)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "community",
+            "Right to Education",
+            "PTA",
+            "development"
+          ],
+          "question_variations": [
+            "What is the Right to Education Act?",
+            "How does the community help the school?",
+            "What is the age group for the Right to Education?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_09_maps_companions",
+      "chapter_title": "Maps - our Companions",
+      "concepts": [
+        {
+          "id": "c_05_09_01",
+          "topic": "Methods of Showing Landforms",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Techniques used to represent the height and shape of land on a map.",
+            "explanation_text": "Since land is uneven, maps use specific methods to show height: 1. Contour Line Method (lines joining points of equal height), 2. Layer Tinting Method (colours between contour lines), and 3. Digital Elevation Model (using satellite data).",
+            "key_points": [
+              "Contour Line Method: Lines of equal height.",
+              "Layer Tinting Method: Colours indicate height.",
+              "Digital Elevation Model: Most modern, uses satellites."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "maps",
+            "landforms",
+            "contour lines",
+            "layer tinting",
+            "digital elevation"
+          ],
+          "question_variations": [
+            "What are contour lines?",
+            "Which is the most modern method of showing landforms?",
+            "How does the layer tinting method work?"
+          ],
+          "related_concept_ids": ["c_05_09_02"]
+        },
+        {
+          "id": "c_05_09_02",
+          "topic": "Signs and Symbols",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Standard markings used on maps to represent various features.",
+            "explanation_text": "To make maps easy to read, standard signs (geometric shapes) and symbols (miniature drawings) are used. For example, a post office is shown by 'PO', and a fort is shown by a specific symbol. The 'Survey of India' makes topographic maps.",
+            "key_points": [
+              "Signs: Geometric shapes (dots, lines).",
+              "Symbols: Miniature drawings (temples, forts).",
+              "Survey of India: Foremost mapmaking institute."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "signs",
+            "symbols",
+            "Survey of India",
+            "key",
+            "map reading"
+          ],
+          "question_variations": [
+            "What is the difference between signs and symbols in maps?",
+            "What does the symbol 'PO' stand for?",
+            "Which institute makes topographic maps in India?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_10_getting_to_know_india",
+      "chapter_title": "Getting to Know India",
+      "concepts": [
+        {
+          "id": "c_05_10_01",
+          "topic": "Physical Setup of India",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The geographical features of India including mountains, plains, and peninsula.",
+            "explanation_text": "India has the Himalayas in the north and is surrounded by water on three sides in the south (Indian Peninsula). It has forests, plains, deserts, and islands (Lakshadweep, Andaman & Nicobar). The height varies from sea level to over 8000m.",
+            "key_points": [
+              "North: Himalayas.",
+              "South: Indian Peninsula.",
+              "Islands: Lakshadweep (Arabian Sea), Andaman & Nicobar (Bay of Bengal)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "India",
+            "Himalayas",
+            "peninsula",
+            "islands",
+            "Lakshadweep"
+          ],
+          "question_variations": [
+            "What is the Indian Peninsula?",
+            "Where are the Lakshadweep islands located?",
+            "Name the mountain range in the north of India."
+          ],
+          "related_concept_ids": ["c_05_10_02"]
+        },
+        {
+          "id": "c_05_10_02",
+          "topic": "Political Divisions and Diversity",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "India's division into States and Union Territories and its cultural variety.",
+            "explanation_text": "India is a democratic republic with New Delhi as its capital. Rajasthan is the largest state by area, and Goa is the smallest. India has great diversity in language, food, festivals, and crops (Wheat in North, Rice in South/Coast, Jowar in Central India).",
+            "key_points": [
+              "Capital: New Delhi.",
+              "Largest State: Rajasthan; Smallest: Goa.",
+              "Diverse crops: Wheat, Rice, Jowar.",
+              "Diverse culture and languages."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "states",
+            "New Delhi",
+            "Rajasthan",
+            "Goa",
+            "diversity"
+          ],
+          "question_variations": [
+            "Which is the largest state in India?",
+            "What is the capital of India?",
+            "Which crop is primarily grown in the coastal regions?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_11_our_home_environment",
+      "chapter_title": "Our Home and Environment",
+      "concepts": [
+        {
+          "id": "c_05_11_01",
+          "topic": "Types of Houses",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Houses vary based on climate, available materials, and region.",
+            "explanation_text": "People build houses to suit the local climate. In heavy rainfall areas, houses have sloping roofs. In plains, flat-roofed houses are common. Materials used include mud, stone, wood, and bricks. Houses provide shelter and protection.",
+            "key_points": [
+              "Construction depends on climate.",
+              "Materials: Mud, wood, stone, bricks.",
+              "Purpose: Shelter and protection."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "houses",
+            "shelter",
+            "climate",
+            "construction",
+            "materials"
+          ],
+          "question_variations": [
+            "Why do houses in heavy rainfall areas have sloping roofs?",
+            "What are the main uses of a house?",
+            "List materials used for building houses."
+          ],
+          "related_concept_ids": ["c_05_11_02"]
+        },
+        {
+          "id": "c_05_11_02",
+          "topic": "Eco-friendly Houses and Pollution",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Houses that use natural resources minimally and construction activities that cause pollution.",
+            "explanation_text": "Growing population leads to urbanization and pollution. Construction causes air, water, soil, and noise pollution. Eco-friendly houses use natural light, ventilation, rainwater harvesting, and renewable energy (solar/wind) to minimize environmental harm.",
+            "key_points": [
+              "Urbanization causes pollution.",
+              "Eco-friendly features: Natural light, solar energy, recycling water.",
+              "Construction uses energy and natural resources."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "eco-friendly",
+            "pollution",
+            "urbanization",
+            "solar energy",
+            "recycling"
+          ],
+          "question_variations": [
+            "What are the characteristics of an eco-friendly house?",
+            "How does construction activity cause pollution?",
+            "Why should we use non-exhaustible sources of energy?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_12_food_for_all",
+      "chapter_title": "Food for All",
+      "concepts": [
+        {
+          "id": "c_05_12_01",
+          "topic": "Agricultural Seasons",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The two main farming seasons in India: Kharif and Rabi.",
+            "explanation_text": "India has two main agricultural seasons. The season from June to October is 'Kharif', watered by rain. The season from October to March is 'Rabi', watered by soaked soil, retreating monsoons, and dew. Summer crops are grown from March to June.",
+            "key_points": [
+              "Kharif: June to October (Rainy).",
+              "Rabi: October to March (Winter).",
+              "Summer crops: March to June."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "agriculture",
+            "seasons",
+            "Kharif",
+            "Rabi",
+            "crops"
+          ],
+          "question_variations": [
+            "What is the Kharif season?",
+            "When are Rabi crops grown?",
+            "Name the two main agricultural seasons in India."
+          ],
+          "related_concept_ids": ["c_05_12_02"]
+        },
+        {
+          "id": "c_05_12_02",
+          "topic": "Improved Agriculture",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Modern methods like improved seeds, irrigation, and fertilizers to increase production.",
+            "explanation_text": "To feed the growing population, we use improved seeds (higher yield, pest resistant) and modern irrigation (drip, sprinkle). Fertilizers (natural manures and chemical fertilizers) are used, but overuse can harm soil. The 'Green Revolution' led by Dr. M.S. Swaminathan increased food grain production.",
+            "key_points": [
+              "Improved seeds give higher yield.",
+              "Irrigation: Drip and Sprinkle.",
+              "Fertilizers: Natural and Chemical.",
+              "Green Revolution: Dr. M.S. Swaminathan."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "improved seeds",
+            "irrigation",
+            "fertilizers",
+            "Green Revolution",
+            "Dr. M.S. Swaminathan"
+          ],
+          "question_variations": [
+            "What is the Green Revolution?",
+            "Differentiate between drip and sprinkle irrigation.",
+            "What are the disadvantages of excessive chemical fertilizers?"
+          ],
+          "related_concept_ids": ["c_05_12_03"]
+        },
+        {
+          "id": "c_05_12_03",
+          "topic": "Food Storage and Security",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Protecting harvested crops and ensuring food availability for everyone.",
+            "explanation_text": "Harvested grain must be dried and stored safely to prevent damage by pests (rats, insects) and fungus. Neem leaves and chemicals are used for protection. Food Security Laws ensure everyone gets sufficient food. Organic farming uses natural materials and is eco-friendly.",
+            "key_points": [
+              "Storage: Dry and airy places.",
+              "Protection: Neem leaves, chemicals.",
+              "Food Security Law (2013).",
+              "Organic Farming: Uses natural manure."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "food storage",
+            "pests",
+            "Food Security Law",
+            "organic farming",
+            "neem"
+          ],
+          "question_variations": [
+            "How is grain stored safely?",
+            "What is organic farming?",
+            "What is the purpose of the Food Security Law?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+        "chapter_id": "evs1_05_13_preserving_food",
+      "chapter_title": "Methods of Preserving Food",
+      "concepts": [
+        {
+          "id": "c_05_13_01",
+          "topic": "Food Spoilage",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The process where food becomes unfit for eating due to the growth of micro-organisms.",
+            "explanation_text": "Micro-organisms are present in air and water. If food gets moisture, warmth, and air, these micro-organisms (like fungus) grow rapidly, spoiling the food. Spoiled food can cause stomachache, diarrhoea, and vomiting.",
+            "key_points": [
+              "Caused by micro-organisms (fungus).",
+              "Requires warmth, air, and moisture.",
+              "Spoiled food is harmful to health."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "spoilage",
+            "micro-organisms",
+            "fungus",
+            "warmth",
+            "moisture"
+          ],
+          "question_variations": [
+            "Why does food get spoiled?",
+            "What conditions are needed for fungus to grow?",
+            "What happens if we eat spoiled food?"
+          ],
+          "related_concept_ids": ["c_05_13_02"]
+        },
+        {
+          "id": "c_05_13_02",
+          "topic": "Preservation Methods",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Techniques used to prevent food from spoiling and store it for a long time.",
+            "explanation_text": "To preserve food, we must destroy micro-organisms or prevent their growth. Methods include Drying (removing water), Cooling (refrigerator), Boiling (killing germs), and placing in Airtight cans (preventing air/water entry).",
+            "key_points": [
+              "Drying: Papads, grains.",
+              "Cooling: Milk, vegetables in fridge.",
+              "Boiling: Milk, curries.",
+              "Airtight cans: Jams."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "preservation",
+            "drying",
+            "cooling",
+            "boiling",
+            "airtight"
+          ],
+          "question_variations": [
+            "Name different methods of food preservation.",
+            "Why do we boil milk?",
+            "How does drying help preserve food?"
+          ],
+          "related_concept_ids": ["c_05_13_03"]
+        },
+        {
+          "id": "c_05_13_03",
+          "topic": "Preservatives",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Substances added to food to keep it fresh for a longer time.",
+            "explanation_text": "Certain substances are added to jams and pickles to preserve them. These are called preservatives. Examples include sugar, salt, asafoetida (hing), mustard, oil, and vinegar.",
+            "key_points": [
+              "Natural preservatives: Salt, Sugar, Oil.",
+              "Used in pickles and jams.",
+              "Prevent microbial growth."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "preservatives",
+            "salt",
+            "sugar",
+            "vinegar",
+            "oil"
+          ],
+          "question_variations": [
+            "What are preservatives?",
+            "Give examples of natural preservatives.",
+            "Why is salt added to pickles?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_14_transport",
+      "chapter_title": "Transport",
+      "concepts": [
+        {
+          "id": "c_05_14_01",
+          "topic": "Advantages of Transport",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Benefits gained from modern modes of travel and goods transportation.",
+            "explanation_text": "Modern transport saves time and effort. It facilitates trade and connects different parts of the world. Goods can be transported easily on a global level, and facilities like tourism and health have become speedier.",
+            "key_points": [
+              "Saves time and effort.",
+              "Boosts trade and tourism.",
+              "Connects the world."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "transport",
+            "trade",
+            "speed",
+            "connectivity",
+            "tourism"
+          ],
+          "question_variations": [
+            "How has transport helped trade?",
+            "What are the advantages of modern transport?",
+            "Does transport save time?"
+          ],
+          "related_concept_ids": ["c_05_14_02"]
+        },
+        {
+          "id": "c_05_14_02",
+          "topic": "Pollution due to Transport",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Harmful effects of vehicles on the environment and health.",
+            "explanation_text": "Burning fuel in vehicles releases poisonous gases (carbon monoxide, nitrogen dioxide) and smoke, causing air pollution. This leads to lung and eye disorders. Constant traffic noise causes noise pollution, leading to irritability and restlessness.",
+            "key_points": [
+              "Air Pollution: Smoke, poisonous gases.",
+              "Noise Pollution: Loud sounds.",
+              "Health effects: Lung disorders, eye burning, restlessness.",
+              "Harms plants and animals."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "pollution",
+            "smoke",
+            "noise",
+            "health",
+            "carbon monoxide"
+          ],
+          "question_variations": [
+            "What are the harmful effects of transport?",
+            "Which gases are released by vehicles?",
+            "How does traffic affect plants?"
+          ],
+          "related_concept_ids": ["c_05_14_03"]
+        },
+        {
+          "id": "c_05_14_03",
+          "topic": "Remedies for Pollution",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Steps to reduce pollution caused by vehicles.",
+            "explanation_text": "To reduce pollution, we should use public transport, walk or cycle for short distances, use fuels like CNG or LPG, and plant trees (like banyan, peepul, neem) that adapt to the local environment.",
+            "key_points": [
+              "Use public transport.",
+              "Walk or cycle.",
+              "Use CNG/LPG.",
+              "Plant indigenous trees."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "remedies",
+            "CNG",
+            "LPG",
+            "public transport",
+            "cycling"
+          ],
+          "question_variations": [
+            "How can we reduce pollution caused by vehicles?",
+            "Which fuels cause less pollution?",
+            "Why should we use public transport?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_15_communication_mass_media",
+      "chapter_title": "Communication and Mass Media",
+      "concepts": [
+        {
+          "id": "c_05_15_01",
+          "topic": "Modern Communication",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Exchange of information using technology like satellites.",
+            "explanation_text": "Artificial satellites (like INSAT) are launched into space to help with communication. They allow live telecasts of events, mobile phone conversations, and mass addresses by leaders via TV and radio.",
+            "key_points": [
+              "Uses Artificial Satellites (INSAT).",
+              "Enables mobile phones and TV.",
+              "Fast delivery of signals."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "communication",
+            "satellite",
+            "INSAT",
+            "mobile",
+            "telecast"
+          ],
+          "question_variations": [
+            "What makes communication on mobile phones possible?",
+            "What are Indian National Satellites called?",
+            "How do we watch live events from other countries?"
+          ],
+          "related_concept_ids": ["c_05_15_02"]
+        },
+        {
+          "id": "c_05_15_02",
+          "topic": "Advantages and Disadvantages of Media",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "The benefits and harmful effects of mass media devices.",
+            "explanation_text": "Advantages: Easy contact, awareness about health/disasters, education, and entertainment. Disadvantages: Eye/ear disorders from excessive use, neglect of outdoor sports, and potential misuse of information to disturb peace.",
+            "key_points": [
+              "Pros: Awareness, Education, Connectivity.",
+              "Cons: Health issues, Isolation, Neglect of sports.",
+              "Need for sensible use."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "advantages",
+            "disadvantages",
+            "awareness",
+            "addiction",
+            "health"
+          ],
+          "question_variations": [
+            "What are the advantages of mass media?",
+            "How does excessive TV watching affect health?",
+            "Why should we use telecommunication devices sensibly?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_16_water",
+      "chapter_title": "Water",
+      "concepts": [
+        {
+          "id": "c_05_16_01",
+          "topic": "Water Pollution",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Contamination of water bodies by harmful substances.",
+            "explanation_text": "Water becomes polluted when waste water from houses and factories is let into rivers without processing. This water can contain poisonous substances or disease-causing germs, making it unsafe for drinking and harmful to aquatic life.",
+            "key_points": [
+              "Causes: Sewage, Industrial waste.",
+              "Effects: Disease spread, harm to aquatic life.",
+              "Polluted water is unsafe."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "pollution",
+            "sewage",
+            "industrial waste",
+            "harmful",
+            "aquatic life"
+          ],
+          "question_variations": [
+            "How does water get polluted?",
+            "Why is waste water from factories harmful?",
+            "What happens if we drink polluted water?"
+          ],
+          "related_concept_ids": ["c_05_16_02"]
+        },
+        {
+          "id": "c_05_16_02",
+          "topic": "Water Purification",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Processes used to make water clean and safe for drinking.",
+            "explanation_text": "Water works use several processes: Settling (allowing mud to sink, using alum), Filtration, Oxygenation (mixing air), and Chlorination (killing germs). This ensures the water supplied to homes is potable.",
+            "key_points": [
+              "Settling: Removing sediment.",
+              "Filtration: Removing particles.",
+              "Oxygenation: Adding oxygen.",
+              "Chlorination: Killing germs."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "purification",
+            "settling",
+            "filtration",
+            "chlorination",
+            "oxygenation"
+          ],
+          "question_variations": [
+            "What are the steps in water purification?",
+            "Why is chlorine mixed in water?",
+            "What is oxygenation?"
+          ],
+          "related_concept_ids": ["c_05_16_03"]
+        },
+        {
+          "id": "c_05_16_03",
+          "topic": "Water Management",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Steps taken to ensure water availability throughout the year.",
+            "explanation_text": "Since rain falls only for a few months, we must store water. Methods include building dams, bunds, and digging wells. Stopping rainwater helps it percolate into the soil (groundwater), which is vital. Using water judiciously is key.",
+            "key_points": [
+              "Rainwater harvesting.",
+              "Building dams and bunds.",
+              "Groundwater recharge.",
+              "Judicious use."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "water management",
+            "dams",
+            "groundwater",
+            "rainwater",
+            "famine"
+          ],
+          "question_variations": [
+            "What is water management?",
+            "Why should we stop rainwater?",
+            "What is a famine?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_17_clothes",
+      "chapter_title": "Clothes - our Necessity",
+      "concepts": [
+        {
+          "id": "c_05_17_01",
+          "topic": "Need vs Greed for Clothes",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Distinguishing between necessary clothing and the desire for more.",
+            "explanation_text": "Clothes are a necessity for protection, but wanting many clothes just for fashion or desire is greed. We should use things only as we need them to avoid wasting resources.",
+            "key_points": [
+              "Necessity: Protection.",
+              "Greed: Wanting unnecessary items.",
+              "Avoid wastage."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "necessity",
+            "greed",
+            "desire",
+            "clothes",
+            "resources"
+          ],
+          "question_variations": [
+            "What is the difference between need and greed for clothes?",
+            "Why should we not buy unnecessary clothes?"
+          ],
+          "related_concept_ids": ["c_05_17_02"]
+        },
+        {
+          "id": "c_05_17_02",
+          "topic": "Diversity in Clothing",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Variety in clothes based on climate and cultural traditions.",
+            "explanation_text": "Clothing varies across different regions of India due to climate (e.g., wool in Kashmir, cotton in hot areas) and cultural traditions. Maharashtra is known for Paithani and Himroo shawls.",
+            "key_points": [
+              "Climate influences clothing.",
+              "Cultural diversity.",
+              "Examples: Paithani (Maharashtra), Kantha (West Bengal)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "diversity",
+            "climate",
+            "tradition",
+            "Paithani",
+            "Himroo"
+          ],
+          "question_variations": [
+            "Why is there diversity in clothing in India?",
+            "Name a famous textile from Maharashtra.",
+            "How does climate affect clothing choices?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_18_environment_and_us",
+      "chapter_title": "The Environment and Us",
+      "concepts": [
+        {
+          "id": "c_05_18_01",
+          "topic": "Deforestation",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Cutting down forests to make space for human needs.",
+            "explanation_text": "As the population grows, forests are cut down for agriculture, housing, and roads. This destroys the habitat of animals and plants, leading to a decrease in biodiversity.",
+            "key_points": [
+              "Caused by population growth.",
+              "Loss of habitat for wildlife.",
+              "Reduces biodiversity."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "deforestation",
+            "population",
+            "habitat",
+            "biodiversity"
+          ],
+          "question_variations": [
+            "What is deforestation?",
+            "Why are forests being cut down?",
+            "How does deforestation affect animals?"
+          ],
+          "related_concept_ids": ["c_05_18_02"]
+        },
+        {
+          "id": "c_05_18_02",
+          "topic": "Pollution",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Contamination of the environment (air, water, soil) due to human activities.",
+            "explanation_text": "Waste water from factories pollutes water bodies. Smoke from vehicles and industries causes air pollution. Chemical fertilizers pollute the soil. This harms living things and can lead to extinction.",
+            "key_points": [
+              "Types: Air, Water, Soil.",
+              "Causes: Factories, Vehicles, Chemicals.",
+              "Effect: Harm to living things."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "pollution",
+            "waste water",
+            "smoke",
+            "fertilizers",
+            "extinction"
+          ],
+          "question_variations": [
+            "What are the causes of pollution?",
+            "How does soil get polluted?",
+            "What is the effect of pollution on living things?"
+          ],
+          "related_concept_ids": ["c_05_18_03"]
+        },
+        {
+          "id": "c_05_18_03",
+          "topic": "Biodiversity Conservation",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Efforts to protect plants and animals to maintain environmental balance.",
+            "explanation_text": "To protect nature, areas are reserved as National Parks (e.g., Kaziranga, Tadoba) and Sanctuaries (e.g., Radhanagari for bisons). Devrais are sacred groves preserved by society. These efforts help prevent the extinction of species.",
+            "key_points": [
+              "National Parks and Sanctuaries.",
+              "Devrais (Sacred Groves).",
+              "Maintains environmental balance."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "conservation",
+            "biodiversity",
+            "sanctuary",
+            "national park",
+            "Devrai"
+          ],
+          "question_variations": [
+            "What is a sanctuary?",
+            "What is a Devrai?",
+            "Name a National Park in Maharashtra."
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+        "chapter_id": "evs1_05_19_constituents_of_food",
+      "chapter_title": "Constituents of Food",
+      "concepts": [
+        {
+          "id": "c_05_19_01",
+          "topic": "Carbohydrates",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Energy-giving food constituents including starch, sugars, and fibre.",
+            "explanation_text": "Carbohydrates are the main source of energy for our body. They include Starch (found in rice, wheat, potato - turns blackish blue with iodine), Sugars (found in fruits, jaggery - give sweet taste), and Fibre (found in bran, skins of fruits - helps digestion).",
+            "key_points": [
+              "Starch: Main energy source (cereals, tubers).",
+              "Sugars: Sweet taste, quick energy.",
+              "Fibre (Roughage): Helps in excretion, prevents constipation."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "carbohydrates",
+            "starch",
+            "sugar",
+            "fibre",
+            "energy"
+          ],
+          "question_variations": [
+            "What are the three types of carbohydrates?",
+            "Why is fibre important in our diet?",
+            "How can we test for the presence of starch?"
+          ],
+          "related_concept_ids": ["c_05_19_02", "c_05_19_03"]
+        },
+        {
+          "id": "c_05_19_02",
+          "topic": "Fats and Proteins",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Fats provide stored energy; Proteins are building blocks for growth and repair.",
+            "explanation_text": "Fats (oil, ghee, butter) give twice as much energy as carbohydrates and keep the body warm. Proteins (pulses, milk, meat, eggs) are needed for the growth of the body and to repair wear and tear.",
+            "key_points": [
+              "Fats: Stored energy, thermal insulation.",
+              "Proteins: Body building, repair.",
+              "Sources: Fats (Oil/Ghee), Proteins (Daals/Milk)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "fats",
+            "proteins",
+            "body building",
+            "growth",
+            "repair"
+          ],
+          "question_variations": [
+            "Which food constituent gives more energy than carbohydrates?",
+            "Why do growing children need proteins?",
+            "Name two sources of fats."
+          ],
+          "related_concept_ids": ["c_05_19_01"]
+        },
+        {
+          "id": "c_05_19_03",
+          "topic": "Vitamins and Minerals",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Micronutrients required in small quantities for resistance to disease and other body functions.",
+            "explanation_text": "Vitamins (A, B, C, D, E, K) and Minerals (Iron, Calcium) are needed in small amounts but are essential. Deficiency causes diseases (e.g., lack of Iron causes Anaemia, lack of Vitamin A causes night blindness). They are found in fruits and vegetables.",
+            "key_points": [
+              "Micronutrients: Needed in small quantities.",
+              "Function: Disease resistance, body processes.",
+              "Deficiency leads to disorders (Anaemia, Goitre, etc.)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "vitamins",
+            "minerals",
+            "deficiency",
+            "anaemia",
+            "disease resistance"
+          ],
+          "question_variations": [
+            "What is a balanced diet?",
+            "What causes anaemia?",
+            "Why should we eat fruits and vegetables?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_20_our_emotional_world",
+      "chapter_title": "Our Emotional World",
+      "concepts": [
+        {
+          "id": "c_05_20_01",
+          "topic": "Coping with Emotions",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Managing and balancing thoughts and emotions for a healthy personality.",
+            "explanation_text": "Human nature includes various emotions like anger, joy, sorrow, and jealousy. We must learn to control and express them reasonably. Coping with emotions helps develop a balanced personality and improves relationships.",
+            "key_points": [
+              "Emotions are natural.",
+              "Balance between thoughts and emotions is key.",
+              "Uncontrolled anger has harmful effects."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "emotions",
+            "coping",
+            "personality",
+            "anger",
+            "balance"
+          ],
+          "question_variations": [
+            "What is meant by coping with emotions?",
+            "What are the harmful effects of anger?",
+            "Why should we know our flaws?"
+          ],
+          "related_concept_ids": ["c_05_20_02"]
+        },
+        {
+          "id": "c_05_20_02",
+          "topic": "Awareness of Flaws",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Recognizing one's own weaknesses to improve oneself.",
+            "explanation_text": "Everyone has abilities and flaws. We should understand what we can do and what we cannot. We can improve our flaws by accepting them and taking help from friends and family. This leads to a better personality.",
+            "key_points": [
+              "Know your talents and flaws.",
+              "Accepting flaws is the first step to correction.",
+              "Friends can help us improve."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "flaws",
+            "talents",
+            "improvement",
+            "personality"
+          ],
+          "question_variations": [
+            "How can we correct our flaws?",
+            "Why is it important to know our flaws?",
+            "Can we change our nature?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_21_internal_organs",
+      "chapter_title": "Busy at Work - our Internal Organs",
+      "concepts": [
+        {
+          "id": "c_05_21_01",
+          "topic": "Respiration and Smoking",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The process of breathing involving the nose, trachea, lungs, and diaphragm.",
+            "explanation_text": "Respiration involves inhaling oxygen and exhaling carbon dioxide. The diaphragm moves down to pull air in and up to push air out. Exchange of gases happens in the alveoli. Smoking damages the lungs and can cause cancer.",
+            "key_points": [
+              "Organs: Nose, Trachea, Lungs, Diaphragm.",
+              "Gas exchange occurs in Alveoli.",
+              "Smoking causes lung cancer."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "respiration",
+            "lungs",
+            "diaphragm",
+            "alveoli",
+            "smoking"
+          ],
+          "question_variations": [
+            "What is the function of the diaphragm?",
+            "Where does the exchange of gases take place?",
+            "What are the ill effects of smoking?"
+          ],
+          "related_concept_ids": ["c_05_21_02"]
+        },
+        {
+          "id": "c_05_21_02",
+          "topic": "Digestion",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The process of converting food into soluble substances for the body.",
+            "explanation_text": "Digestion starts in the mouth (saliva makes bolus). Food moves through the oesophagus to the stomach (churning), then to the small intestine (absorption of nutrients), and finally the large intestine (water absorption). Waste is expelled via the anus.",
+            "key_points": [
+              "Alimentary canal: Mouth to Anus.",
+              "Stomach churns food.",
+              "Small intestine absorbs nutrients.",
+              "Glands secrete digestive juices."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "digestion",
+            "alimentary canal",
+            "stomach",
+            "intestine",
+            "saliva"
+          ],
+          "question_variations": [
+            "What is the alimentary canal?",
+            "What happens to food in the stomach?",
+            "Which organ absorbs water from undigested food?"
+          ],
+          "related_concept_ids": ["c_05_21_03"]
+        },
+        {
+          "id": "c_05_21_03",
+          "topic": "Circulation and Nervous System",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Circulation moves blood throughout the body; the Nervous System coordinates all functions.",
+            "explanation_text": "The heart pumps blood carrying oxygen and nutrients to all body parts (Circulation). The Brain and network of nerves control and coordinate all bodily functions (Nervous System). Alcohol affects the nervous system and liver.",
+            "key_points": [
+              "Heart pumps blood.",
+              "Brain coordinates functions.",
+              "Alcohol harms the nervous system and liver."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "circulation",
+            "heart",
+            "nervous system",
+            "brain",
+            "coordination"
+          ],
+          "question_variations": [
+            "What is blood circulation?",
+            "Which system coordinates all body functions?",
+            "Why should we not drink alcohol?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_22_growth_development",
+      "chapter_title": "Growth and Personality Development",
+      "concepts": [
+        {
+          "id": "c_05_22_01",
+          "topic": "Growth and Skills",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Physical growth involves height and weight increase; development involves learning skills.",
+            "explanation_text": "Humans grow in height and weight until age 18. As we grow, we learn skills (like walking, writing) through practice. Efficiency increases with practice. Development is the progress an individual makes by learning skills.",
+            "key_points": [
+              "Growth: Physical (Height/Weight).",
+              "Development: Learning skills.",
+              "Practice leads to efficiency."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "growth",
+            "development",
+            "skills",
+            "efficiency",
+            "practice"
+          ],
+          "question_variations": [
+            "What is meant by physical growth?",
+            "How do we acquire skills?",
+            "Until what age does physical growth generally continue?"
+          ],
+          "related_concept_ids": ["c_05_22_02"]
+        },
+        {
+          "id": "c_05_22_02",
+          "topic": "Heredity and Personality",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Heredity is inheriting traits from parents; Personality is the sum of physical and mental traits.",
+            "explanation_text": "We look like our parents due to heredity. However, our personality develops through our interests, efforts, and good values. Every person has a unique personality. Good diet and exercise support growth.",
+            "key_points": [
+              "Heredity: Traits from family.",
+              "Personality: Unique to everyone.",
+              "Influenced by diet, exercise, and values."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "heredity",
+            "personality",
+            "traits",
+            "values",
+            "unique"
+          ],
+          "question_variations": [
+            "What is heredity?",
+            "How does personality develop?",
+            "Why is every person unique?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_23_infectious_diseases",
+      "chapter_title": "Infectious Diseases and how to Prevent them",
+      "concepts": [
+        {
+          "id": "c_05_23_01",
+          "topic": "Spread of Disease",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Diseases caused by micro-organisms that spread from person to person.",
+            "explanation_text": "Infectious diseases are caused by germs. They spread through Air (Flu, TB), Water (Cholera, Typhoid), Food (Gastro), Insects (Malaria, Dengue), or Direct Contact (Ringworm, Scabies). An epidemic occurs when many people get the same disease at once.",
+            "key_points": [
+              "Caused by germs/micro-organisms.",
+              "Spread via Air, Water, Food, Insects, Contact.",
+              "Epidemic: Widespread disease."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "infectious disease",
+            "germs",
+            "epidemic",
+            "spread",
+            "micro-organisms"
+          ],
+          "question_variations": [
+            "What are infectious diseases?",
+            "Name a disease spread by water.",
+            "What is an epidemic?"
+          ],
+          "related_concept_ids": ["c_05_23_02"]
+        },
+        {
+          "id": "c_05_23_02",
+          "topic": "Prevention and Vaccination",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Methods to stop the spread of diseases, including hygiene and vaccines.",
+            "explanation_text": "Prevention includes boiling water, covering food, using masks, and stopping mosquito breeding. Vaccination builds resistance in the body against specific diseases (e.g., Polio, BCG). Public health centers provide these services.",
+            "key_points": [
+              "Hygiene prevents spread.",
+              "Vaccination builds resistance.",
+              "Public health facilities help control diseases."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "prevention",
+            "vaccination",
+            "hygiene",
+            "resistance",
+            "public health"
+          ],
+          "question_variations": [
+            "What is vaccination?",
+            "How can we prevent malaria?",
+            "Why should we cover our mouth when coughing?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_24_substances_objects_energy",
+      "chapter_title": "Substances, Objects and Energy",
+      "concepts": [
+        {
+          "id": "c_05_24_01",
+          "topic": "Substances and Particles",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "All substances are made of very tiny particles.",
+            "explanation_text": "Everything around us is made of minute particles. Kanaad Maharshi proposed this theory. Substances exist in three states: Solid, Liquid, and Gas. Objects have definite shapes and are made of substances.",
+            "key_points": [
+              "Substances made of particles.",
+              "States: Solid, Liquid, Gas.",
+              "Kanaad Maharshi named particles 'peelav'."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "substances",
+            "particles",
+            "states of matter",
+            "Kanaad Maharshi",
+            "solid"
+          ],
+          "question_variations": [
+            "What are substances made of?",
+            "Who was Kanaad Maharshi?",
+            "What are the three states of substances?"
+          ],
+          "related_concept_ids": ["c_05_24_02"]
+        },
+        {
+          "id": "c_05_24_02",
+          "topic": "Energy",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The capacity to do work.",
+            "explanation_text": "Energy is required to do work. Forms of energy include Heat, Light, Sound, Electricity, and Kinetic Energy (motion). Sources include fuels (coal, petrol) and renewable sources like the Sun, Wind, and Water.",
+            "key_points": [
+              "Definition: Capacity to do work.",
+              "Forms: Heat, Light, Kinetic, etc.",
+              "Sources: Fuels, Solar, Wind."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "energy",
+            "work",
+            "kinetic energy",
+            "fuel",
+            "solar energy"
+          ],
+          "question_variations": [
+            "What is energy?",
+            "Name different forms of energy.",
+            "Why should we use solar energy?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "evs1_05_25_community_health_hygiene",
+      "chapter_title": "Community Health and Hygiene",
+      "concepts": [
+        {
+          "id": "c_05_25_01",
+          "topic": "Community Health",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The health and well-being of the entire society.",
+            "explanation_text": "Community health is important for the progress of a country. It is threatened by pollution, squalor, and epidemics. Maintaining cleanliness and hygiene is essential. Everyone should have access to nutritious food, safe water, and medical facilities.",
+            "key_points": [
+              "Health of society.",
+              "Threats: Pollution, Addiction, Uncleanliness.",
+              "Cleanliness is key to health."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "community health",
+            "hygiene",
+            "pollution",
+            "cleanliness",
+            "well-being"
+          ],
+          "question_variations": [
+            "What are the threats to community health?",
+            "Why is community health important?",
+            "How can we maintain community hygiene?"
+          ],
+          "related_concept_ids": ["c_05_25_02"]
+        },
+        {
+          "id": "c_05_25_02",
+          "topic": "Addiction",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Harmful dependence on substances like tobacco, alcohol, or drugs.",
+            "explanation_text": "Addiction to tobacco (smoking/chewing), alcohol, or drugs destroys health and families. Tobacco causes cancer. Alcohol affects the liver and nervous system. We must stay away from these bad habits and live a wholesome life.",
+            "key_points": [
+              "Harmful substances: Tobacco, Alcohol, Drugs.",
+              "Effects: Cancer, Organ failure, Family ruin.",
+              "Prevention: Say no to bad habits."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "addiction",
+            "tobacco",
+            "alcohol",
+            "cancer",
+            "harmful"
+          ],
+          "question_variations": [
+            "What are the ill effects of chewing tobacco?",
+            "How does alcoholism affect the body?",
+            "Why should we avoid addiction?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    }
+  ]
+}

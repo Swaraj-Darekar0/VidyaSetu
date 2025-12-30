@@ -1,0 +1,959 @@
+{
+  "meta": {
+    "pack_version": "1.3",
+    "language_code": "en-IN",
+    "target_class": "5_SSC",
+    "subject": "English",
+    "generated_date": "2025-11-27",
+    "model_source": "Gemini-1.5-Pro"
+  },
+  "chapters": [
+    {
+      "chapter_id": "eng_05_01_bird_thought",
+      "chapter_title": "What a Bird Thought",
+      "concepts": [
+        {
+          "id": "c_05_01_01",
+          "topic": "Perspective and Growth",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "How the world looks different as one grows and explores.",
+            "explanation_text": "The poem describes the world from a bird's point of view at different stages of its life. First, the world is a small blue shell (egg), then a nest of straw, then the leaves of a tree, and finally, the vast blue sky. It teaches us that our understanding of the world changes as we grow.",
+            "key_points": [
+              "Stage 1: Pale-blue shell (Egg).",
+              "Stage 2: Straw nest.",
+              "Stage 3: Green leaves.",
+              "Stage 4: The open blue sky."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["bird", "nest", "shell", "straw", "world", "perspective"],
+          "question_variations": [
+            "What did the bird think the world was made of initially?",
+            "Describe the bird's first house.",
+            "What did the bird see when it flew beyond the tree?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_02_daydreams",
+      "chapter_title": "Daydreams",
+      "concepts": [
+        {
+          "id": "c_05_02_01",
+          "topic": "Daydreaming vs. Reality",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The difference between idle imagination and practical reality.",
+            "explanation_text": "A couple argues over imaginary cows and milk. The husband wants to sell milk, while the wife wants to send it to her sister. A passerby, Gopal Bhand, uses a stick to 'drive away' imaginary cows from his imaginary field to show them how foolish they are being.",
+            "key_points": [
+              "Idle talk leads to arguments.",
+              "Gopal Bhand teaches a lesson using wit.",
+              "Do not fight over things you do not possess."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["daydream", "cows", "milk", "gopal bhand", "argument", "imagination"],
+          "question_variations": [
+            "Why were the husband and wife arguing?",
+            "What lesson did Gopal Bhand teach the couple?",
+            "What is the difference between a dream and a daydream?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_03_good_listener",
+      "chapter_title": "Be a Good Listener",
+      "concepts": [
+        {
+          "id": "c_05_03_01",
+          "topic": "Communication Skills",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Qualities required to listen effectively and understand others.",
+            "explanation_text": "Listening is an active process. A good listener looks at the speaker, pays attention, guesses meanings of new words from context, and asks polite questions for clarification. They do not interrupt rudely.",
+            "key_points": [
+              "Look at the speaker.",
+              "Guess meanings from context.",
+              "Ask polite questions.",
+              "Do not interrupt abruptly."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["listening", "communication", "polite", "speaker", "attention"],
+          "question_variations": [
+            "What are the characteristics of a good listener?",
+            "What should you do if you don't understand the speaker?",
+            "Why is guessing from context important?"
+          ],
+          "related_concept_ids": ["eng_05_11_good_speaker"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_04_strawberries",
+      "chapter_title": "Strawberries",
+      "concepts": [
+        {
+          "id": "c_05_04_01",
+          "topic": "Comparison of Tastes",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Comparing cultivated fruit with wild fruit.",
+            "explanation_text": "The poem compares garden-grown strawberries with wild strawberries found in woodlands. While garden berries are plump and eaten with sugar/cream, the wild berries plucked beside a stream are described as far sweeter without any additives.",
+            "key_points": [
+              "Garden strawberries: Plump, eaten with spoon/sugar.",
+              "Wild strawberries: Grow near streams, sweeter, need no bowl/spoon."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["strawberries", "garden", "woodland", "vine", "wild", "sweet"],
+          "question_variations": [
+            "Which strawberries are sweeter according to the poet?",
+            "How are garden strawberries usually eaten?",
+            "Where do wild strawberries grow?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_05_twelve_months",
+      "chapter_title": "The Twelve Months",
+      "concepts": [
+        {
+          "id": "c_05_05_01",
+          "topic": "Kindness and Seasons",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A Slavic fairy tale about seasons and the reward for kindness.",
+            "explanation_text": "Marouckla is mistreated by her stepmother and sister Holena. She is sent to the snowy forest to find violets, strawberries, and apples in winter. The Twelve Months (men sitting by a fire) help her because she is polite, while punishing Holena and the stepmother for their greed and rudeness.",
+            "key_points": [
+              "Great January (Winter), March (Spring), June (Summer), September (Autumn).",
+              "Politeness is rewarded; greed is punished.",
+              "Nature yields to those who are humble."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["marouckla", "holena", "twelve months", "great january", "seasons", "violets", "strawberries"],
+          "question_variations": [
+            "Why did the Twelve Months help Marouckla?",
+            "What happened to Holena and the stepmother?",
+            "Which month helped Marouckla get violets?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_06_announcements",
+      "chapter_title": "Announcements",
+      "concepts": [
+        {
+          "id": "c_05_06_01",
+          "topic": "Public Communication",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The format and purpose of making public notices.",
+            "explanation_text": "Announcements are used to convey important information to a group. They must be clear and include details like dates, times, instructions, and warnings. They can be oral or written (notice board).",
+            "key_points": [
+              "Clarity and brevity are important.",
+              "Must include Who, What, When, Where.",
+              "Types: Warning, Lost & Found, Event info."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["announcement", "notice", "communication", "information", "warning"],
+          "question_variations": [
+            "What details should be included in a Lost and Found notice?",
+            "Write an announcement for a school holiday.",
+            "Why are headings important in announcements?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_07_major_dhyan_chand",
+      "chapter_title": "Major Dhyan Chand",
+      "concepts": [
+        {
+          "id": "c_05_07_01",
+          "topic": "Sportsmanship and Patriotism",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The life and achievements of the 'Wizard of Hockey'.",
+            "explanation_text": "Major Dhyan Chand was a legendary Indian hockey player. The chapter details the 1936 Berlin Olympics final against Germany, where he played barefoot on a wet field to win Gold. He refused an offer to join the German army from Hitler, showing his patriotism.",
+            "key_points": [
+              "Known as the 'Wizard' or 'Magician' of Hockey.",
+              "Birthday (Aug 29) is National Sports Day.",
+              "Won Olympic Gold in 1936 Berlin Games."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["hockey", "dhyan chand", "olympics", "berlin", "hitler", "wizard"],
+          "question_variations": [
+            "Why is Dhyan Chand called the Wizard of Hockey?",
+            "Describe the 1936 Olympic final match.",
+            "How did Dhyan Chand show his patriotism?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_08_peer_profile",
+      "chapter_title": "Peer Profile",
+      "concepts": [
+        {
+          "id": "c_05_08_01",
+          "topic": "Data Collection and Reporting",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Gathering information about friends to create a profile.",
+            "explanation_text": "This is a project-based activity where students interview friends to collect data on their likes, dislikes, habits, and fears. It teaches how to organize data and write a summary report without hurting feelings.",
+            "key_points": [
+              "Interviewing skills.",
+              "Organizing data (Likes/Dislikes).",
+              "Writing a report based on gathered data."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["profile", "interview", "likes", "dislikes", "report writing"],
+          "question_variations": [
+            "What questions would you ask to create a peer profile?",
+            "How do you summarize information collected from many people?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+        "chapter_id": "eng_05_09_triantiwontigongolope",
+      "chapter_title": "The Triantiwontigongolope",
+      "concepts": [
+        {
+          "id": "c_05_09_01",
+          "topic": "Humorous Poetry",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A poem about an imaginary, funny insect.",
+            "explanation_text": "C.J. Dennis describes a made-up insect with a very long name. It looks like a mix of a spider, fly, beetle, and bee. It lives on weeds and wattle-gum. The poem uses humor and imagination to describe the creature's habits (trembling, purring, scuttling).",
+            "key_points": [
+              "Imaginary creature.",
+              "Characteristics: Funny face, purrs like a cat, shy.",
+              "Diet: Weeds, wattle-gum, sealing-wax, soap."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["insect", "imaginary", "humor", "beetle", "spider", "funny"],
+          "question_variations": [
+            "Describe the appearance of the Triantiwontigongolope.",
+            "What does the insect in the poem eat?",
+            "Is the Triantiwontigongolope a real insect?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_10_three_sacks_rice",
+      "chapter_title": "Three Sacks of Rice",
+      "concepts": [
+        {
+          "id": "c_05_10_01",
+          "topic": "Resourcefulness and Honesty",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A story about how three brothers utilize resources differently.",
+            "explanation_text": "A friend leaves a sack of rice with three brothers to test them. The eldest sells it to avoid spoilage (simple honesty). The middle one distributes it to the poor (charity). The youngest plants it and multiplies it into twenty-five sacks (entrepreneurship/resourcefulness). The youngest is chosen as the son-in-law.",
+            "key_points": [
+              "Eldest: Sold for money.",
+              "Middle: Gave to poor.",
+              "Youngest: Planted and multiplied the crop.",
+              "Moral: Make the best use of resources."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["rice", "brothers", "test", "investment", "resourcefulness"],
+          "question_variations": [
+            "How did the youngest brother use the sack of rice?",
+            "Why did the friend choose the youngest brother?",
+            "What did the eldest brother do with the rice?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_11_good_speaker",
+      "chapter_title": "Be a Good Speaker",
+      "concepts": [
+        {
+          "id": "c_05_11_01",
+          "topic": "Public Speaking Skills",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Techniques to speak effectively in public or discussions.",
+            "explanation_text": "To be a good speaker, one must speak clearly, look at the audience, not mumble, and be polite. In discussions, one should listen to others, allow turn-taking, and disagree politely.",
+            "key_points": [
+              "Clarity and Volume: Not too loud/soft.",
+              "Eye Contact: Look at listeners.",
+              "Discussion Etiquette: Don't interrupt, respect others' views."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["speech", "discussion", "polite", "volume", "etiquette"],
+          "question_variations": [
+            "What are the qualities of a good speaker?",
+            "How should you behave during a group discussion?",
+            "Why is eye contact important while speaking?"
+          ],
+          "related_concept_ids": ["eng_05_03_good_listener"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_12_count_garden",
+      "chapter_title": "Count your Garden",
+      "concepts": [
+        {
+          "id": "c_05_12_01",
+          "topic": "Positive Thinking",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A poem about focusing on the positives in life.",
+            "explanation_text": "The poet encourages counting a garden by its flowers, not falling leaves, and life by smiles, not tears. It emphasizes measuring life by friends and happy moments (golden hours) rather than age or shadows.",
+            "key_points": [
+              "Focus on flowers, not leaves.",
+              "Count age by friends, not years.",
+              "Count life by smiles, not tears."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["optimism", "flowers", "stars", "smiles", "friends"],
+          "question_variations": [
+            "How should you count your age according to the poem?",
+            "What does the poet mean by 'Count your nights by stars, not shadows'?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_13_adventures_gulliver",
+      "chapter_title": "The Adventures of Gulliver",
+      "concepts": [
+        {
+          "id": "c_05_13_01",
+          "topic": "Fantasy Literature",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "An excerpt from Jonathan Swift's 'Gulliver's Travels'.",
+            "explanation_text": "Gulliver is shipwrecked and wakes up in Lilliput, tied down by tiny people (Lilliputians). The story describes his capture, how they fed him (thousands of loaves), and his interactions with the King. It plays with the concept of scale (giant vs. tiny).",
+            "key_points": [
+              "Lilliputians: Tiny people (6 inches high).",
+              "Gulliver: A giant to them.",
+              "Themes: Curiosity, fear, hospitality."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["gulliver", "lilliput", "giant", "tiny", "voyage"],
+          "question_variations": [
+            "How did the Lilliputians feed Gulliver?",
+            "Why couldn't Gulliver move when he woke up?",
+            "Describe the house provided to Gulliver."
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_14_lesson_for_all",
+      "chapter_title": "A Lesson for All",
+      "concepts": [
+        {
+          "id": "c_05_14_01",
+          "topic": "Civic Sense and Environment",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A play about the consequences of littering.",
+            "explanation_text": "Residents of a city complain about garbage on the streets. A girl gets injured by broken glass. It turns out the animals (Deer, Rabbit, Bear, etc.) returned the garbage to the town because humans were dumping it in their forest homes. The Mayor and citizens realize their mistake.",
+            "key_points": [
+              "Littering causes injuries and disease.",
+              "Dumping waste in forests harms animals.",
+              "Solution: Segregation and recycling."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["garbage", "litter", "environment", "animals", "recycling", "mayor"],
+          "question_variations": [
+            "Who was responsible for spreading garbage in the town?",
+            "Why did the animals return the garbage?",
+            "What lesson did the citizens learn?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_15_bird_bath",
+      "chapter_title": "Bird Bath",
+      "concepts": [
+        {
+          "id": "c_05_15_01",
+          "topic": "Nature and Kindness",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "A poem about providing water for birds.",
+            "explanation_text": "The poet describes a pool made in the garden lined with pebbles and filled with clean water. Robins and other birds come to drink and splash in it, bringing joy to the observer.",
+            "key_points": [
+              "Creating a bird bath.",
+              "Birds: Robins.",
+              "Joy of watching nature."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["bird bath", "pool", "robins", "pebbles", "splash"],
+          "question_variations": [
+            "Why do the birds come to the pool?",
+            "Describe the bird bath made in the garden."
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_16_write_story",
+      "chapter_title": "Write your own Story",
+      "concepts": [
+        {
+          "id": "c_05_16_01",
+          "topic": "Creative Writing",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A structure for building a story using specific elements.",
+            "explanation_text": "The chapter provides a matrix of Characters, Characteristics, Story Types, Time periods, and Places. Students select elements from these columns to construct a unique story. It teaches the components of a narrative.",
+            "key_points": [
+              "Story Elements: Character, Setting, Plot, Time.",
+              "Genre: Fairy tale, Mystery, Adventure, etc."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["story writing", "characters", "setting", "plot", "imagination"],
+          "question_variations": [
+            "What are the necessary elements to write a story?",
+            "Create a story using a magician, a robot, and a desert setting."
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+        "chapter_id": "eng_05_17_on_the_water",
+      "chapter_title": "On the Water",
+      "concepts": [
+        {
+          "id": "c_05_17_01",
+          "topic": "Nature Imagery",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A poem describing a boat ride and the surrounding nature.",
+            "explanation_text": "The poem captures the sights seen while gliding in a boat: ripples, reflections of hills, lilies, reeds, dragonflies, swallows, and kingfishers. It emphasizes the beauty and peace of the water.",
+            "key_points": [
+              "Visuals: Ripples, shadows, lilies.",
+              "Creatures: Dragonfly, swallow, fish, kingfisher.",
+              "Action: Gliding/Floating."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["boat", "water", "kingfisher", "lilies", "ripples", "nature"],
+          "question_variations": [
+            "What birds are mentioned in the poem 'On the Water'?",
+            "Describe the scene around the boat.",
+            "What does the kingfisher look like?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_18_weeds_garden",
+      "chapter_title": "Weeds in the Garden",
+      "concepts": [
+        {
+          "id": "c_05_18_01",
+          "topic": "Habit Formation",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A metaphorical story comparing bad habits to weeds.",
+            "explanation_text": "Anshuman has developed bad habits. His father takes him to a farm and asks him to pull out a small weed (easy) and then a fully grown one (very difficult). The lesson is that bad habits should be nipped in the bud early; if they grow deep roots, they are hard to remove.",
+            "key_points": [
+              "Small weeds = New habits (Easy to remove).",
+              "Deep-rooted weeds = Old habits (Hard to remove).",
+              "Parental guidance."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["weeds", "habits", "anshuman", "farm", "uproot"],
+          "question_variations": [
+            "Why did Anshuman's father ask him to pull out the weeds?",
+            "How are habits compared to weeds?",
+            "What lesson did Anshuman learn?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_19_host_guest",
+      "chapter_title": "Be a Good Host and Guest",
+      "concepts": [
+        {
+          "id": "c_05_19_01",
+          "topic": "Social Etiquette",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Guidelines for organizing parties and attending them.",
+            "explanation_text": "The chapter provides tips for Hosts (consult family, send invitations, plan menu/program, be ready, clean up) and Guests (RSVP, be punctual, dress appropriately, don't waste food, appreciate the effort).",
+            "key_points": [
+              "Host duties: Planning, Inviting, Serving.",
+              "Guest duties: Punctuality, Politeness, Gratitude.",
+              "Goal: Goodwill and friendship."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["host", "guest", "party", "etiquette", "invitation", "manners"],
+          "question_variations": [
+            "What should a guest remember to do?",
+            "List the duties of a good host.",
+            "Why is it important to reply to an invitation?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_20_one_mother",
+      "chapter_title": "Only One Mother",
+      "concepts": [
+        {
+          "id": "c_05_20_01",
+          "topic": "Love and Uniqueness",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A poem celebrating the uniqueness of a mother.",
+            "explanation_text": "George Cooper lists many things in nature that appear in hundreds (stars, shells, birds, lambs, dewdrops, bees), but concludes that in the whole wide world, there is only one mother.",
+            "key_points": [
+              "Nature has many copies (stars, shells, etc.).",
+              "Mother is unique and singular.",
+              "Theme: Maternal love."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["mother", "unique", "stars", "shells", "dewdrops"],
+          "question_variations": [
+            "What things are available in hundreds according to the poem?",
+            "What is the central idea of the poem 'Only One Mother'?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_21_journey_oz",
+      "chapter_title": "The Journey to the Great Oz",
+      "concepts": [
+        {
+          "id": "c_05_21_01",
+          "topic": "Fantasy and Teamwork",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Excerpt from 'The Wizard of Oz' showing teamwork.",
+            "explanation_text": "Dorothy, the Scarecrow, the Tin Woodman, and the Cowardly Lion travel through a forest. They encounter ditches and Kalidahs (monsters). They work together: the Lion jumps across the ditch carrying others, and the Woodman chops a tree to make a bridge. The Lion roars to scare the beasts.",
+            "key_points": [
+              "Characters: Dorothy, Toto, Scarecrow, Tin Woodman, Lion.",
+              "Obstacles: Ditches, Kalidahs.",
+              "Values: Courage, Cleverness, Cooperation."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["oz", "dorothy", "lion", "scarecrow", "kalidahs", "courage"],
+          "question_variations": [
+            "How did the Lion help the group cross the ditch?",
+            "What are Kalidahs?",
+            "How did the Scarecrow show intelligence?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_22_book_review",
+      "chapter_title": "A Book Review",
+      "concepts": [
+        {
+          "id": "c_05_22_01",
+          "topic": "Review Writing",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Analyzing a book: 'George's Secret Key to the Universe'.",
+            "explanation_text": "A review of Lucy and Stephen Hawking's book. It summarizes the plot (George meeting Eric and the computer Cosmos), the characters, and the educational value (learning about space). It teaches students how to write a review (Title, Author, Plot, Opinion).",
+            "key_points": [
+              "Book: George's Secret Key to the Universe.",
+              "Themes: Science, Environment, Space.",
+              "Review components: Summary, Opinion, Recommendation."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["book review", "stephen hawking", "cosmos", "universe", "science"],
+          "question_variations": [
+            "What is the book 'George's Secret Key' about?",
+            "Who is the author of the book reviewed?",
+            "What points should be included in a book review?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_23_write_poem",
+      "chapter_title": "Write your own Poem",
+      "concepts": [
+        {
+          "id": "c_05_23_01",
+          "topic": "Poetry Writing",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Techniques to create simple poems.",
+            "explanation_text": "The chapter encourages students to write poetry by using rhyming words, describing things they like (using adjectives), observing surroundings (sights, sounds, smells), or expressing feelings (happy, sad).",
+            "key_points": [
+              "Rhyme schemes.",
+              "Descriptive imagery.",
+              "Expressing emotions."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["poetry", "rhyme", "imagination", "observation", "writing"],
+          "question_variations": [
+            "How can you use rhyming words to write a poem?",
+            "Write a short poem about a fountain."
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_24_senses_alert",
+      "chapter_title": "Senses Alert",
+      "concepts": [
+        {
+          "id": "c_05_24_01",
+          "topic": "Sensory Description",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Using five senses to describe pictures and scenes.",
+            "explanation_text": "The activity asks students to look at photographs and imagine the scene using all five senses: Sight (colours, shapes), Sound (noise, silence), Touch (texture), Smell (aroma), and Taste. This improves descriptive writing.",
+            "key_points": [
+              "Five Senses: Sight, Sound, Smell, Touch, Taste.",
+              "Enhances creative writing.",
+              "Observation skills."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["senses", "description", "sight", "sound", "smell", "texture"],
+          "question_variations": [
+            "Describe a picture of a kitten using your senses.",
+            "What words can be used to describe a smell?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+        "chapter_id": "eng_05_25_man_moon",
+      "chapter_title": "The Man in the Moon",
+      "concepts": [
+        {
+          "id": "c_05_25_01",
+          "topic": "Humorous Imagery",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A funny poem about the Moon trying to drink from the Milky Way.",
+            "explanation_text": "The poem personifies the Moon as a skipper sailing the sky. He tries to drink milk from the 'Dipper' (a constellation) out of the 'Milky Way' but gets frightened by the 'Big Bear' (constellation) and spills it.",
+            "key_points": [
+              "Wordplay: Dipper, Milky Way, Bear (Constellations vs Objects).",
+              "Personification of the Moon.",
+              "Humorous outcome."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["moon", "milky way", "dipper", "bear", "constellation"],
+          "question_variations": [
+            "What mistake did the Man in the Moon make?",
+            "What are the two meanings of 'Dipper' in the poem?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_26_water_well",
+      "chapter_title": "Water in the Well",
+      "concepts": [
+        {
+          "id": "c_05_26_01",
+          "topic": "Wit and Justice",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A story about outsmarting a greedy man.",
+            "explanation_text": "Kasim buys a well from Ahmad. Ahmad later claims he sold the well but not the water inside. They go to the Qazi (Judge). The Qazi uses Ahmad's own logic against him, saying if the water is his, he must remove it from Kasim's well or pay rent. Ahmad realizes his folly.",
+            "key_points": [
+              "Greed leads to trouble.",
+              "The Qazi's clever judgment.",
+              "Kasim's generosity (didn't take rent)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["well", "kasim", "ahmad", "qazi", "justice", "wit"],
+          "question_variations": [
+            "Why did Ahmad claim the water was still his?",
+            "How did the Qazi solve the dispute?",
+            "What is the moral of the story 'Water in the Well'?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_27_legend_marathon",
+      "chapter_title": "The Legend of Marathon",
+      "concepts": [
+        {
+          "id": "c_05_27_01",
+          "topic": "History of Sports",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The origin story of the Marathon race.",
+            "explanation_text": "The story dates back to ancient Greece (Athens vs. Persia). Pheidippides, a messenger, ran from Athens to Sparta and back to ask for help. Later, he ran from the battlefield of Marathon to Athens (approx 40km) to announce the victory, delivered the message, and collapsed. The race commemorates his run.",
+            "key_points": [
+              "Battle of Marathon (Greece vs Persia).",
+              "Pheidippides: The legendary runner.",
+              "Marathon: A long-distance race (approx 42km)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["marathon", "pheidippides", "athens", "persia", "greece", "olympics"],
+          "question_variations": [
+            "Who was Pheidippides?",
+            "Why was the first marathon run?",
+            "Which two countries fought the battle of Marathon?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_28_about_money",
+      "chapter_title": "All about Money",
+      "concepts": [
+        {
+          "id": "c_05_28_01",
+          "topic": "Currency and History",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The evolution of money and its current forms.",
+            "explanation_text": "The text explains what money is (cash, notes, coins). It traces the history from the Barter system (exchange), to using stones, shells (cowries), salt, precious metals, and finally paper money (started in China).",
+            "key_points": [
+              "Currency symbols: Rupee (India), Dollar (USA), Pound (UK).",
+              "Barter system: Exchanging goods.",
+              "Evolution: Stones -> Shells -> Metals -> Paper."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["money", "currency", "barter", "coins", "notes", "history"],
+          "question_variations": [
+            "What is the barter system?",
+            "Where was paper money first used?",
+            "What did people use as money before coins?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_29_lark",
+      "chapter_title": "A Lark",
+      "concepts": [
+        {
+          "id": "c_05_29_01",
+          "topic": "Perspective and Contentment",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "A poem contrasting the lives of a bird and a fish.",
+            "explanation_text": "The poet Lawrence Alma-Tadema asks the Lark if it gets tired of the empty sky and wants to be a silent goldfish. Then asks the Goldfish if it gets sad in the cold deep water and wants to be a singing Lark. It reflects on how we sometimes wish to be someone else.",
+            "key_points": [
+              "Lark: High sky, singing, weary?",
+              "Goldfish: Deep sea, silent, cold?",
+              "Theme: Longing for what we don't have."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["lark", "goldfish", "sky", "sea", "longing"],
+          "question_variations": [
+            "What does the poet ask the Lark?",
+            "Why might the goldfish be sad according to the poem?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_30_be_netizen",
+      "chapter_title": "Be a Netizen",
+      "concepts": [
+        {
+          "id": "c_05_30_01",
+          "topic": "Internet and Technology",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Introduction to the Internet and digital citizenship.",
+            "explanation_text": "Explains computers, the Internet (network of computers), and the World Wide Web. It defines terms like Website, Search Engine, Browsing/Surfing, Online/Offline, Email, and Password. A 'Netizen' is a citizen of the digital world.",
+            "key_points": [
+              "Internet: Global network.",
+              "WWW: World Wide Web.",
+              "Netizen: Citizen + Net.",
+              "Safety: Passwords."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["internet", "netizen", "website", "email", "online", "browser"],
+          "question_variations": [
+            "Who is a Netizen?",
+            "What is the difference between online and offline?",
+            "What is a search engine used for?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_31_mind_workout",
+      "chapter_title": "Give your Mind a Workout!",
+      "concepts": [
+        {
+          "id": "c_05_31_01",
+          "topic": "Logic and Puzzles",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Games and riddles to sharpen the mind.",
+            "explanation_text": "Introduces games like 'Nine Men's Morris', Mathemagic tricks (getting 1089), and logical puzzles. It emphasizes that just as the body needs exercise, the mind needs puzzles and games to stay fit.",
+            "key_points": [
+              "Nine Men's Morris: Board game.",
+              "Mathemagic: Number tricks.",
+              "Importance of mental exercise."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["puzzle", "riddle", "nine mens morris", "logic", "workout"],
+          "question_variations": [
+            "Explain the game of Nine Men's Morris.",
+            "Why should we solve puzzles?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_32_helen_keller",
+      "chapter_title": "Helen Keller",
+      "concepts": [
+        {
+          "id": "c_05_32_01",
+          "topic": "Overcoming Disability",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The inspiring life story of Helen Keller.",
+            "explanation_text": "Helen became deaf and blind at a young age. Her teacher, Anne Sullivan, taught her to communicate using finger spelling (writing on the palm). Helen learned that everything has a name (starting with 'Water'). She eventually learned to speak, went to college (Radcliffe), and dedicated her life to helping the blind.",
+            "key_points": [
+              "Disability: Deaf and Blind.",
+              "Teacher: Anne Sullivan.",
+              "Method: Finger spelling/Braille.",
+              "Achievement: First deaf-blind person to earn a BA degree."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["helen keller", "anne sullivan", "blind", "deaf", "braille", "courage"],
+          "question_variations": [
+            "How did Anne Sullivan teach Helen Keller?",
+            "What was the first word Helen understood?",
+            "How did Helen Keller inspire the world?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_33_rangoli",
+      "chapter_title": "Rangoli",
+      "concepts": [
+        {
+          "id": "c_05_33_01",
+          "topic": "Indian Art and Culture",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The traditional art of floor decoration in India.",
+            "explanation_text": "Rangoli (Rang + Aavali) is drawn using white powder and colours. It is used to decorate homes during festivals like Diwali. It has different names in different states (Kolam in South, Alpana in Bengal). Designs are inspired by nature or geometry.",
+            "key_points": [
+              "Meaning: Row of colours.",
+              "Regional names: Kolam, Mandana, Alpana, Muggu.",
+              "Materials: Sand, marble dust, rice powder, flower petals."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["rangoli", "art", "diwali", "kolam", "alpana", "culture"],
+          "question_variations": [
+            "What materials are used to make Rangoli?",
+            "Name the different forms of Rangoli in India.",
+            "What does the word Rangoli mean?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_05_language_study",
+      "chapter_title": "Language Study (Grammar)",
+      "concepts": [
+        {
+          "id": "c_05_LS_01",
+          "topic": "Parts of Speech and Grammar Terms",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Definitions of key grammatical concepts.",
+            "explanation_text": "This section defines nouns (common, proper, countable), verbs (action, auxiliary, modal), adjectives, adverbs, prepositions, conjunctions, articles (a/an/the), tenses (past/present/future), and punctuation concepts.",
+            "key_points": [
+              "Noun: Naming word.",
+              "Verb: Action word.",
+              "Adjective: Describing word.",
+              "Adverb: Describes a verb.",
+              "Tense: Time of action."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["noun", "verb", "adjective", "adverb", "preposition", "tense", "grammar"],
+          "question_variations": [
+            "What is the difference between a noun and a verb?",
+            "Define an Adverb with examples.",
+            "What are the three main tenses?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    }
+  ]
+}

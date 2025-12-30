@@ -1,0 +1,871 @@
+{
+  "meta": {
+    "pack_version": "1.3",
+    "language_code": "en-IN",
+    "target_class": "8_SSC",
+    "subject": "History",
+    "generated_date": "2024-03-15",
+    "model_source": "Gemini-1.5-Pro"
+  },
+  "chapters": [
+    {
+      "chapter_id": "hist_08_01_sources",
+      "chapter_title": "Sources of History",
+      "concepts": [
+        {
+          "id": "c_08_01_01",
+          "topic": "Material Sources",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Physical artifacts, structures, and objects used to understand history.",
+            "explanation_text": "Material sources for Modern Indian History include buildings, palaces, forts, prisons, statues, and memorials. These structures provide insights into the architectural style, economic condition, and history of that period. For example, the Cellular Jail in Andaman provides information about V.D. Savarkar's revolutionary work.",
+            "key_points": [
+              "Includes monuments, coins, sculptures.",
+              "Statues provide biographical info on leaders.",
+              "Museums (e.g., Aga Khan Palace) preserve objects."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["monuments", "statues", "museums", "cellular jail", "aga khan palace", "material sources"],
+          "question_variations": ["What are material sources of history?", "Why are statues important for history?", "Give examples of material sources."],
+          "related_concept_ids": ["c_08_01_02", "c_08_01_03"]
+        },
+        {
+          "id": "c_08_01_02",
+          "topic": "Written and Oral Sources",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Textual records and verbally transmitted history.",
+            "explanation_text": "Written sources include newspapers, periodicals, diaries, correspondence, and factory records. Newspapers like 'Kesari' and 'Amrit Bazar Patrika' acted as sources of social reformation. Oral sources include folk songs, Powadas (ballads), and inspirational songs that motivated freedom fighters.",
+            "key_points": [
+              "Newspapers (Written): Source of political/social views.",
+              "Maps/Drawings (Written): Survey of India records.",
+              "Powada (Oral): Ballads describing heroic events."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["newspapers", "powada", "maps", "correspondence", "folk songs", "archives"],
+          "question_variations": ["How do newspapers help in studying history?", "What is a Powada?", "Differentiate between written and oral sources."],
+          "related_concept_ids": ["c_08_01_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_02_europe_india",
+      "chapter_title": "Europe and India",
+      "concepts": [
+        {
+          "id": "c_08_02_01",
+          "topic": "Renaissance and Reformation",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The revival of art and intellect, and the religious reform movement in Europe.",
+            "explanation_text": "The period from the 13th to 16th century in Europe is the Age of Renaissance. It revived Greek and Roman traditions, focusing on humanitarianism where man became the center of thought. Simultaneously, the Religious Reform Movement attacked old religious ideologies and the domination of the Roman Catholic Church.",
+            "key_points": [
+              "Humanitarianism: Man as the center point.",
+              "Leonardo da Vinci: All-round personality of Renaissance.",
+              "Printing Press: Discovered by Johannes Gutenberg (1450 AD)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["renaissance", "humanitarianism", "leonardo da vinci", "printing press", "religious reform"],
+          "question_variations": ["What is the Age of Renaissance?", "Who discovered the printing press?", "Explain the Religious Reform Movement."],
+          "related_concept_ids": ["c_08_02_02"]
+        },
+        {
+          "id": "c_08_02_02",
+          "topic": "Industrial Revolution and Colonialism",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "The transition to machine-based manufacturing and the subsequent expansion of empires.",
+            "explanation_text": "The Industrial Revolution began in England (World Factory) with steam-powered machines replacing cottage industries. This led to Capitalism. To secure raw materials and markets, European nations practiced Colonialism and Imperialism, establishing control over Asian and African countries.",
+            "key_points": [
+              "Industrial Revolution: Started in England.",
+              "Capitalism: Wealth used as capital for trade.",
+              "Imperialism: Establishing political supremacy over other nations."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["industrial revolution", "capitalism", "colonialism", "imperialism", "world factory"],
+          "question_variations": ["Where did the Industrial Revolution begin?", "Define Imperialism.", "How did capitalism rise in Europe?"],
+          "related_concept_ids": ["c_08_02_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_03_british_rule",
+      "chapter_title": "Effects of British Rule",
+      "concepts": [
+        {
+          "id": "c_08_03_01",
+          "topic": "Subsidiary Alliance",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A treaty between the British East India Company and Indian princely states.",
+            "explanation_text": "Introduced by Lord Wellesley in 1798 to establish British dominion. Indian rulers were assured military protection but had to maintain a British army at their cost, keep a British Resident in court, and could not form alliances with other powers without permission.",
+            "key_points": [
+              "Introduced by Lord Wellesley.",
+              "Rulers lost their independence.",
+              "Bajirao II signed the Treaty of Vasai (1802)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["subsidiary alliance", "lord wellesley", "treaty of vasai", "bajirao ii"],
+          "question_variations": ["What was the Subsidiary Alliance?", "Who introduced the Subsidiary Alliance?", "What were the terms of the Subsidiary Alliance?"],
+          "related_concept_ids": ["c_08_03_02"]
+        },
+        {
+          "id": "c_08_03_02",
+          "topic": "Economic Policies and Impact",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "British administrative and economic changes that exploited India.",
+            "explanation_text": "The British introduced a new land revenue system where tax was fixed and collected in cash (causing farmer bankruptcy). They forced the Commercialisation of Agriculture (growing cash crops like indigo/cotton instead of food grains). Traditional Indian industries declined due to heavy taxes on exports and cheap machine-made imports.",
+            "key_points": [
+              "Land Revenue: Compulsory cash payment.",
+              "Commercialisation: Focus on cash crops.",
+              "Decline of Artisans: Unable to compete with machine goods.",
+              "Development: Railways (1853), Telegraph, Postal system."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["land revenue", "commercialisation", "cash crops", "railway", "decline of industries"],
+          "question_variations": ["What is commercialisation of agriculture?", "Why did traditional Indian industries decline?", "When did the first railway run in India?"],
+          "related_concept_ids": ["c_08_03_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_04_struggle_1857",
+      "chapter_title": "The Freedom Struggle of 1857",
+      "concepts": [
+        {
+          "id": "c_08_04_01",
+          "topic": "Causes of the 1857 Struggle",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The reasons leading to the uprising against British rule.",
+            "explanation_text": "Economic exploitation impoverished farmers. Socially, Indians felt British laws (Sati prohibition, etc.) interfered with customs. Politically, Lord Dalhousie annexed states via the 'Doctrine of Lapse'. The immediate cause was the Enfield rifle cartridges smeared with cow/pig fat, hurting religious sentiments.",
+            "key_points": [
+              "Economic: Heavy taxes, famine.",
+              "Political: Doctrine of Lapse (Dalhousie).",
+              "Immediate: Greased cartridges (Enfield rifles)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["doctrine of lapse", "dalhousie", "enfield rifle", "cartridges", "mangal pandey"],
+          "question_variations": ["What was the immediate cause of the 1857 struggle?", "Which policy did Dalhousie use to annex states?", "Why were Indian soldiers discontented?"],
+          "related_concept_ids": ["c_08_04_02"]
+        },
+        {
+          "id": "c_08_04_02",
+          "topic": "Consequences of the Struggle",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "The results and changes following the failed 1857 revolt.",
+            "explanation_text": "The rule of the East India Company ended, and the British Crown took direct control (Govt of India Act 1858). Queen Victoria issued a Proclamation promising non-interference in religion and merit-based services. The army was reorganized to prevent future unity among Indian soldiers.",
+            "key_points": [
+              "End of Company Rule.",
+              "Queen's Proclamation (Victoria).",
+              "Governor General designated as Viceroy (Lord Canning).",
+              "Policy of 'Divide and Rule' adopted."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["queen's proclamation", "viceroy", "company rule", "act of 1858"],
+          "question_variations": ["What were the consequences of the 1857 struggle?", "Who was the first Viceroy of India?", "Explain the Queen's Proclamation."],
+          "related_concept_ids": ["c_08_04_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_05_social_reforms",
+      "chapter_title": "Social and Religious Reforms",
+      "concepts": [
+        {
+          "id": "c_08_05_01",
+          "topic": "Reform Movements",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Movements started by educated Indians to eradicate social evils.",
+            "explanation_text": "Raja Rammohan Roy founded Brahmo Samaj (opposed Sati). Mahatma Phule founded Satyashodhak Samaj (equality, education). Swami Dayanand Saraswati founded Arya Samaj ('Go back to Vedas'). Swami Vivekananda established Ramkrishna Mission (service to society).",
+            "key_points": [
+              "Brahmo Samaj: 1828, Raja Rammohan Roy.",
+              "Satyashodhak Samaj: 1873, Mahatma Phule.",
+              "Arya Samaj: 1875, Swami Dayanand.",
+              "Ramkrishna Mission: 1897, Swami Vivekananda."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["brahmo samaj", "satyashodhak samaj", "arya samaj", "ramkrishna mission", "raja rammohan roy", "mahatma phule"],
+          "question_variations": ["Who founded the Satyashodhak Samaj?", "What was the slogan of Arya Samaj?", "Who established the Ramkrishna Mission?"],
+          "related_concept_ids": ["c_08_05_02"]
+        },
+        {
+          "id": "c_08_05_02",
+          "topic": "Women's Reforms",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Efforts to improve the status of women in Indian society.",
+            "explanation_text": "Reformers fought against Sati, child marriage, and for widow remarriage and education. Savitribai Phule worked for girls' education. Pandita Ramabai (Sharada Sadan) and Ramabai Ranade (Seva Sadan) established institutes for women.",
+            "key_points": [
+              "Sati Prohibition Act: Lord Bentinck & Rammohan Roy.",
+              "Widow Remarriage Act: 1856.",
+              "First girls' school: Bhide Wada, Pune (1848)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["savitribai phule", "sati prohibition", "widow remarriage", "women education", "pandita ramabai"],
+          "question_variations": ["Who started the first school for girls in Pune?", "Who founded Sharada Sadan?", "Discuss the reforms related to women."],
+          "related_concept_ids": ["c_08_05_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_06_freedom_movement_begin",
+      "chapter_title": "Beginning of Freedom Movement",
+      "concepts": [
+        {
+          "id": "c_08_06_01",
+          "topic": "Indian National Congress (INC)",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The first all-India political organization established in 1885.",
+            "explanation_text": "Established on 28 December 1885 in Mumbai. First session presided by W.C. Banerjee. A.O. Hume took the lead. Objectives included creating national unity and providing a platform for Indians to present grievances.",
+            "key_points": [
+              "Founded: 1885.",
+              "First President: Wyomesh Chandra Banerjee.",
+              "Objectives: Unity, national development."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["inc", "indian national congress", "1885", "w.c. banerjee", "a.o. hume"],
+          "question_variations": ["When was the Indian National Congress established?", "Who was the first president of INC?", "What were the objectives of INC?"],
+          "related_concept_ids": ["c_08_06_02"]
+        },
+        {
+          "id": "c_08_06_02",
+          "topic": "Moderates vs Extremists",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Two ideological groups within the Congress.",
+            "explanation_text": "Moderates (e.g., Gokhale, Ferozshah Mehta) believed in constitutional methods and petitions. Extremists (Lal-Bal-Pal: Lala Lajpat Rai, Bal Gangadhar Tilak, Bipin Chandra Pal) believed in severe struggle and agitation. Tilak declared 'Swaraj is my birthright'.",
+            "key_points": [
+              "Moderates: Constitutional means.",
+              "Extremists: Agitation, Swaraj.",
+              "Split occurred in Surat Session (1907)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["moderates", "extremists", "lal-bal-pal", "swaraj", "surat split"],
+          "question_variations": ["Differentiate between Moderates and Extremists.", "Who were Lal-Bal-Pal?", "What was Tilak's famous slogan?"],
+          "related_concept_ids": ["c_08_06_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_07_non_cooperation",
+      "chapter_title": "Non-co-operation Movement",
+      "concepts": [
+        {
+          "id": "c_08_07_01",
+          "topic": "Gandhian Era and Satyagraha",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The period of freedom struggle led by Mahatma Gandhi using truth and non-violence.",
+            "explanation_text": "After 1920, Gandhi led the movement. He used 'Satyagraha' (insistence on truth) to fight injustice without violence. Early satyagrahas included Champaran (Indigo farmers), Kheda (Tax relief), and Ahmedabad (Mill workers).",
+            "key_points": [
+              "Satyagraha: Truth + Non-violence.",
+              "Champaran (1917): First successful satyagraha.",
+              "Rowlatt Act opposition."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["gandhi", "satyagraha", "non-violence", "champaran", "kheda"],
+          "question_variations": ["What is Satyagraha?", "Which was Gandhi's first satyagraha in India?", "Explain the philosophy of Satyagraha."],
+          "related_concept_ids": ["c_08_07_02"]
+        },
+        {
+          "id": "c_08_07_02",
+          "topic": "Jallianwala Baug and Non-co-operation",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "The massacre that triggered the mass non-co-operation movement.",
+            "explanation_text": "On 13 April 1919, General Dyer fired on a peaceful gathering at Jallianwala Baug, killing hundreds. This atrocity, along with the Khilafat issue, led Gandhi to launch the Non-co-operation Movement in 1920 (boycott of schools, courts, foreign goods). It was suspended after the Chauri Chaura violence in 1922.",
+            "key_points": [
+              "Jallianwala Baug Massacre (1919).",
+              "Non-co-operation Movement (1920).",
+              "Chauri Chaura incident (1922) led to suspension."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["jallianwala baug", "general dyer", "non-co-operation", "chauri chaura", "khilafat"],
+          "question_variations": ["Why did Gandhi suspend the Non-co-operation movement?", "Describe the Jallianwala Baug massacre.", "What was the Khilafat movement?"],
+          "related_concept_ids": ["c_08_07_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_08_civil_disobedience",
+      "chapter_title": "Civil Disobedience Movement",
+      "concepts": [
+        {
+          "id": "c_08_08_01",
+          "topic": "Salt Satyagraha",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A campaign to break the salt tax law, marking the start of Civil Disobedience.",
+            "explanation_text": "Gandhi decided to break the unjust salt tax. He marched from Sabarmati to Dandi (385 km) and broke the law on 6 April 1930. This sparked nationwide civil disobedience, including forest satyagrahas and protests.",
+            "key_points": [
+              "Dandi March: 12 March to 6 April 1930.",
+              "Symbolic breaking of Salt Act.",
+              "Participation of women and tribals."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["dandi march", "salt satyagraha", "civil disobedience", "sabarmati"],
+          "question_variations": ["Why did Gandhi choose salt for Satyagraha?", "When did the Dandi March begin?", "What was the impact of the Salt Satyagraha?"],
+          "related_concept_ids": ["c_08_08_02"]
+        },
+        {
+          "id": "c_08_08_02",
+          "topic": "Round Table Conferences",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Conferences held in London to discuss constitutional reforms in India.",
+            "explanation_text": "Three conferences were held (1930-32). Congress boycotted the first. Gandhi attended the second after the Gandhi-Irwin Pact but returned disappointed due to the communal award issue (separate electorates). The Poona Pact was later signed between Gandhi and Dr. Ambedkar regarding Dalit representation.",
+            "key_points": [
+              "Gandhi-Irwin Pact.",
+              "Second Round Table Conference.",
+              "Poona Pact (1932)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["round table conference", "gandhi-irwin pact", "poona pact", "dr. ambedkar", "communal award"],
+          "question_variations": ["Why did the First Round Table Conference fail?", "What was the Poona Pact?", "Who represented Dalits in the Round Table Conference?"],
+          "related_concept_ids": ["c_08_08_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_09_last_phase",
+      "chapter_title": "Last Phase of Struggle for Independence",
+      "concepts": [
+        {
+          "id": "c_08_09_01",
+          "topic": "Quit India Movement",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The final mass movement launched in 1942 demanding the British to leave India.",
+            "explanation_text": "On 8 August 1942, the 'Quit India' resolution was passed in Mumbai. Gandhi gave the slogan 'Do or Die'. The movement became leaderless as top leaders were arrested, leading to public uprisings and the establishment of Parallel Governments (e.g., Prati Sarkar by Nana Patil).",
+            "key_points": [
+              "August Kranti Maidan.",
+              "Slogan: Do or Die.",
+              "Parallel Government (Prati Sarkar)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["quit india", "do or die", "1942", "parallel government", "nana patil"],
+          "question_variations": ["What was the slogan given by Gandhi during Quit India movement?", "What is a Parallel Government?", "Where was the Quit India resolution passed?"],
+          "related_concept_ids": ["c_08_09_02"]
+        },
+        {
+          "id": "c_08_09_02",
+          "topic": "Indian National Army (INA)",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "An armed force formed to liberate India with Japanese help.",
+            "explanation_text": "Founded by Rash Behari Bose and later led by Subhash Chandra Bose (Netaji). He formed the Azad Hind Government in Singapore. The INA fought on the eastern borders but had to surrender after Japan's defeat in WWII.",
+            "key_points": [
+              "Leader: Subhash Chandra Bose.",
+              "Slogan: 'Give me blood, I will give you independence'.",
+              "Rani of Jhansi Regiment."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["ina", "azad hind fauj", "subhash chandra bose", "netaji", "singapore"],
+          "question_variations": ["Who led the Indian National Army?", "What was the appeal made by Netaji?", "Who founded the Indian Independence League?"],
+          "related_concept_ids": ["c_08_09_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_10_armed_revolution",
+      "chapter_title": "Armed Revolutionary Movement",
+      "concepts": [
+        {
+          "id": "c_08_10_01",
+          "topic": "Revolutionary Organisations",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Secret societies formed to overthrow British rule through armed struggle.",
+            "explanation_text": "Revolutionaries believed in using force. V.D. Savarkar founded 'Abhinav Bharat'. In Bengal, 'Anushilan Samiti' was active. Chandrashekhar Azad and Bhagat Singh formed the 'Hindustan Socialist Republican Association' (HSRA) with secular and socialist goals.",
+            "key_points": [
+              "Abhinav Bharat (Savarkar).",
+              "Anushilan Samiti (Aurobindo Ghosh).",
+              "HSRA (Bhagat Singh, Azad)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["abhinav bharat", "anushilan samiti", "hsra", "bhagat singh", "savarkar"],
+          "question_variations": ["Who founded Abhinav Bharat?", "What were the objectives of HSRA?", "Name the organisation founded by Chandrashekhar Azad."],
+          "related_concept_ids": ["c_08_10_02"]
+        },
+        {
+          "id": "c_08_10_02",
+          "topic": "Key Revolutionary Acts",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Significant armed actions taken by revolutionaries.",
+            "explanation_text": "Chafekar brothers killed Rand (Plague Commissioner). Bhagat Singh and Batukeshwar Dutta threw bombs in the Legislative Assembly. The Kakori Conspiracy involved looting a government train. Surya Sen led the Chittagong Armoury Raid.",
+            "key_points": [
+              "Kakori Conspiracy (1925).",
+              "Assembly Bomb Incident.",
+              "Chittagong Armoury Raid (Surya Sen)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["kakori", "chittagong armoury raid", "surya sen", "bomb", "rand"],
+          "question_variations": ["Who led the Chittagong Armoury Raid?", "Why did Bhagat Singh throw bombs in the assembly?", "What was the Kakori Conspiracy?"],
+          "related_concept_ids": ["c_08_10_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_11_equality",
+      "chapter_title": "Struggle for Equality",
+      "concepts": [
+        {
+          "id": "c_08_11_01",
+          "topic": "Peasant and Worker Movements",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Movements fighting against economic exploitation.",
+            "explanation_text": "Farmers suffered due to British policies. Movements like the Indigo revolt (Neel Darpan) and formation of 'Kisan Sabha' occurred. Workers organized unions (AITUC formed in 1920) to fight for their rights. Leaders like N.M. Joshi and Lala Lajpat Rai were pivotal.",
+            "key_points": [
+              "AITUC (1920).",
+              "Kisan Sabha.",
+              "Sane Guruji's work for farmers."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["aituc", "kisan sabha", "workers union", "sane guruji", "indigo revolt"],
+          "question_variations": ["When was AITUC established?", "Who wrote the play 'Neel Darpan'?", "Describe the peasant movement."],
+          "related_concept_ids": ["c_08_11_02"]
+        },
+        {
+          "id": "c_08_11_02",
+          "topic": "Dalit and Feminist Movements",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Struggles for social equality and rights.",
+            "explanation_text": "Dr. Babasaheb Ambedkar led the Dalit movement (Mahad Satyagraha, Kalaram Temple entry), aiming to annihilate the caste system. Women also fought for rights; Pandita Ramabai and Ramabai Ranade established institutions for women's welfare.",
+            "key_points": [
+              "Mahad Satyagraha (Chavdar Tale).",
+              "Bahishkrut Hitkarini Sabha.",
+              "Women's participation in freedom struggle."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["dr. ambedkar", "mahad satyagraha", "dalit movement", "feminist movement", "equality"],
+          "question_variations": ["Which satyagraha was led by Dr. Ambedkar at Mahad?", "Name the institutions founded for women's reforms.", "What was the objective of Bahishkrut Hitkarini Sabha?"],
+          "related_concept_ids": ["c_08_11_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_12_independence",
+      "chapter_title": "India gains Independence",
+      "concepts": [
+        {
+          "id": "c_08_12_01",
+          "topic": "Partition and Independence",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The process leading to the creation of India and Pakistan.",
+            "explanation_text": "The Muslim League demanded a separate nation (Pakistan). The Mountbatten Plan proposed partition. The Indian Independence Act was passed, and on 15 August 1947, India became independent, but divided.",
+            "key_points": [
+              "Mountbatten Plan.",
+              "Indian Independence Act 1947.",
+              "Two nations: India and Pakistan."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["mountbatten plan", "partition", "independence act", "15 august 1947", "muslim league"],
+          "question_variations": ["Based on which plan did the partition take place?", "When did India gain independence?", "What was the Mountbatten Plan?"],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_13_fulfillment",
+      "chapter_title": "Fulfillment of Struggle for Independence",
+      "concepts": [
+        {
+          "id": "c_08_13_01",
+          "topic": "Integration of Princely States",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Merging over 600 princely states into the Indian Union.",
+            "explanation_text": "Sardar Vallabhbhai Patel (Iron Man) diplomatically persuaded rulers to sign the Instrument of Accession. Junagad, Hyderabad, and Kashmir posed challenges. Hyderabad was integrated after 'Operation Polo' (Police Action) against the Nizam.",
+            "key_points": [
+              "Sardar Patel's diplomacy.",
+              "Instrument of Accession.",
+              "Hyderabad Mukti Sangram (Swami Ramananda Tirth)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["sardar patel", "princely states", "hyderabad", "junagad", "kashmir", "instrument of accession"],
+          "question_variations": ["Who is known as the Iron Man of India?", "How was Hyderabad integrated into India?", "What was the Instrument of Accession?"],
+          "related_concept_ids": ["c_08_13_02"]
+        },
+        {
+          "id": "c_08_13_02",
+          "topic": "Liberation of French and Portuguese Colonies",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Removing the last vestiges of colonial rule from Goa and Puducherry.",
+            "explanation_text": "Even after 1947, some areas were under French (Chandranagar, Puducherry) and Portuguese (Goa, Diu, Daman) control. The French handed over territories peacefully. Goa was liberated from the Portuguese in 1961 through military action (Operation Vijay).",
+            "key_points": [
+              "Goa Liberation (1961).",
+              "French colonies handed over.",
+              "Complete independence."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["goa liberation", "portuguese", "french colonies", "1961"],
+          "question_variations": ["When was Goa liberated?", "Which powers held colonies in India after 1947?"],
+          "related_concept_ids": ["c_08_13_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "hist_08_14_maharashtra",
+      "chapter_title": "Formation of State of Maharashtra",
+      "concepts": [
+        {
+          "id": "c_08_14_01",
+          "topic": "Samyukta Maharashtra Movement",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The struggle to create a separate state for Marathi-speaking people.",
+            "explanation_text": "The demand for a linguistic state led to the Samyukta Maharashtra Movement. The 'Samyukta Maharashtra Samiti' was formed. 106 martyrs sacrificed their lives in Mumbai. Finally, on 1 May 1960, the state of Maharashtra was formed with Mumbai as its capital.",
+            "key_points": [
+              "Samyukta Maharashtra Samiti.",
+              "106 Martyrs (Hutatma Smarak).",
+              "Formation Date: 1 May 1960."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["samyukta maharashtra", "1 may 1960", "mumbai", "hutatma", "linguistic state"],
+          "question_variations": ["When was the state of Maharashtra formed?", "What was the Samyukta Maharashtra Movement?", "Who was the first Chief Minister of Maharashtra?"],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+         "chapter_id": "civ_08_01_parliamentary_system",
+      "chapter_title": "Introduction to the Parliamentary System",
+      "concepts": [
+        {
+          "id": "c_08_civ_01_01",
+          "topic": "Parliamentary System of Government",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A system of government where the legislature and executive are closely linked and the executive is responsible to the legislature.",
+            "explanation_text": "The Parliamentary System evolved in England. In this system, the Prime Minister and the Council of Ministers are drawn from the Parliament and are responsible to it. India adopted this system because of its familiarity during British rule and to ensure a responsible government.",
+            "key_points": [
+              "Legislature and Executive are fused.",
+              "Executive is responsible to the Legislature.",
+              "Head of State (President) is nominal; Head of Government (PM) is real."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["parliamentary system", "legislature", "executive", "responsible government", "england"],
+          "question_variations": [
+            "What is a Parliamentary System of Government?",
+            "Why did India adopt the Parliamentary System?",
+            "Differentiate between Parliamentary and Presidential systems."
+          ],
+          "related_concept_ids": ["c_08_civ_01_02"]
+        },
+        {
+          "id": "c_08_civ_01_02",
+          "topic": "Presidential System of Government",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "A system where the Executive is independent of the Legislature.",
+            "explanation_text": "In a Presidential system (like in the USA), the President is the Head of State and Government and is directly elected by the people. The Executive is not dependent on the Legislature for its tenure.",
+            "key_points": [
+              "Separation of powers.",
+              "President is directly elected.",
+              "Executive is independent of Legislature."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["presidential system", "usa", "separation of powers", "president"],
+          "question_variations": [
+            "Give an example of a country with a Presidential system.",
+            "How is the Presidential system different from the Parliamentary system?"
+          ],
+          "related_concept_ids": ["c_08_civ_01_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "civ_08_02_indian_parliament",
+      "chapter_title": "The Indian Parliament",
+      "concepts": [
+        {
+          "id": "c_08_civ_02_01",
+          "topic": "Lok Sabha (House of the People)",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The Lower House of the Indian Parliament, consisting of directly elected representatives.",
+            "explanation_text": "The Lok Sabha is the House of the People. Members are directly elected by the citizens. The term is 5 years. The maximum strength is 552 members. It represents the will of the people.",
+            "key_points": [
+              "Lower House.",
+              "Directly elected by people.",
+              "Term: 5 years.",
+              "Maximum members: 552."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["lok sabha", "lower house", "direct election", "552 members"],
+          "question_variations": [
+            "What is the term of the Lok Sabha?",
+            "Why is Lok Sabha called the House of the People?",
+            "What is the maximum strength of the Lok Sabha?"
+          ],
+          "related_concept_ids": ["c_08_civ_02_02"]
+        },
+        {
+          "id": "c_08_civ_02_02",
+          "topic": "Rajya Sabha (Council of States)",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The Upper House of the Indian Parliament, representing the States of India.",
+            "explanation_text": "The Rajya Sabha is a permanent house; it is never dissolved. Members are elected by the elected members of State Legislative Assemblies. 1/3rd of members retire every 2 years. Total strength is 250.",
+            "key_points": [
+              "Upper House.",
+              "Permanent House (not dissolved).",
+              "Indirect election.",
+              "Total members: 250 (238 elected + 12 nominated)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["rajya sabha", "upper house", "permanent house", "council of states"],
+          "question_variations": [
+            "Why is Rajya Sabha called a permanent house?",
+            "How are members of Rajya Sabha elected?",
+            "How many members are nominated by the President to the Rajya Sabha?"
+          ],
+          "related_concept_ids": ["c_08_civ_02_01"]
+        },
+        {
+          "id": "c_08_civ_02_03",
+          "topic": "Functions of Parliament",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "The primary roles of the Parliament including law-making and controlling the executive.",
+            "explanation_text": "The main functions are: 1. Formulation of laws. 2. Control over the Council of Ministers (through questions, no-confidence motions). 3. Amendments to the Constitution.",
+            "key_points": [
+              "Law making.",
+              "Control over Executive.",
+              "Constitutional Amendments."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["law making", "amendment", "control", "executive", "functions"],
+          "question_variations": [
+            "What are the main functions of the Parliament?",
+            "How does Parliament control the Council of Ministers?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "civ_08_03_union_executive",
+      "chapter_title": "The Union Executive",
+      "concepts": [
+        {
+          "id": "c_08_civ_03_01",
+          "topic": "The President",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The Constitutional Head of the State and the Supreme Commander of the Defence Forces.",
+            "explanation_text": "The President is the nominal head. He/She is elected indirectly by the Electoral College (MPs and MLAs). The President appoints the Prime Minister and has legislative, executive, and judicial powers, but acts on the advice of the Council of Ministers.",
+            "key_points": [
+              "Head of State.",
+              "Indirectly elected.",
+              "Supreme Commander of Defence Forces.",
+              "Acts on advice of PM."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["president", "head of state", "electoral college", "supreme commander"],
+          "question_variations": [
+            "Who is the Head of the State in India?",
+            "How is the President of India elected?",
+            "What are the powers of the President?"
+          ],
+          "related_concept_ids": ["c_08_civ_03_02"]
+        },
+        {
+          "id": "c_08_civ_03_02",
+          "topic": "Prime Minister and Council of Ministers",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The real head of the government who leads the executive.",
+            "explanation_text": "The leader of the majority party in the Lok Sabha becomes the Prime Minister. The PM selects the Council of Ministers. They formulate policies and implement laws. They are collectively responsible to the Lok Sabha.",
+            "key_points": [
+              "Real Head of Government.",
+              "Leader of majority party.",
+              "Collective Responsibility."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["prime minister", "council of ministers", "real head", "collective responsibility"],
+          "question_variations": [
+            "Who appoints the Council of Ministers?",
+            "What is meant by Collective Responsibility?",
+            "What are the functions of the Prime Minister?"
+          ],
+          "related_concept_ids": ["c_08_civ_03_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "civ_08_04_judicial_system",
+      "chapter_title": "The Indian Judicial System",
+      "concepts": [
+        {
+          "id": "c_08_civ_04_01",
+          "topic": "Structure of Judiciary",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The hierarchy of courts in India ensuring justice and interpretation of laws.",
+            "explanation_text": "India has a single, integrated judicial system. The Supreme Court is at the apex (top), followed by High Courts at the state level, and Subordinate Courts (District/Sessions courts) at the local level.",
+            "key_points": [
+              "Integrated system.",
+              "Supreme Court (Apex).",
+              "High Courts (State).",
+              "Subordinate Courts (District)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["judiciary", "supreme court", "high court", "integrated system", "hierarchy"],
+          "question_variations": [
+            "Explain the structure of the Indian Judicial System.",
+            "Which is the apex court in India?",
+            "What is meant by an integrated judicial system?"
+          ],
+          "related_concept_ids": ["c_08_civ_04_02"]
+        },
+        {
+          "id": "c_08_civ_04_02",
+          "topic": "Judicial Review and Activism",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "The power of courts to examine the constitutionality of laws and the proactive role of judiciary.",
+            "explanation_text": "Judicial Review allows the Supreme Court to declare any law null and void if it violates the Constitution. Public Interest Litigation (PIL) is a tool for Judicial Activism where courts intervene to protect public interest.",
+            "key_points": [
+              "Judicial Review: Checking constitutionality.",
+              "PIL: Public Interest Litigation.",
+              "Protection of Fundamental Rights."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["judicial review", "pil", "public interest litigation", "constitutionality"],
+          "question_variations": [
+            "What is Judicial Review?",
+            "What is Public Interest Litigation (PIL)?",
+            "Why is the independence of the judiciary important?"
+          ],
+          "related_concept_ids": ["c_08_civ_04_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "civ_08_05_state_government",
+      "chapter_title": "The State Government",
+      "concepts": [
+        {
+          "id": "c_08_civ_05_01",
+          "topic": "State Legislature",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The law-making body at the state level.",
+            "explanation_text": "Similar to the center, states have legislatures. Vidhan Sabha (Legislative Assembly) is the directly elected house. Vidhan Parishad (Legislative Council) is the upper house (existing only in some states like Maharashtra).",
+            "key_points": [
+              "Vidhan Sabha: Lower House (Direct election).",
+              "Vidhan Parishad: Upper House (Indirect election).",
+              "Maharashtra has a bicameral legislature."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["vidhan sabha", "vidhan parishad", "state legislature", "mla", "mlc"],
+          "question_variations": [
+            "What is the Vidhan Sabha?",
+            "Does every state in India have a Vidhan Parishad?",
+            "What is the term of the Vidhan Sabha?"
+          ],
+          "related_concept_ids": ["c_08_civ_05_02"]
+        },
+        {
+          "id": "c_08_civ_05_02",
+          "topic": "Governor and Chief Minister",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The Executive heads of the State Government.",
+            "explanation_text": "The Governor is the nominal head of the state appointed by the President. The Chief Minister is the real head, leading the state Council of Ministers and running the administration.",
+            "key_points": [
+              "Governor: Appointed by President (Nominal Head).",
+              "Chief Minister: Real Head of State Government.",
+              "CM advises the Governor."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["governor", "chief minister", "state executive", "nominal head"],
+          "question_variations": [
+            "Who appoints the Governor?",
+            "What is the role of the Chief Minister?",
+            "Who is the real head of the State Government?"
+          ],
+          "related_concept_ids": ["c_08_civ_05_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "civ_08_06_bureaucracy",
+      "chapter_title": "Bureaucracy",
+      "concepts": [
+        {
+          "id": "c_08_civ_06_01",
+          "topic": "Civil Services",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The permanent executive branch of government responsible for implementing laws.",
+            "explanation_text": "Bureaucracy consists of administrative officers (Civil Servants) who are selected through competitive exams (like UPSC, MPSC). They are politically neutral and provide stability to the administration regardless of political changes.",
+            "key_points": [
+              "Permanent Executive.",
+              "Political Neutrality.",
+              "Implementation of policies.",
+              "Types: All India Services (IAS, IPS), Central Services, State Services."
+            ],
+            "formula_latex": null
+          },
+          "keywords": ["bureaucracy", "civil services", "ias", "ips", "permanent executive", "neutrality"],
+          "question_variations": [
+            "What is Bureaucracy?",
+            "Why is bureaucracy called the Permanent Executive?",
+            "What are the characteristics of Bureaucracy?",
+            "Full form of IAS and IPS."
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    }
+  ]
+}

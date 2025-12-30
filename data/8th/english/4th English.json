@@ -1,0 +1,720 @@
+{
+  "meta": {
+    "pack_version": "1.3",
+    "language_code": "en-IN",
+    "target_class": "04_BALBHARATI_ENG",
+    "generated_date": "2024-05-20",
+    "model_source": "Gemini-1.5-Pro"
+  },
+  "chapters": [
+    {
+      "chapter_id": "eng_04_18_growing_up",
+      "chapter_title": "Growing Up",
+      "concepts": [
+        {
+          "id": "c_04_18_01",
+          "topic": "Metamorphosis in Poems",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Two short poems describing the transformation of a frog and a butterfly.",
+            "explanation_text": "The chapter contains two poems. 'Mr. Thomas Frog' describes a tadpole crying because he lost his tail, only to realize he has become a frog. 'The Butterfly' describes a fuzzy caterpillar spinning a chrysalis and waking up as a butterfly with wings.",
+            "key_points": [
+              "Mr. Thomas Frog: Tadpole -> Frog (lost tail).",
+              "The Butterfly: Caterpillar -> Chrysalis -> Butterfly.",
+              "Theme: Growth and change in nature."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "tadpole",
+            "frog",
+            "caterpillar",
+            "butterfly",
+            "chrysalis",
+            "fuzzy"
+          ],
+          "question_variations": [
+            "Why did Mr. Thomas Frog weep?",
+            "What happened to the caterpillar after it slept?",
+            "What did the tadpole lose?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_19_the_ugly_duckling",
+      "chapter_title": "The Ugly Duckling",
+      "concepts": [
+        {
+          "id": "c_04_19_01",
+          "topic": "The Story of the Ugly Duckling",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A classic story about a bird who is teased for being different but grows up to be a beautiful swan.",
+            "explanation_text": "A mother duck hatched a large, grey, ugly duckling. He was teased by everyone and ran away. He spent a lonely, cold winter hiding. In spring, he saw beautiful swans and realized he was one of them when he saw his reflection in the water.",
+            "key_points": [
+              "The seventh duckling was different (grey and ugly).",
+              "He faced rejection and loneliness.",
+              "He discovered he was actually a swan.",
+              "Moral: Don't judge by appearances."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "duckling",
+            "swan",
+            "reflection",
+            "ugly",
+            "beautiful"
+          ],
+          "question_variations": [
+            "Why did the ugly duckling run away?",
+            "What did the ugly duckling become in the end?",
+            "How did the duckling realize he was a swan?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_20_all_about_glass",
+      "chapter_title": "All about Glass",
+      "concepts": [
+        {
+          "id": "c_04_20_01",
+          "topic": "Properties and Making of Glass",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "An informational text explaining how glass is manufactured and its unique qualities.",
+            "explanation_text": "Glass is made by heating a mixture of clean white sand and chemicals (soda and lime) in a furnace until it turns into hot liquid. When it cools, it becomes stiff and hard. Glass is transparent, strong, impermeable, and has no effect on food stored in it.",
+            "key_points": [
+              "Ingredients: Sand, Soda, Lime.",
+              "Process: Heating in a furnace.",
+              "Properties: Transparent, brittle, impermeable, recyclable.",
+              "Glass can be shaped when hot."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "glass",
+            "sand",
+            "furnace",
+            "transparent",
+            "recyclable",
+            "molten"
+          ],
+          "question_variations": [
+            "How is glass made?",
+            "What are the properties of glass?",
+            "Why is glass considered eco-friendly (recyclable)?",
+            "What happens to glass when it is hot?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_21_flint",
+      "chapter_title": "Flint",
+      "concepts": [
+        {
+          "id": "c_04_21_01",
+          "topic": "Gemstones vs Flint",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A poem by Christina Rossetti comparing precious stones to the useful flint.",
+            "explanation_text": "The poem lists beautiful gemstones like the green emerald, red ruby, blue sapphire, and brilliant diamond. However, it concludes that while these are pretty, the humble flint is useful because it holds fire.",
+            "key_points": [
+              "Emerald is green.",
+              "Ruby is red.",
+              "Sapphire is blue.",
+              "Diamond is brilliant.",
+              "Flint holds fire (utility)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "flint",
+            "emerald",
+            "ruby",
+            "sapphire",
+            "diamond",
+            "fire"
+          ],
+          "question_variations": [
+            "What color is the emerald?",
+            "Which stone holds fire?",
+            "What is the difference between a diamond and a flint in the poem?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_22_the_champa_flower",
+      "chapter_title": "The Champa Flower",
+      "concepts": [
+        {
+          "id": "c_04_22_01",
+          "topic": "A Child's Imagination",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A poem by Rabindranath Tagore where a child imagines becoming a champa flower to tease his mother.",
+            "explanation_text": "The child imagines growing on a high branch as a champa flower. He watches his mother work, pray, and read the Ramayana. He stays quiet and only reveals himself in the evening, showing the playful bond between mother and child.",
+            "key_points": [
+              "Child pretends to be a Champa flower.",
+              "He watches his mother without her knowing.",
+              "He drops onto her book as a shadow.",
+              "Themes: Innocence, playfulness, mother's love."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "champa flower",
+            "mother",
+            "imagination",
+            "hide and seek",
+            "shadow"
+          ],
+          "question_variations": [
+            "What does the child want to become in the poem?",
+            "When does the child drop back to the earth?",
+            "What would the child do when the mother reads the Ramayana?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_23_computers",
+      "chapter_title": "Computers",
+      "concepts": [
+        {
+          "id": "c_04_23_01",
+          "topic": "Functions of a Computer",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "An informational text describing what computers can do and how they work.",
+            "explanation_text": "A computer is a machine that solves problems. It can calculate, store memory, and process data (information) very fast. It follows instructions (programs) given by humans. It cannot think on its own but helps visualize tasks using flowcharts.",
+            "key_points": [
+              "Performs mathematical operations.",
+              "Has memory to store data.",
+              "Processes data according to a program.",
+              "Uses flowcharts to plan tasks.",
+              "Cannot think or judge like a human."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "computer",
+            "data",
+            "memory",
+            "program",
+            "flowchart",
+            "calculation"
+          ],
+          "question_variations": [
+            "What is a computer?",
+            "Can a computer think on its own?",
+            "What is a set of code instructions called?",
+            "What is a flowchart used for?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_24_the_laughing_king",
+      "chapter_title": "The Laughing King",
+      "concepts": [
+        {
+          "id": "c_04_24_01",
+          "topic": "King Leonard and Witch Grieselda",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A play about a King who is cursed to laugh at everything, hurting others' feelings.",
+            "explanation_text": "King Leonard laughs at Witch Grieselda when she falls. She curses him to laugh all the time. He laughs when the Queen breaks a plate and when Princess Cynthia hurts her finger. He realizes his mistake, apologizes, and the spell is broken.",
+            "key_points": [
+              "King Leonard laughed at others' misfortunes.",
+              "Witch Grieselda cast a spell.",
+              "The King hurt his family by laughing at their pain.",
+              "Moral: We should not laugh at others' troubles."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "King Leonard",
+            "Witch Grieselda",
+            "laughing",
+            "spell",
+            "empathy"
+          ],
+          "question_variations": [
+            "Why did King Leonard start laughing continuously?",
+            "How did the King hurt Princess Cynthia?",
+            "What broke the witch's spell?",
+            "Why is it bad to laugh at others' misfortunes?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_25_little_words",
+      "chapter_title": "Little Words",
+      "concepts": [
+        {
+          "id": "c_04_25_01",
+          "topic": "The Power of Words",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A short poem showing how words can break or mend a friendship.",
+            "explanation_text": "Two friends quarreled because of unkind words ('Yes you did', 'I did not'). They parted ways. Later, using loving words ('I am sorry', 'So am I'), their bond was mended. It highlights the importance of apology.",
+            "key_points": [
+              "Unkind words cause quarrels.",
+              "Friends were parted.",
+              "Loving words ('I am sorry') mended the hearts.",
+              "Theme: Friendship and forgiveness."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "quarrel",
+            "friends",
+            "sorry",
+            "mended",
+            "bonded"
+          ],
+          "question_variations": [
+            "What caused the friends to part?",
+            "Which words mended the quarrel?",
+            "What is the message of the poem 'Little Words'?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_26_be_a_chef",
+      "chapter_title": "Be a Chef!",
+      "concepts": [
+        {
+          "id": "c_04_26_01",
+          "topic": "Cooking Recipes",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Instructional text on how to make a salad and a sweet dish.",
+            "explanation_text": "The chapter provides recipes for a 'C' Salad (Carrot, Cucumber, Cabbage) and 'Sweet Tooth' (Peanut Laddoos). It lists ingredients and step-by-step methods, encouraging children to try safe cooking.",
+            "key_points": [
+              "Recipe 1: 'C' Salad (Vegetables starting with C).",
+              "Recipe 2: Peanut Laddoos (Roasted peanuts, jaggery).",
+              "Emphasis on washing vegetables and safety."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "chef",
+            "recipe",
+            "salad",
+            "ingredients",
+            "laddoos"
+          ],
+          "question_variations": [
+            "What are the main ingredients of the 'C' Salad?",
+            "How do you make peanut laddoos?",
+            "Why is it called a 'C' Salad?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_27_the_dreadful_guest",
+      "chapter_title": "The Dreadful Guest",
+      "concepts": [
+        {
+          "id": "c_04_27_01",
+          "topic": "Ivan and the Dragon",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A story about a brave warrior who outsmarts a dragon.",
+            "explanation_text": "A terrible dragon crashed the King of Russia's feast. The brave warrior Ivan challenged it. When the dragon threatened to burn him, Ivan tricked the dragon by pretending he had brought a whole army. He confused the dragon and cut off its head.",
+            "key_points": [
+              "Villain: A dreadful dragon.",
+              "Hero: Ivan (brave warrior).",
+              "Strategy: Ivan used wit to scare the dragon.",
+              "Outcome: Ivan defeated the dragon."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "Ivan",
+            "dragon",
+            "warrior",
+            "feast",
+            "wit"
+          ],
+          "question_variations": [
+            "Who was the dreadful guest?",
+            "How did Ivan trick the dragon?",
+            "Why was the dragon afraid of Ivan?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_28_the_elf_singing",
+      "chapter_title": "The Elf Singing",
+      "concepts": [
+        {
+          "id": "c_04_28_01",
+          "topic": "The Elf and the Wizard",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A poem about a Wizard trying to catch a singing Elf, who escapes by changing shapes.",
+            "explanation_text": "An Elf was singing on a twig. A Wizard hated the sweet sound and tried to seize the Elf to bind him. However, the Elf used magic to change his shape—first into a crawling thing, then a poisonous lizard, and finally a spider—eventually piercing the Wizard.",
+            "key_points": [
+              "The Wizard hated the Elf's sweet song.",
+              "The Elf changed shapes to escape.",
+              "Shapes taken: Worm, Lizard, Spider.",
+              "The Elf defeated the Wizard."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "Elf",
+            "Wizard",
+            "singing",
+            "magic",
+            "lizard",
+            "spider"
+          ],
+          "question_variations": [
+            "Why did the Wizard want to seize the Elf?",
+            "What shapes did the Elf take to escape?",
+            "What happened to the Wizard in the end?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_29_androcles_and_the_lion",
+      "chapter_title": "Androcles and the Lion",
+      "concepts": [
+        {
+          "id": "c_04_29_01",
+          "topic": "Kindness and Gratitude",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A story about a slave who helps a lion, and how the lion later spares his life.",
+            "explanation_text": "Androcles, a slave, escaped his cruel master and hid in a forest. He found a lion in pain and removed a thorn from its paw. Later, both were captured. In the arena, the lion was supposed to eat Androcles but instead fawned over him, recognizing his friend. Both were set free.",
+            "key_points": [
+              "Androcles helped a lion by removing a thorn.",
+              "They became friends in the forest.",
+              "In the arena, the lion refused to kill Androcles.",
+              "The Emperor freed both of them.",
+              "Moral: Gratitude and kindness are powerful."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "Androcles",
+            "lion",
+            "thorn",
+            "slave",
+            "arena",
+            "gratitude"
+          ],
+          "question_variations": [
+            "Why did Androcles run away to the forest?",
+            "How did Androcles help the lion?",
+            "What happened in the arena?",
+            "Why did the Emperor set the lion free?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_30_young_scientist",
+      "chapter_title": "Young Scientist",
+      "concepts": [
+        {
+          "id": "c_04_30_01",
+          "topic": "Water Pressure Experiments",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "Simple experiments demonstrating how water and air pressure work.",
+            "explanation_text": "The chapter describes two experiments: 'A Fountain at your Fingertip' and 'A Shower at your Fingertip'. They use plastic bottles, balloons, and cans to show that air pressure can push water out to create a fountain, and holes in a lid can create a shower effect.",
+            "key_points": [
+              "Experiment 1: Balloon inflates inside a bottle due to suction.",
+              "Experiment 2: Water flows as a fountain due to pressure.",
+              "Experiment 3: Making a watering can with holes."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "experiment",
+            "fountain",
+            "shower",
+            "pressure",
+            "air",
+            "water"
+          ],
+          "question_variations": [
+            "What materials are needed to make a fountain at your fingertip?",
+            "Why does the balloon inflate inside the bottle?",
+            "How can you make a simple shower using a can?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_31_be_a_writer_2",
+      "chapter_title": "Be a Writer - 2",
+      "concepts": [
+        {
+          "id": "c_04_31_01",
+          "topic": "Story Writing from Pictures",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "An activity encouraging students to write stories based on visual prompts.",
+            "explanation_text": "The chapter provides two pictures: (A) Animals holding a meeting, and (B) People rescuing a puppy from a fire. Students are asked to observe the details, imagine the conversation or events, and write a story.",
+            "key_points": [
+              "Observation of visual details.",
+              "Imagining context and dialogue.",
+              "Structuring a story (Beginning, Middle, End)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "story writing",
+            "imagination",
+            "animals",
+            "rescue",
+            "picture composition"
+          ],
+          "question_variations": [
+            "Write a story about the animals holding a meeting.",
+            "Describe the rescue scene in the picture.",
+            "What are the animals discussing in the picture?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_32_the_noble_monkey",
+      "chapter_title": "The Noble Monkey",
+      "concepts": [
+        {
+          "id": "c_04_32_01",
+          "topic": "The Monkey King's Sacrifice",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A Jataka tale about a Monkey King who sacrifices himself to save his tribe.",
+            "explanation_text": "A tribe of monkeys lived on a mango tree by the Ganga. The King of Benaras wanted the fruit and ordered his men to shoot the monkeys. The Monkey King used his own body to complete a bridge for his tribe to escape. He was injured and died, but he saved his people.",
+            "key_points": [
+              "Setting: Banks of River Ganga.",
+              "Conflict: King of Benaras wanted the mangoes.",
+              "Action: Monkey King made a bridge with his body.",
+              "Outcome: The tribe was saved; the Monkey King died a hero."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "Monkey King",
+            "sacrifice",
+            "Benaras",
+            "mango",
+            "noble",
+            "bridge"
+          ],
+          "question_variations": [
+            "Why did the King of Benaras want to kill the monkeys?",
+            "How did the Monkey King save his tribe?",
+            "What lesson did the King of Benaras learn from the monkey?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_33_on_planting_a_tree",
+      "chapter_title": "On Planting a Tree",
+      "concepts": [
+        {
+          "id": "c_04_33_01",
+          "topic": "Benefits of Trees",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A poem describing the various ways a tree serves nature and humans.",
+            "explanation_text": "The poem lists what a planted tree becomes: a savings bank for squirrels and mice, a house for robins and wrens, a dressing room for butterflies, and a ladder for a schoolboy. It emphasizes that planting a tree creates a legacy.",
+            "key_points": [
+              "Trees provide shelter for birds and animals.",
+              "Trees are part of nature's beauty.",
+              "Planting a tree is a gift to the future."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "tree",
+            "planting",
+            "squirrel",
+            "robin",
+            "butterfly",
+            "nature"
+          ],
+          "question_variations": [
+            "What does the tree become for the squirrel and mouse?",
+            "Who uses the tree as a dressing room?",
+            "What is the message of the poem 'On Planting a Tree'?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_34_king_of_golden_river_1",
+      "chapter_title": "The King of the Golden River Part I",
+      "concepts": [
+        {
+          "id": "c_04_34_01",
+          "topic": "The Black Brothers and Gluck",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The introduction to the story of three brothers in Treasure Valley.",
+            "explanation_text": "Schwartz and Hans were cruel farmers known as the 'Black Brothers'. Their younger brother, Gluck, was kind. A strange visitor (South-West Wind) came during a storm. Gluck let him in, but the brothers kicked him out. The visitor destroyed their valley in a storm, leaving only a calling card.",
+            "key_points": [
+              "Treasure Valley was very fertile.",
+              "Black Brothers were cruel; Gluck was kind.",
+              "South-West Wind visited and was treated badly by the older brothers.",
+              "The valley was ruined as punishment."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "Treasure Valley",
+            "Black Brothers",
+            "Gluck",
+            "South-West Wind",
+            "cruelty"
+          ],
+          "question_variations": [
+            "Why were Schwartz and Hans called the Black Brothers?",
+            "How did Gluck treat the strange visitor?",
+            "What happened to Treasure Valley after the visit?"
+          ],
+          "related_concept_ids": ["c_04_35_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_35_king_of_golden_river_2",
+      "chapter_title": "The King of the Golden River Part II",
+      "concepts": [
+        {
+          "id": "c_04_35_01",
+          "topic": "The Test of Kindness",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "The conclusion where Gluck succeeds in turning the river to gold through kindness.",
+            "explanation_text": "The brothers became goldsmiths but failed. Gluck melted a mug, freeing the King of the Golden River. The King told him that pouring holy water into the river would turn it to gold. The older brothers tried but failed because they were cruel to thirsty people on the way and turned to stone. Gluck shared his water and succeeded.",
+            "key_points": [
+              "The King of the Golden River was trapped in a mug.",
+              "Condition: Pour holy water into the source.",
+              "Schwartz and Hans turned to black stones for their cruelty.",
+              "Gluck's kindness to the dog, child, and old man made the river fertile (gold for him)."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "Golden River",
+            "holy water",
+            "kindness",
+            "black stone",
+            "dwarf"
+          ],
+          "question_variations": [
+            "Why did the older brothers turn into stones?",
+            "Who was the King of the Golden River?",
+            "How did the river become 'gold' for Gluck?"
+          ],
+          "related_concept_ids": ["c_04_34_01"]
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_36_farewell_to_teacher",
+      "chapter_title": "A Farewell to the Teacher",
+      "concepts": [
+        {
+          "id": "c_04_36_01",
+          "topic": "Expressing Gratitude",
+          "relevance_score": 0.9,
+          "content_payload": {
+            "short_definition": "Speeches given by students to thank their teacher at the end of the year.",
+            "explanation_text": "Yogita and Madhu give speeches thanking their teacher, Mrs. Shastri. They appreciate her kindness and teaching methods. They present her with a bouquet and a gift. The teacher responds with love and advice.",
+            "key_points": [
+              "Occasion: Farewell function.",
+              "Students express gratitude and love.",
+              "Teacher encourages them for the future."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "farewell",
+            "speech",
+            "gratitude",
+            "teacher",
+            "gift"
+          ],
+          "question_variations": [
+            "What did the students give Mrs. Shastri?",
+            "Why were the students sad?",
+            "What did the teacher say in her reply?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    },
+    {
+      "chapter_id": "eng_04_37_ryokan_and_starfish",
+      "chapter_title": "Ryokan and the Starfish",
+      "concepts": [
+        {
+          "id": "c_04_37_01",
+          "topic": "Making a Difference",
+          "relevance_score": 1.0,
+          "content_payload": {
+            "short_definition": "A story about a monk who saves starfish, teaching that every individual life matters.",
+            "explanation_text": "Ryokan, a monk in Japan, was walking on a beach after a storm. Thousands of starfish were washed ashore. He began throwing them back into the sea one by one. A disciple asked why he bothered since he couldn't save them all. Ryokan picked up another and said, 'It will make a difference to this little fish.'",
+            "key_points": [
+              "Setting: Beach after a storm.",
+              "Action: Saving starfish.",
+              "Moral: Even small acts of kindness matter to the one being helped."
+            ],
+            "formula_latex": null
+          },
+          "keywords": [
+            "Ryokan",
+            "starfish",
+            "compassion",
+            "monk",
+            "difference"
+          ],
+          "question_variations": [
+            "What was Ryokan doing on the beach?",
+            "What did the disciple ask Ryokan?",
+            "What is the moral of the story 'Ryokan and the Starfish'?"
+          ],
+          "related_concept_ids": []
+        }
+      ]
+    }
+  ]
+}

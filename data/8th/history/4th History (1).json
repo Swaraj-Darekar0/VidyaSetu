@@ -1,0 +1,1809 @@
+[
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_01_maharashtra_before_shivaji",
+    "chapter_title": "Maharashtra before Shivaji",
+    "concepts": [
+      {
+        "id": "c_04_01_01",
+        "topic": "Medieval Period in Maharashtra",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The time period preceding Shivaji Maharaj, characterized by monarchy and the rule of kings.",
+          "explanation_text": "Shivaji Maharaj lived in the medieval period. In those days, monarchy or the rule of kings prevailed everywhere. Many kings pursued their own pleasures instead of the welfare of their subjects, though there were benevolent exceptions like Emperor Akbar and Krishnadevraya.",
+          "key_points": [
+            "Time period: Medieval period.",
+            "Political system: Monarchy (Rule of Kings).",
+            "General condition: Misrule and oppression were common."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "medieval period",
+          "monarchy",
+          "kings",
+          "Akbar",
+          "Krishnadevraya"
+        ],
+        "question_variations": [
+          "In which period did Shivaji Maharaj live?",
+          "What kind of rule prevailed before Shivaji Maharaj?",
+          "Name two benevolent kings mentioned in the history of medieval India."
+        ],
+        "related_concept_ids": [
+          "c_04_01_02"
+        ]
+      },
+      {
+        "id": "c_04_01_02",
+        "topic": "Political Division of Maharashtra",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "The division of Maharashtra between two Sultans before the rise of Shivaji.",
+          "explanation_text": "For about four hundred years before Shivaji Maharaj, Maharashtra was not free. A large portion was under the rule of the Nizamshah of Ahmadnagar and the Adilshah of Bijapur. They were sworn enemies and constantly fought, causing misery to the people.",
+          "key_points": [
+            "Maharashtra was divided between two Sultans.",
+            "Nizamshah of Ahmadnagar.",
+            "Adilshah of Bijapur.",
+            "Constant fighting caused harassment to the people."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Nizamshah",
+          "Adilshah",
+          "Ahmadnagar",
+          "Bijapur",
+          "Sultans"
+        ],
+        "question_variations": [
+          "Who ruled Maharashtra before Shivaji Maharaj?",
+          "Which two Sultans had divided Maharashtra among themselves?",
+          "Why were the people of Maharashtra unhappy before Shivaji?"
+        ],
+        "related_concept_ids": [
+          "c_04_01_03"
+        ]
+      },
+      {
+        "id": "c_04_01_03",
+        "topic": "Watandars (Deshmukhs and Deshpandes)",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Local landlords who owned Jagirs and loved their land more than the country.",
+          "explanation_text": "In Maharashtra, there were many Watandars like Deshmukhs and Deshpandes who owned Jagirs. They loved only their Jagirs and not their country. The constant fighting among them brought great misery to the people.",
+          "key_points": [
+            "Watandars: Deshmukhs and Deshpandes.",
+            "Owned Jagirs.",
+            "Fought among themselves.",
+            "Neglected the welfare of the people."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Watandars",
+          "Deshmukh",
+          "Deshpande",
+          "Jagir",
+          "fighting"
+        ],
+        "question_variations": [
+          "Who were the Watandars in Maharashtra?",
+          "What did the Deshmukhs and Deshpandes own?",
+          "Why were the Watandars a problem for the people?"
+        ],
+        "related_concept_ids": [
+          "c_04_01_04"
+        ]
+      },
+      {
+        "id": "c_04_01_04",
+        "topic": "Swaraj",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Self-government or our own rule.",
+          "explanation_text": "Shivaji Maharaj undertook the noble task of establishing Swaraj in Maharashtra. Swaraj means self-government, our own rule. He fought against powers that oppressed the people and established Hindavi Swaraj based on justice and fair play.",
+          "key_points": [
+            "Meaning: Self-government / Our own rule.",
+            "Established by Shivaji Maharaj.",
+            "Based on justice, fair play, and equal treatment.",
+            "No distinction between Hindus and Muslims."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Swaraj",
+          "self-government",
+          "justice",
+          "Hindavi Swaraj",
+          "equality"
+        ],
+        "question_variations": [
+          "What is the meaning of Swaraj?",
+          "What noble task did Shivaji Maharaj undertake?",
+          "How did Shivaji Maharaj treat people of different religions?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_02_work_of_the_saints",
+    "chapter_title": "Work of the Saints",
+    "concepts": [
+      {
+        "id": "c_04_02_01",
+        "topic": "Shri Chakradhar Swami",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "A prince from Gujarat who became an ascetic and established the Mahanubhav sect.",
+          "explanation_text": "Shri Chakradhar Swami was originally a prince from Gujarat. He moved all over Maharashtra preaching equality and did not believe in discrimination based on gender or caste. He established the 'Mahanubhav' sect.",
+          "key_points": [
+            "Originally a prince from Gujarat.",
+            "Preached equality.",
+            "Established Mahanubhav sect.",
+            "Memorable incidents compiled in 'Leelacharitra'."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Chakradhar Swami",
+          "Mahanubhav",
+          "Leelacharitra",
+          "equality",
+          "Gujarat"
+        ],
+        "question_variations": [
+          "Who founded the Mahanubhav sect?",
+          "Where was Shri Chakradhar Swami from?",
+          "What is the name of the book containing incidents from Chakradhar Swami's life?"
+        ],
+        "related_concept_ids": [
+          "c_04_02_02"
+        ]
+      },
+      {
+        "id": "c_04_02_02",
+        "topic": "Sant Namdeo",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "A great devotee of Vitthal who spread the message of equality across India.",
+          "explanation_text": "Sant Namdeo lived in the village Narasi. He composed numerous songs in praise of God and performed Keertans. He travelled to Punjab and his verses are included in the 'Guru Granth Sahib', the holy book of Sikhs.",
+          "key_points": [
+            "Devotee of Vitthal.",
+            "Village: Narasi.",
+            "Performed Keertans.",
+            "Verses included in Guru Granth Sahib.",
+            "Preached Bhagwat dharma."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Sant Namdeo",
+          "Vitthal",
+          "Keertan",
+          "Punjab",
+          "Guru Granth Sahib",
+          "Narasi"
+        ],
+        "question_variations": [
+          "Whose verses are included in the Guru Granth Sahib?",
+          "Where did Sant Namdeo live?",
+          "What message did Sant Namdeo spread?"
+        ],
+        "related_concept_ids": [
+          "c_04_02_03"
+        ]
+      },
+      {
+        "id": "c_04_02_03",
+        "topic": "Sant Dnyaneshwar",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A saint who wrote the Dnyaneshwari and opened the doors of knowledge to ordinary people.",
+          "explanation_text": "Sant Dnyaneshwar belonged to Apegaon. Despite being persecuted by narrow-minded religious leaders, he wrote the 'Dnyaneshwari' in Marathi, making knowledge accessible to common people. He took 'Samadhi' at Alandi at a very young age.",
+          "key_points": [
+            "Family from Apegaon.",
+            "Siblings: Nivruttinath, Sopandeo, Muktabai.",
+            "Wrote 'Dnyaneshwari' in Marathi.",
+            "Took Samadhi at Alandi.",
+            "Preached brotherhood."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Dnyaneshwar",
+          "Dnyaneshwari",
+          "Alandi",
+          "Marathi",
+          "Apegaon",
+          "Samadhi"
+        ],
+        "question_variations": [
+          "Who wrote the Dnyaneshwari?",
+          "Where did Sant Dnyaneshwar take Samadhi?",
+          "Why were Dnyaneshwar and his siblings persecuted?",
+          "What language did Dnyaneshwar write in?"
+        ],
+        "related_concept_ids": [
+          "c_04_02_04"
+        ]
+      },
+      {
+        "id": "c_04_02_04",
+        "topic": "Sant Eknath",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "A saint from Paithan who preached Bhaktimarg and equality.",
+          "explanation_text": "Sant Eknath lived in Paithan. He wrote Abhangs, Owees, and Bharuds. He preached that the way to reach God was through devotion (Bhaktimarg) and made no distinction between high and low castes. He showed compassion even to animals.",
+          "key_points": [
+            "Lived in Paithan.",
+            "Wrote Abhangs, Owees, Bharuds.",
+            "Preached Bhaktimarg.",
+            "Famous for compassion (story of the thirsty donkey/crying child)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Eknath",
+          "Paithan",
+          "Bhaktimarg",
+          "Bharuds",
+          "compassion"
+        ],
+        "question_variations": [
+          "Where did Sant Eknath live?",
+          "What kind of songs did Sant Eknath write?",
+          "How did Sant Eknath demonstrate equality?"
+        ],
+        "related_concept_ids": [
+          "c_04_02_05"
+        ]
+      },
+      {
+        "id": "c_04_02_05",
+        "topic": "Sant Tukaram",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A saint from Dehu who drowned his loan papers and preached devotion to Vitthal.",
+          "explanation_text": "Sant Tukaram came from Dehu near Pune. He was a grocer who drowned his family's loan papers in the Indrayani river, freeing many from debt. He wrote the 'Tukaram Gatha' and preached that true saintliness lies in caring for the weak.",
+          "key_points": [
+            "From Dehu.",
+            "Drowned loan papers in Indrayani river.",
+            "Wrote 'Tukaram Gatha'.",
+            "Famous quote: 'He alone is a saint... who calls the weak and downtrodden his own'."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Tukaram",
+          "Dehu",
+          "Indrayani",
+          "Gatha",
+          "loan papers",
+          "Vitthal"
+        ],
+        "question_variations": [
+          "Where was Sant Tukaram from?",
+          "What did Sant Tukaram do with the loan papers?",
+          "What is the name of Sant Tukaram's literary work?"
+        ],
+        "related_concept_ids": [
+          "c_04_02_06"
+        ]
+      },
+      {
+        "id": "c_04_02_06",
+        "topic": "Samarth Ramdas",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "A saint who taught the importance of strength and organization.",
+          "explanation_text": "Samarth Ramdas was born at Jamb. He worshipped Lord Rama and Hanuman (God of Strength). He wrote 'Dasbodh' and 'Manache Shlok'. He taught people to organize themselves and fight injustice.",
+          "key_points": [
+            "Born at Jamb.",
+            "Worshipped Rama and Hanuman.",
+            "Wrote 'Dasbodh' and 'Manache Shlok'.",
+            "Mantra: 'Jai Jai Raghuveer Samarth'.",
+            "Preached strength and unity."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Ramdas",
+          "Dasbodh",
+          "Hanuman",
+          "strength",
+          "Jamb",
+          "Manache Shlok"
+        ],
+        "question_variations": [
+          "What message did Samarth Ramdas give?",
+          "Who wrote Dasbodh?",
+          "Which god did Samarth Ramdas build temples for?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_03_maratha_sardars",
+    "chapter_title": "Maratha Sardars - The Famous House of the Bhonsales",
+    "concepts": [
+      {
+        "id": "c_04_03_01",
+        "topic": "Famous Maratha Sardar Families",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Brave families who served the Sultans but kept the warlike spirit alive.",
+          "explanation_text": "During the period of unrest, many Maratha Sardars served the courts of Ahmadnagar and Bijapur. They had their own private armies. Famous families included Jadhavs of Sindkhed, Nimbalkars of Phaltan, Ghorpades of Mudhol, Moreys of Javali, and Bhonsales of Verul.",
+          "key_points": [
+            "Jadhavs of Sindkhed.",
+            "Nimbalkars of Phaltan.",
+            "Ghorpades of Mudhol.",
+            "Moreys of Javali.",
+            "Bhonsales of Verul."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Sardars",
+          "Jadhav",
+          "Nimbalkar",
+          "Ghorpade",
+          "Morey",
+          "Bhonsale"
+        ],
+        "question_variations": [
+          "Name the famous Maratha Sardar families.",
+          "Where were the Jadhavs from?",
+          "Who were the Sardars of Phaltan?"
+        ],
+        "related_concept_ids": [
+          "c_04_03_02"
+        ]
+      },
+      {
+        "id": "c_04_03_02",
+        "topic": "Restoration of Ghrushneshwar Temple",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Maloji Raje Bhonsale restored the neglected Ghrushneshwar temple.",
+          "explanation_text": "The temple of Ghrushneshwar near Verul caves was falling to pieces. Maloji Raje Bhonsale, a great devotee of Shiva, carried out extensive repairs and restored its lost grandeur.",
+          "key_points": [
+            "Temple: Ghrushneshwar near Verul.",
+            "Restored by: Maloji Raje Bhonsale.",
+            "Maloji was a devotee of Shiva."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Ghrushneshwar",
+          "Maloji Raje",
+          "Verul",
+          "temple",
+          "Shiva"
+        ],
+        "question_variations": [
+          "Who restored the Ghrushneshwar temple?",
+          "Where is the Ghrushneshwar temple located?",
+          "Which Bhonsale Sardar was a great devotee of Shiva?"
+        ],
+        "related_concept_ids": [
+          "c_04_03_03"
+        ]
+      },
+      {
+        "id": "c_04_03_03",
+        "topic": "Shahaji Raje",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A brave General, father of Shivaji Maharaj, who served Nizamshah and Adilshah.",
+          "explanation_text": "Shahaji Raje was the son of Maloji Raje. He was a brave and capable man. He fought bravely to save Nizamshahi but later joined Adilshah due to the treachery of Malik Amber's son. He was honoured with the title 'Sar Lashkar'.",
+          "key_points": [
+            "Son of Maloji Raje.",
+            "Husband of Jijabai (daughter of Lakhujirao Jadhav).",
+            "Served Nizamshah and later Adilshah.",
+            "Title: Sar Lashkar."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Shahaji Raje",
+          "Nizamshah",
+          "Adilshah",
+          "Jijabai",
+          "Sar Lashkar"
+        ],
+        "question_variations": [
+          "Who was Shahaji Raje?",
+          "Who was the wife of Shahaji Raje?",
+          "Why did Shahaji Raje leave Nizamshahi?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_04_shivajis_childhood",
+    "chapter_title": "Shivaji's Childhood",
+    "concepts": [
+      {
+        "id": "c_04_04_01",
+        "topic": "Birth of Shivaji Maharaj",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shivaji was born on Fort Shivneri on 19th February 1630.",
+          "explanation_text": "Shivaji was born on the auspicious day of Phalgun Vadya Tritiya, Shaka era 1551 (19 February 1630). He was born on the strong fort Shivneri, near Junnar, which was safe for Jijabai during unsettled times.",
+          "key_points": [
+            "Date of Birth: 19 February 1630.",
+            "Place of Birth: Fort Shivneri.",
+            "Parents: Shahaji Raje and Jijabai."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Shivneri",
+          "birth",
+          "1630",
+          "Junnar",
+          "Phalgun Vadya Tritiya"
+        ],
+        "question_variations": [
+          "When was Shivaji Maharaj born?",
+          "Where was Shivaji Maharaj born?",
+          "Why was Jijabai sent to Fort Shivneri?"
+        ],
+        "related_concept_ids": [
+          "c_04_04_02"
+        ]
+      },
+      {
+        "id": "c_04_04_02",
+        "topic": "Shivaji's Upbringing",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Jijabai educated Shivaji with stories of heroes and saints.",
+          "explanation_text": "Jijabai told Shivaji stories of Rama, Krishna, Bhim, and Abhimanyu to instill valour. She also recited devotional songs of saints. Shivaji played with children of Mavlas, imitating birds and animals and building mud forts.",
+          "key_points": [
+            "Educated by Jijabai.",
+            "Listened to stories of brave men and saints.",
+            "Played with Mavla children.",
+            "Games: Building earth forts, hide and seek."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Jijabai",
+          "stories",
+          "Mavlas",
+          "games",
+          "education"
+        ],
+        "question_variations": [
+          "How did Jijabai educate Shivaji?",
+          "What games did Shivaji play in his childhood?",
+          "Who were Shivaji's playmates?"
+        ],
+        "related_concept_ids": []
+      }
+
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_05_shivajis_education",
+    "chapter_title": "Shivaji's Education",
+    "concepts": [
+      {
+        "id": "c_04_05_01",
+        "topic": "Education in Bangalore and Pune",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Shivaji's formal education in warfare and administration under the guidance of Shahaji Raje and Jijabai.",
+          "explanation_text": "Shivaji's education began in Bangalore under Shahaji Raje's supervision. He learned reading, writing, horse riding, wrestling, and using swords. Later in Pune, eminent teachers taught him administration, war tactics, and fort architecture.",
+          "key_points": [
+            "Started in Bangalore at age 7.",
+            "Learned warfare: Swords, Dandpatta, Wrestling.",
+            "Learned administration and fort architecture in Pune.",
+            "Teachers appointed by Shahaji Raje."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Bangalore",
+          "Pune",
+          "warfare",
+          "Dandpatta",
+          "administration"
+        ],
+        "question_variations": [
+          "Where did Shivaji's education begin?",
+          "What skills did Shivaji learn in his childhood?",
+          "Who appointed teachers for Shivaji?"
+        ],
+        "related_concept_ids": ["c_04_05_02"]
+      },
+      {
+        "id": "c_04_05_02",
+        "topic": "Rejuvenation of Pune by Jijabai",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "The restoration of the devastated city of Pune by Jijabai and Shivaji.",
+          "explanation_text": "When Jijabai returned to Pune, the city was in ruins. She reassured the people, repaired temples, and encouraged agriculture. People started settling back, and the town began throbbing with life again.",
+          "key_points": [
+            "Pune was devastated by enemies.",
+            "Jijabai reassured the people.",
+            "Temples repaired, agriculture restarted.",
+            "Pune transformed."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Pune",
+          "Jijabai",
+          "rejuvenation",
+          "temples",
+          "agriculture"
+        ],
+        "question_variations": [
+          "How was Pune rejuvenated?",
+          "What did Jijabai do for the people of Pune?",
+          "Why was Pune in shambles before Jijabai's return?"
+        ],
+        "related_concept_ids": ["c_04_05_03"]
+      },
+      {
+        "id": "c_04_05_03",
+        "topic": "Dadaji Konddev's Reforms",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Administrative and agricultural reforms introduced by Dadaji Konddev in Pune Jagir.",
+          "explanation_text": "Dadaji Konddev was the Subhedar of Kondana. He was strict and honest. He built the 'Lal Mahal'. He gave tax concessions to peasants, offered prizes for killing wolves, raised peasant patrols against thieves, and fixed land revenue.",
+          "key_points": [
+            "Subhedar of Kondana.",
+            "Built Lal Mahal.",
+            "Gave land tax concessions.",
+            "Rewards for killing wolves.",
+            "Fixed land revenue system."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Dadaji Konddev",
+          "Lal Mahal",
+          "land revenue",
+          "wolves",
+          "Subhedar"
+        ],
+        "question_variations": [
+          "Who was Dadaji Konddev?",
+          "What reforms did Dadaji Konddev introduce?",
+          "Why did Dadaji Konddev give concessions in land tax?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_05_04",
+        "topic": "Shivaji's Marriage",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Shivaji's marriage to Saibai from the Nimbalkar family.",
+          "explanation_text": "Jijamata decided to get Shivaji married. A search for a suitable bride began, and Saibai from the Nimbalkar family of Phaltan was chosen. The marriage was celebrated with great splendour.",
+          "key_points": [
+            "Wife: Saibai.",
+            "Family: Nimbalkars of Phaltan.",
+            "Arranged by Jijamata."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Saibai",
+          "Nimbalkar",
+          "Phaltan",
+          "marriage"
+        ],
+        "question_variations": [
+          "Who was Shivaji's wife?",
+          "Which family did Saibai belong to?",
+          "Who arranged Shivaji's marriage?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_06_oath_of_swaraj",
+    "chapter_title": "The Oath of Swaraj",
+    "concepts": [
+      {
+        "id": "c_04_06_01",
+        "topic": "The Oath at Raireshwar",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shivaji and his Mavla friends took the oath of Swaraj at the Raireshwar temple in 1645.",
+          "explanation_text": "In 1645, at the Raireshwar temple south-west of Pune, Shivaji spoke to his friends about ending their slavery under foreign rule. They took a solemn oath to establish 'Hindavi Swaraj' (their own rule) with Lord Raireshwar as their witness.",
+          "key_points": [
+            "Location: Raireshwar temple.",
+            "Year: 1645.",
+            "Goal: Hindavi Swaraj.",
+            "Participants: Shivaji and Mavlas."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Raireshwar",
+          "oath",
+          "1645",
+          "Hindavi Swaraj",
+          "Mavlas"
+        ],
+        "question_variations": [
+          "Where did Shivaji take the oath of Swaraj?",
+          "In which year did the event at Raireshwar take place?",
+          "What was the ideal of Shivaji and his friends?"
+        ],
+        "related_concept_ids": ["c_04_06_02"]
+      },
+      {
+        "id": "c_04_06_02",
+        "topic": "Preparations in Maval Valley",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Military training and surveying of forts in the Maval region.",
+          "explanation_text": "After the oath, Shivaji and his comrades started intensive training in swordsmanship and riding. They explored secret paths in the hills and made detailed surveys of forts and military establishments. Shivaji also united the quarreling Deshmukhs of the Maval valley.",
+          "key_points": [
+            "Training: Swordsmanship, riding.",
+            "Survey: Forts, secret paths, cellars.",
+            "Uniting Deshmukhs (Jedhe, Bandal, etc.)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Maval",
+          "training",
+          "survey",
+          "Deshmukhs",
+          "forts"
+        ],
+        "question_variations": [
+          "What preparations did Shivaji make in the Maval valley?",
+          "How did Shivaji use the Deshmukhs for Swaraj?",
+          "What did Shivaji's detailed survey include?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_06_03",
+        "topic": "Shivaji's Royal Seal (Rajmudra)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The official seal of Shivaji Maharaj in Sanskrit, symbolizing the welfare of the people.",
+          "explanation_text": "Shahaji Raje cast a special royal seal for Shivaji. Unlike others in Persian, this was in Sanskrit. It stated: 'This seal will grow in splendour like the new moon... receiving homage from the whole world, it denotes the welfare of the people.' It was a guarantee of independent rule.",
+          "key_points": [
+            "Language: Sanskrit.",
+            "Symbolism: New moon (Pratipada).",
+            "Meaning: Welfare of the people.",
+            "Significance: Foundation of Swaraj."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Royal Seal",
+          "Rajmudra",
+          "Sanskrit",
+          "welfare",
+          "new moon"
+        ],
+        "question_variations": [
+          "What was written on Shivaji's Royal Seal?",
+          "Why was the Royal Seal in Sanskrit significant?",
+          "What did the Royal Seal guarantee to the people?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_07_swaraj_first_conquest",
+    "chapter_title": "Swaraj : First Conquest",
+    "concepts": [
+      {
+        "id": "c_04_07_01",
+        "topic": "Capture of Torana Fort",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The first fort captured by Shivaji to lay the foundation of Swaraj.",
+          "explanation_text": "Shivaji decided to capture a hill fort to control the territory. He selected Torana (Kanad Valley), which was neglected by Adilshah. With Mavlas like Tanaji Malusare and Yesaji Kank, he captured it and named it 'Prachandgad'.",
+          "key_points": [
+            "First fort captured.",
+            "Location: Kanad Valley.",
+            "Renamed: Prachandgad.",
+            "Key associates: Tanaji Malusare, Yesaji Kank."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Torana",
+          "Prachandgad",
+          "first conquest",
+          "Tanaji Malusare",
+          "Kanad Valley"
+        ],
+        "question_variations": [
+          "Which was the first fort captured by Shivaji?",
+          "What name did Shivaji give to Fort Torana?",
+          "Why did Shivaji select Torana for the first conquest?"
+        ],
+        "related_concept_ids": ["c_04_07_02"]
+      },
+      {
+        "id": "c_04_07_02",
+        "topic": "Blessings of Goddess Bhavani",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Discovery of hidden treasure on Torana fort.",
+          "explanation_text": "While repairing Torana, workers found four metal pots filled with mohurs (gold coins). They gave it all to Shivaji, believing it was a gift from Goddess Bhavani. Shivaji used this wealth to buy arms and complete the Murumbdeo fort.",
+          "key_points": [
+            "Treasure found on Torana.",
+            "Considered blessing of Goddess Bhavani.",
+            "Used for arms and fort construction."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Bhavani",
+          "treasure",
+          "mohurs",
+          "Torana"
+        ],
+        "question_variations": [
+          "What did the workers find on Fort Torana?",
+          "How did Shivaji use the treasure found on Torana?",
+          "Who was believed to have blessed Shivaji with the treasure?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_07_03",
+        "topic": "Rajgad - The First Capital",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The fort of Murumbdeo was repaired, renamed Rajgad, and became the first capital of Swaraj.",
+          "explanation_text": "Shivaji captured the unfinished hill of Murumbdeo, 15 km from Torana. He used the Torana treasure to fortify it and named it Rajgad. It became the first capital of Swaraj.",
+          "key_points": [
+            "Original name: Murumbdeo.",
+            "New name: Rajgad.",
+            "Status: First Capital of Swaraj."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Rajgad",
+          "Murumbdeo",
+          "capital",
+          "first capital"
+        ],
+        "question_variations": [
+          "Which fort became the first capital of Swaraj?",
+          "What was the earlier name of Rajgad?",
+          "Where is Rajgad located relative to Torana?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_08_defeat_of_internal_enemies",
+    "chapter_title": "Defeat of Internal Enemies",
+    "concepts": [
+      {
+        "id": "c_04_08_01",
+        "topic": "Dealing with Internal Enemies",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Shivaji's strict action against relatives and Sardars who opposed Swaraj.",
+          "explanation_text": "Some people were jealous of Shivaji. Sardars like Khandoji and Baji Ghorpade created trouble and were defeated. Bajaji Naik Nimbalkar (brother-in-law) and Sambhaji Mohite (relative) were also punished. For Shivaji, duty came before relatives.",
+          "key_points": [
+            "Defeated Ghorpades.",
+            "Fought Bajaji Naik Nimbalkar.",
+            "Arrested Sambhaji Mohite.",
+            "Principle: Duty before relatives."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "internal enemies",
+          "duty",
+          "relatives",
+          "Sambhaji Mohite"
+        ],
+        "question_variations": [
+          "How did Shivaji deal with his relatives who opposed Swaraj?",
+          "Who was Sambhaji Mohite?",
+          "What was Shivaji's policy regarding duty and relatives?"
+        ],
+        "related_concept_ids": ["c_04_08_02"]
+      },
+      {
+        "id": "c_04_08_02",
+        "topic": "Conquest of Javali",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The defeat of Chandrarao Morey and capture of the strategic Javali region.",
+          "explanation_text": "Chandrarao Morey of Javali was a powerful Jagirdar who opposed Shivaji. Javali was a thick forest and strategically important. Shivaji attacked Javali, defeated Morey, and captured the region. This doubled the boundaries of Swaraj.",
+          "key_points": [
+            "Opponent: Chandrarao Morey.",
+            "Region: Javali (Thick forest).",
+            "Outcome: Javali captured.",
+            "Significance: Doubled Swaraj boundaries."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Javali",
+          "Chandrarao Morey",
+          "conquest",
+          "forest"
+        ],
+        "question_variations": [
+          "Who was the Jagirdar of Javali?",
+          "Why was the conquest of Javali important?",
+          "What title did Shivaji use in his note to Morey?"
+        ],
+        "related_concept_ids": ["c_04_08_03"]
+      },
+      {
+        "id": "c_04_08_03",
+        "topic": "Fort Raigad and Pratapgad",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Acquisition of Rairi (Raigad) and construction of Pratapgad after Javali conquest.",
+          "explanation_text": "After conquering Javali, Shivaji captured the impregnable fort of Rairi and renamed it 'Raigad'. Later, he built a new fort on the nearby Bhorpya hill and named it 'Pratapgad'.",
+          "key_points": [
+            "Rairi renamed to Raigad.",
+            "Pratapgad built on Bhorpya hill.",
+            "Result of Javali conquest."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Raigad",
+          "Rairi",
+          "Pratapgad",
+          "Bhorpya hill"
+        ],
+        "question_variations": [
+          "What was the earlier name of Fort Raigad?",
+          "Which fort did Shivaji build on Bhorpya hill?",
+          "Which forts came under Swaraj after the conquest of Javali?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_09_pratapgad_makes_history",
+    "chapter_title": "Pratapgad makes History",
+    "concepts": [
+      {
+        "id": "c_04_09_01",
+        "topic": "Afzalkhan's Challenge",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Afzalkhan, a mighty Sardar of Bijapur, accepted the challenge to arrest or kill Shivaji.",
+          "explanation_text": "At the court of Adilshah, Badi Saheba asked who would march against Shivaji. Afzalkhan, a giant of a man with immense physical strength, accepted the challenge. He boasted that he would bring Shivaji back alive or dead.",
+          "key_points": [
+            "Court: Adilshah of Bijapur.",
+            "Challenger: Afzalkhan.",
+            "Goal: To arrest or kill Shivaji.",
+            "Khan marched with a huge army."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Afzalkhan",
+          "Bijapur",
+          "Badi Saheba",
+          "challenge",
+          "Adilshah"
+        ],
+        "question_variations": [
+          "Who accepted the challenge to march against Shivaji?",
+          "What did Afzalkhan boast about in the court?",
+          "Who was Badi Saheba?"
+        ],
+        "related_concept_ids": ["c_04_09_02"]
+      },
+      {
+        "id": "c_04_09_02",
+        "topic": "Strategic Move to Pratapgad",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Shivaji shifted his headquarters to Pratapgad to counter Afzalkhan's superior army.",
+          "explanation_text": "Realizing that Afzalkhan had a huge army and open battle was impossible, Shivaji moved from Rajgad to Pratapgad. Pratapgad was surrounded by thick forests and high hills, making it difficult for the Khan's artillery and army to maneuver.",
+          "key_points": [
+            "Shifted from Rajgad to Pratapgad.",
+            "Reason: Strategic advantage (thick forest, hills).",
+            "Khan was angry because he couldn't use his artillery effectively."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Pratapgad",
+          "Rajgad",
+          "strategy",
+          "forest",
+          "artillery"
+        ],
+        "question_variations": [
+          "Why did Shivaji move to Pratapgad?",
+          "Why was Afzalkhan angry when Shivaji moved to Pratapgad?",
+          "What was the strategic advantage of Pratapgad?"
+        ],
+        "related_concept_ids": ["c_04_09_03"]
+      },
+      {
+        "id": "c_04_09_03",
+        "topic": "The Meeting and The Struggle",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The historic meeting where Shivaji killed Afzalkhan in self-defence.",
+          "explanation_text": "Shivaji met Afzalkhan at the foothills of Pratapgad. He wore a coat of mail and carried a Waghnakh (tiger claws) and Bichwa. When they embraced, the Khan tried to strangle and stab Shivaji. Shivaji retaliated by tearing the Khan's stomach with the Waghnakh.",
+          "key_points": [
+            "Weapons: Waghnakh, Bichwa, Dandpatta.",
+            "Protection: Coat of mail (Chilkhut), Jiretope.",
+            "Incident: Khan attacked first; Shivaji killed him.",
+            "Jivaji Mahala saved Shivaji from Bada Sayyad ('Hota Jiva Mhanun Vachala Shiva')."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Waghnakh",
+          "Bichwa",
+          "Jivaji Mahala",
+          "Bada Sayyad",
+          "coat of mail"
+        ],
+        "question_variations": [
+          "How did Shivaji kill Afzalkhan?",
+          "What weapons did Shivaji carry to the meeting?",
+          "Who saved Shivaji from Bada Sayyad?",
+          "Explain the saying 'Hota Jiva Mhanun Vachala Shiva'."
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_10_baji_prabhu",
+    "chapter_title": "Baji Prabhu and the Memorable Battle of Ghodkhind",
+    "concepts": [
+      {
+        "id": "c_04_10_01",
+        "topic": "Siege of Panhala and Shiva Kashid",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Shivaji's escape from Panhala siege with the help of Shiva Kashid's sacrifice.",
+          "explanation_text": "Siddi Jauhar laid siege to Panhala. To escape, a plan was made with two palanquins. Shiva Kashid, a hairdresser who looked like Shivaji, sat in the decoy palanquin and was captured and killed. His sacrifice allowed Shivaji to escape via a difficult route.",
+          "key_points": [
+            "Siege by: Siddi Jauhar.",
+            "Fort: Panhalgad.",
+            "Hero: Shiva Kashid (impersonator).",
+            "Shiva Kashid sacrificed his life for Swaraj."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Panhala",
+          "Siddi Jauhar",
+          "Shiva Kashid",
+          "palanquin",
+          "sacrifice"
+        ],
+        "question_variations": [
+          "Who laid siege to Panhalgad?",
+          "Who sacrificed his life by impersonating Shivaji?",
+          "How did Shivaji escape from the siege of Panhala?"
+        ],
+        "related_concept_ids": ["c_04_10_02"]
+      },
+      {
+        "id": "c_04_10_02",
+        "topic": "Battle of Ghodkhind (Pavan Khind)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Baji Prabhu Deshpande's heroic stand at Ghodkhind to ensure Shivaji's safety.",
+          "explanation_text": "Shivaji was pursued by Siddi Masaud. At Ghodkhind pass, Baji Prabhu Deshpande stayed back with a handful of Mavlas to stop the enemy while Shivaji reached Vishalgad. Baji fought bravely despite fatal wounds and died only after hearing the gunshots signaling Shivaji's safety.",
+          "key_points": [
+            "Location: Ghodkhind.",
+            "Hero: Baji Prabhu Deshpande.",
+            "Goal: Hold the pass until Shivaji reached Vishalgad.",
+            "Renamed: Pavan Khind (Holy Pass)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Ghodkhind",
+          "Pavan Khind",
+          "Baji Prabhu Deshpande",
+          "Vishalgad",
+          "Siddi Masaud"
+        ],
+        "question_variations": [
+          "Why is Ghodkhind known as Pavan Khind?",
+          "What did Baji Prabhu say to Shivaji at Ghodkhind?",
+          "What was the signal of Shivaji's safe arrival at Vishalgad?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_11_discomfiture_of_shaistakhan",
+    "chapter_title": "The Discomfiture of Shaistakhan",
+    "concepts": [
+      {
+        "id": "c_04_11_01",
+        "topic": "Shaistakhan's Invasion",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Aurangzeb sent Shaistakhan to attack Swaraj; he occupied Lal Mahal in Pune.",
+          "explanation_text": "Aurangzeb sent his uncle Shaistakhan with a huge army. He captured Chakan fort despite Firangoji Narsala's brave defence. He then occupied Lal Mahal, Shivaji's childhood home in Pune, and harassed the people.",
+          "key_points": [
+            "Invader: Shaistakhan (Aurangzeb's uncle).",
+            "Captured: Chakan (defended by Firangoji Narsala).",
+            "Occupied: Lal Mahal in Pune."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Shaistakhan",
+          "Lal Mahal",
+          "Firangoji Narsala",
+          "Chakan",
+          "Aurangzeb"
+        ],
+        "question_variations": [
+          "Who was Shaistakhan?",
+          "Where did Shaistakhan set up his camp in Pune?",
+          "Who defended the fort of Chakan?"
+        ],
+        "related_concept_ids": ["c_04_11_02"]
+      },
+      {
+        "id": "c_04_11_02",
+        "topic": "Raid on Lal Mahal",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shivaji's daring night attack on Shaistakhan in Lal Mahal.",
+          "explanation_text": "Shivaji infiltrated Lal Mahal at night with a marriage procession cover. He attacked Shaistakhan, cutting off three of his fingers as he tried to escape through a window. This humiliation forced Shaistakhan to leave Pune.",
+          "key_points": [
+            "Date: 5th April 1663.",
+            "Strategy: Entered via marriage procession.",
+            "Outcome: Shaistakhan lost three fingers.",
+            "Result: Khan transferred to Bengal."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Lal Mahal",
+          "fingers",
+          "raid",
+          "marriage procession",
+          "humiliation"
+        ],
+        "question_variations": [
+          "How did Shivaji teach Shaistakhan a lesson?",
+          "What happened to Shaistakhan in Lal Mahal?",
+          "Why was Shaistakhan transferred to Bengal?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_12_siege_of_purandar",
+    "chapter_title": "The Siege of Purandar and the Treaty with the Moghul Emperor",
+    "concepts": [
+      {
+        "id": "c_04_12_01",
+        "topic": "Raid on Surat",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Shivaji raided the rich trading city of Surat to teach Aurangzeb a lesson.",
+          "explanation_text": "To answer the Moghul devastation of Maharashtra, Shivaji raided Surat, a rich trade center. He brought back immense wealth but spared religious places and women.",
+          "key_points": [
+            "Target: Surat (Trade center).",
+            "Purpose: Retaliation against Moghuls.",
+            "Ethics: Spared mosques, churches, and women."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Surat",
+          "raid",
+          "wealth",
+          "Aurangzeb"
+        ],
+        "question_variations": [
+          "Why did Shivaji raid Surat?",
+          "What ethics did Shivaji follow during the raid on Surat?"
+        ],
+        "related_concept_ids": ["c_04_12_02"]
+      },
+      {
+        "id": "c_04_12_02",
+        "topic": "Murarbaji's Valour at Purandar",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The brave defence of Purandar fort by Murarbaji Deshpande against Dilerkhan.",
+          "explanation_text": "Mirza Raje Jaising and Dilerkhan besieged Purandar. Murarbaji Deshpande fought like a lion. Even when offered a Jagir by Dilerkhan to switch sides, he refused and died fighting. His bravery impressed even the enemy.",
+          "key_points": [
+            "Fort: Purandar.",
+            "Enemy: Dilerkhan.",
+            "Hero: Murarbaji Deshpande.",
+            "Outcome: Murarbaji died fighting."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Purandar",
+          "Murarbaji",
+          "Dilerkhan",
+          "Mirza Raje Jaising",
+          "siege"
+        ],
+        "question_variations": [
+          "Who defended the fort of Purandar?",
+          "What did Murarbaji say to Dilerkhan's offer?",
+          "How did Murarbaji die?"
+        ],
+        "related_concept_ids": ["c_04_12_03"]
+      },
+      {
+        "id": "c_04_12_03",
+        "topic": "Treaty of Purandar",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A treaty signed in 1665 where Shivaji handed over forts to the Moghuls.",
+          "explanation_text": "Realizing he couldn't fight the powerful Moghuls immediately, Shivaji signed a treaty with Jaising. He agreed to visit Agra and handed over 23 forts and territory with 4 lakh hons revenue to the Emperor.",
+          "key_points": [
+            "Year: 1665.",
+            "Signed with: Mirza Raje Jaising.",
+            "Terms: 23 forts and 4 lakh hons revenue given to Moghuls.",
+            "Shivaji agreed to visit Agra."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Treaty of Purandar",
+          "1665",
+          "23 forts",
+          "Jaising",
+          "Agra"
+        ],
+        "question_variations": [
+          "What were the terms of the Treaty of Purandar?",
+          "When was the Treaty of Purandar signed?",
+          "Why did Shivaji sign the treaty with the Moghuls?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_13_shivaji_gives_slip",
+    "chapter_title": "Shivaji gives the slip to the Emperor",
+    "concepts": [
+      {
+        "id": "c_04_13_01",
+        "topic": "Visit to Agra and The Insult",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shivaji visited Agra for Aurangzeb's 50th birthday but was insulted in the court.",
+          "explanation_text": "Putting his trust in Jaising, Shivaji visited Agra. In the Emperor's court, he was made to stand in the back rows behind Jaswantsing Rathod, whom the Marathas had defeated many times. Feeling insulted, Shivaji left the court angrily and decided never to see the Emperor's face again.",
+          "key_points": [
+            "Occasion: Aurangzeb's 50th birthday.",
+            "Location: Diwan-i-Khas, Agra.",
+            "Insult: Made to stand behind Jaswantsing Rathod.",
+            "Reaction: Shivaji left the court in anger."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Agra",
+          "Aurangzeb",
+          "insult",
+          "Jaswantsing Rathod",
+          "birthday"
+        ],
+        "question_variations": [
+          "Why did Shivaji feel insulted at the Emperor's court?",
+          "Whose birthday was being celebrated in Agra?",
+          "Why did Shivaji decide never to see the Emperor's face again?"
+        ],
+        "related_concept_ids": ["c_04_13_02"]
+      },
+      {
+        "id": "c_04_13_02",
+        "topic": "Escape from Agra",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shivaji's dramatic escape from house arrest using baskets of sweets.",
+          "explanation_text": "Aurangzeb put Shivaji under house arrest. Shivaji pretended to be ill and started sending huge baskets of sweets to Sadhus for his recovery. One day, he and Sambhaji hid in the baskets and escaped. His servants Hiroji Farjand and Madari Mehetar risked their lives to help him.",
+          "key_points": [
+            "Strategy: Pretended illness, sent sweet baskets.",
+            "Escape method: Hid in baskets.",
+            "Helpers: Hiroji Farjand (slept in bed) and Madari Mehetar (massaged feet).",
+            "Year: 1666."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "escape",
+          "sweet baskets",
+          "Hiroji Farjand",
+          "Madari Mehetar",
+          "1666"
+        ],
+        "question_variations": [
+          "How did Shivaji escape from Agra?",
+          "Who helped Shivaji in his escape from Agra?",
+          "What ruse did Shivaji use to deceive the guards?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_14_fort_captured_lion_dead",
+    "chapter_title": "The Fort is captured but the Lion is dead",
+    "concepts": [
+      {
+        "id": "c_04_14_01",
+        "topic": "Tanaji's Vow",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Tanaji Malusare postponed his son's wedding to capture Kondana fort.",
+          "explanation_text": "Jijamata wanted Kondana recaptured from the Moghuls. Tanaji Malusare, who came to invite Shivaji to his son Raiba's wedding, pledged to capture the fort first. He said, 'First perform the marriage of Kondana, then Raiba'.",
+          "key_points": [
+            "Fort: Kondana.",
+            "Tanaji's Son: Raiba.",
+            "Famous Quote: 'First perform the marriage of Kondana, then Raiba'.",
+            "Tanaji was from Umrathe."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Tanaji Malusare",
+          "Kondana",
+          "Raiba",
+          "wedding",
+          "vow"
+        ],
+        "question_variations": [
+          "What did Tanaji say about Raiba's wedding?",
+          "Why did Tanaji decide to capture Kondana immediately?",
+          "Where was Tanaji Malusare from?"
+        ],
+        "related_concept_ids": ["c_04_14_02"]
+      },
+      {
+        "id": "c_04_14_02",
+        "topic": "Battle of Sinhagad",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The fierce battle where Tanaji fought Udaybhan and sacrificed his life.",
+          "explanation_text": "Tanaji and his Mavlas scaled a steep precipice to enter the fort. A fierce battle ensued with the fort keeper Udaybhan. Both fought like lions and died. Suryaji (Tanaji's brother) cut the retreat rope to force the Mavlas to fight back and win.",
+          "key_points": [
+            "Enemy Commander: Udaybhan.",
+            "Entry: Scaled a steep precipice.",
+            "Outcome: Fort captured, Tanaji died.",
+            "Renamed: Sinhagad (Lion's Fort)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Udaybhan",
+          "Sinhagad",
+          "precipice",
+          "Suryaji",
+          "sacrifice"
+        ],
+        "question_variations": [
+          "Who was Udaybhan?",
+          "How did the fort Kondana become Sinhagad?",
+          "What did Shivaji say upon hearing of Tanaji's death?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_15_memorable_ceremony",
+    "chapter_title": "A Memorable Ceremony",
+    "concepts": [
+      {
+        "id": "c_04_15_01",
+        "topic": "Need for Coronation",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Shivaji decided to be crowned to gain formal recognition for Swaraj.",
+          "explanation_text": "To have the Swaraj recognized by all other princes and powers, and to give it a firm footing, Shivaji decided to have himself crowned. It was not for self-glorification but to establish the new kingdom formally.",
+          "key_points": [
+            "Purpose: Recognition and firm footing for Swaraj.",
+            "Not for personal happiness.",
+            "Symbol of independent sovereignty."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "coronation",
+          "recognition",
+          "Swaraj",
+          "sovereignty"
+        ],
+        "question_variations": [
+          "Why did Shivaji Maharaj decide to have himself crowned?",
+          "Was the coronation for Shivaji's personal happiness?"
+        ],
+        "related_concept_ids": ["c_04_15_02"]
+      },
+      {
+        "id": "c_04_15_02",
+        "topic": "The Coronation Ceremony",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shivaji was crowned Chhatrapati at Raigad in 1674 by Gagabhatt.",
+          "explanation_text": "The coronation took place in 1674 at Raigad, the capital. The renowned priest Gagabhatt from Varanasi officiated. He poured water from seven holy rivers over Shivaji. Shivaji started a new calendar (Coronation Calendar) and minted his own coins.",
+          "key_points": [
+            "Date: 1674.",
+            "Place: Raigad.",
+            "Priest: Gagabhatt.",
+            "New Title: Chhatrapati.",
+            "New Era: Coronation Calendar (Rajyabhishek Shaka)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Raigad",
+          "Gagabhatt",
+          "1674",
+          "Chhatrapati",
+          "coins"
+        ],
+        "question_variations": [
+          "When and where did Shivaji's coronation take place?",
+          "Who officiated Shivaji's coronation?",
+          "What changes did Shivaji introduce after the coronation?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_16_campaign_in_south",
+    "chapter_title": "Campaign in the South",
+    "concepts": [
+      {
+        "id": "c_04_16_01",
+        "topic": "Southern Campaign Strategy",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Shivaji planned a southern campaign to create a strong base against the Moghul threat.",
+          "explanation_text": "With the Moghul threat from the North looming, Shivaji decided to conquer the South to create a safe rear base. He visited Golconda and made an alliance with Kutubshah, who received him with great honour.",
+          "key_points": [
+            "Reason: Threat from Aurangzeb (North).",
+            "Goal: Create a powerful base in the South.",
+            "Alliance: Kutubshah of Golconda."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "South",
+          "Golconda",
+          "Kutubshah",
+          "Moghul threat"
+        ],
+        "question_variations": [
+          "Why did Shivaji undertake the Campaign in the South?",
+          "Who did Shivaji visit in Golconda?"
+        ],
+        "related_concept_ids": ["c_04_16_02"]
+      },
+      {
+        "id": "c_04_16_02",
+        "topic": "Conquest of Jinji and Meeting Vyankoji",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Shivaji captured Jinji and tried to reconcile with his step-brother Vyankoji.",
+          "explanation_text": "Shivaji captured the strong fort of Jinji and besieged Vellore. He met his step-brother Vyankoji Raje (ruler of Thanjavur) to ask for his help in Swaraj, but Vyankoji was indifferent. Later, Shivaji defeated Vyankoji's troops but treated him with understanding.",
+          "key_points": [
+            "Forts captured: Jinji, Vellore.",
+            "Step-brother: Vyankoji Raje.",
+            "Advice to Vyankoji: 'Do not put your trust in your enemies'."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Jinji",
+          "Vellore",
+          "Vyankoji Raje",
+          "Tanjavur"
+        ],
+        "question_variations": [
+          "Which strong fort did Shivaji capture in the South?",
+          "Who was Vyankoji Raje?",
+          "What advice did Shivaji give to Vyankoji Raje?"
+        ],
+        "related_concept_ids": ["c_04_16_03"]
+      },
+      {
+        "id": "c_04_16_03",
+        "topic": "Death of Shivaji Maharaj",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shivaji Maharaj passed away on 3rd April 1680.",
+          "explanation_text": "After returning from the Southern campaign, Shivaji Maharaj fell ill. He passed away on 3rd April 1680 at the age of fifty. The protector of the people was lost, plunging Swaraj into sorrow.",
+          "key_points": [
+            "Date of Death: 3rd April 1680.",
+            "Age: 50 years.",
+            "Legacy: Founder of Hindavi Swaraj."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "death",
+          "1680",
+          "3rd April",
+          "Raigad"
+        ],
+        "question_variations": [
+          "When did Shivaji Maharaj die?",
+          "How old was Shivaji Maharaj when he passed away?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_17_management_forts_navy",
+    "chapter_title": "Management of Forts and the Navy",
+    "concepts": [
+      {
+        "id": "c_04_17_01",
+        "topic": "Importance and Management of Forts",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Forts were the essence of the kingdom; managed by specific officers.",
+          "explanation_text": "Shivaji Maharaj believed that 'The essence of the whole kingdom is forts'. He had about 300 forts (Hill, Forest, and Sea forts). Each fort was managed by three officers: The Killedar (Havaldar), Sabnis, and Karkhanis, who had specific duties to ensure protection and administration.",
+          "key_points": [
+            "Total Forts: About 300.",
+            "Types: Hill forts, Forest forts, Sea forts (Janjira).",
+            "Officers: Killedar (Protection), Sabnis (Revenue/Accounts), Karkhanis (Supply/Maintenance).",
+            "Architects: Hiroji Indulkar, Arjoji Yadav."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Killedar",
+          "Sabnis",
+          "Karkhanis",
+          "Janjira",
+          "Hiroji Indulkar"
+        ],
+        "question_variations": [
+          "What were the three types of officers appointed on a fort?",
+          "What was the duty of the Karkhanis?",
+          "Why were forts considered the essence of the kingdom?"
+        ],
+        "related_concept_ids": ["c_04_17_02"]
+      },
+      {
+        "id": "c_04_17_02",
+        "topic": "The Navy",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shivaji Maharaj created an independent navy to protect the sea coast.",
+          "explanation_text": "To subdue enemies like the English, Portuguese, and Siddis who harassed people on the coast, Shivaji raised a strong navy. He built ships like Gurab, Galbat, Pal, and Machwa. He is known as the 'Father of the Indian Navy'.",
+          "key_points": [
+            "Title: Father of the Indian Navy.",
+            "Ship types: Gurab, Galbat, Pal, Machwa, Sangmeshwari, Manjhas.",
+            "Sea Forts: Sindhudurg, Khanderi, Vijaydurg.",
+            "Naval Commanders: Kanhoji Angre, Maynak Bhandari, Daulatkhan."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Navy",
+          "Gurab",
+          "Galbat",
+          "Sindhudurg",
+          "Father of Indian Navy"
+        ],
+        "question_variations": [
+          "Who is called the Father of the Indian Navy?",
+          "Name the types of ships in Shivaji's navy.",
+          "Why did Shivaji Maharaj raise a navy?"
+        ],
+        "related_concept_ids": ["c_04_17_03"]
+      },
+      {
+        "id": "c_04_17_03",
+        "topic": "Intelligence and Guerilla Tactics",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Efficient spy network and warfare tactics used by Shivaji.",
+          "explanation_text": "Shivaji had a well-organized intelligence department led by Bahirji Naik. Accurate information helped plan campaigns like Surat. He used Guerilla Tactics (Ganimi Kava), which involved sudden, unexpected attacks using the geographical advantages of the Sahyadris.",
+          "key_points": [
+            "Chief Spy: Bahirji Naik.",
+            "Warfare style: Guerilla Tactics (Ganimi Kava).",
+            "Strategy: Sudden attacks and safe retreat."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Bahirji Naik",
+          "Guerilla Tactics",
+          "Ganimi Kava",
+          "intelligence",
+          "spies"
+        ],
+        "question_variations": [
+          "Who was the chief of Shivaji's intelligence department?",
+          "What are Guerilla Tactics?",
+          "How did the intelligence department help Shivaji?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS2",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs2_04_18_welfare_state_swaraj",
+    "chapter_title": "Management of the Welfare State of Swaraj",
+    "concepts": [
+      {
+        "id": "c_04_18_01",
+        "topic": "Council of Eight Ministers (Ashta Pradhan Mandal)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The administrative body of eight ministers appointed by Shivaji to run the state.",
+          "explanation_text": "For smooth administration, Shivaji divided the work into eight departments, each led by a minister. He appointed them based on merit, not hereditary rights. They were responsible to him for their work.",
+          "key_points": [
+            "Moro Trimbak Pingle (Pradhan/Administration).",
+            "Ramchandra Nilkanth (Amatya/Revenue).",
+            "Hambirrao Mohite (Senapati/Defence).",
+            "Moreshwar Panditrao (Religious).",
+            "Niraji Rawaji (Nyayadhish/Justice).",
+            "Annaji Datto (Sachiv/Govt Orders).",
+            "Dattaji Trimbak (Mantri/Correspondence).",
+            "Ramchandra Trimbak (Sumant/Foreign Relations)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Ashta Pradhan",
+          "Eight Ministers",
+          "Moro Trimbak Pingle",
+          "Hambirrao Mohite",
+          "administration"
+        ],
+        "question_variations": [
+          "Who was the Senapati in Shivaji's Council of Eight Ministers?",
+          "What was the role of the Nyayadhish?",
+          "List the eight ministers of Shivaji Maharaj."
+        ],
+        "related_concept_ids": ["c_04_18_02"]
+      },
+      {
+        "id": "c_04_18_02",
+        "topic": "Environment and Water Management",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Shivaji's policies on protecting forests and managing water resources.",
+          "explanation_text": "Shivaji issued a 'Royal Edict' protecting trees. He forbade cutting mango or jackfruit trees for the navy, urging the use of teak or foreign wood instead. He built bunds and canals for irrigation and ensured forts had water tanks before construction.",
+          "key_points": [
+            "Royal Edict: Protect trees (Mango, Jackfruit).",
+            "Water: Bunds, canals, and fort reservoirs.",
+            "Drought Relief: Waived taxes, distributed grain."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "environment",
+          "Royal Edict",
+          "water management",
+          "drought",
+          "trees"
+        ],
+        "question_variations": [
+          "What did Shivaji's Royal Edict say about trees?",
+          "How did Shivaji manage water on forts?",
+          "What measures did Shivaji take for drought relief?"
+        ],
+        "related_concept_ids": ["c_04_18_03"]
+      },
+      {
+        "id": "c_04_18_03",
+        "topic": "Trade, Markets, and Cleanliness",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Promotion of trade, establishment of markets, and hygiene regulations.",
+          "explanation_text": "Shivaji promoted trade by building markets (e.g., Jijapur) and adjusting salt taxes to favor local production over Portuguese imports. He also enforced strict cleanliness, ordering garbage to be burnt and used as manure, and fences to keep animals out of homes.",
+          "key_points": [
+            "Markets: Jijapur (Pashan), Raigad.",
+            "Salt Tax: Increased on Portuguese salt to protect Swaraj salt.",
+            "Cleanliness: Garbage management, fumigation."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "trade",
+          "salt tax",
+          "Jijapur",
+          "cleanliness",
+          "markets"
+        ],
+        "question_variations": [
+          "How did Shivaji encourage trade in Swaraj?",
+          "Why did Shivaji increase the tax on Portuguese salt?",
+          "What orders did Shivaji give regarding cleanliness?"
+        ],
+        "related_concept_ids": ["c_04_18_04"]
+      },
+      {
+        "id": "c_04_18_04",
+        "topic": "Religious Tolerance and Women's Honour",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shivaji's secular approach and strict rules regarding the safety of women.",
+          "explanation_text": "Shivaji was tolerant of all religions. He respected the Quran and mosques and welcomed converts like Bajaji Naik Nimbalkar and Netoji Palkar back into Hinduism. He strictly ordered that women in enemy camps must be treated with respect (e.g., Mallamma Desai).",
+          "key_points": [
+            "Religious Policy: Liberal/Tolerant.",
+            "Women: Treated with high regard/respect.",
+            "Example: Mallamma Desai (given title 'Savitri').",
+            "Reconversion: Accepted Bajaji Naik and Netoji Palkar back."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "religious tolerance",
+          "women",
+          "Mallamma Desai",
+          "Netoji Palkar",
+          "Quran"
+        ],
+        "question_variations": [
+          "How did Shivaji treat women of the enemy camp?",
+          "Give examples of Shivaji's religious tolerance.",
+          "Who was Mallamma Desai?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  }
+]

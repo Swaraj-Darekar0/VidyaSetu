@@ -1,0 +1,596 @@
+[
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_01_nandanvan",
+    "chapter_title": "नंदनवन (Nandanvan)",
+    "concepts": [
+      {
+        "id": "concept_01_01",
+        "topic": "Nature and Animals",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A picture lesson introducing various animals and the importance of plants.",
+          "explanation_text": "इस पाठ में 'नंदनवन' के माध्यम से विभिन्न पशु-पक्षियों जैसे तोता, तितली, खरगोश, हाथी, लोमड़ी आदि का परिचय दिया गया है। चित्र में 'पौधे लगाओ, पेड़ बचाओ' का संदेश दिया गया है। जानवर एक-दूसरे का स्वागत करते हैं और साथ मिलकर रहने का संदेश देते हैं।",
+          "key_points": [
+            "विभिन्न पशु-पक्षियों की पहचान।",
+            "पर्यावरण संरक्षण का संदेश: पौधे लगाओ, पेड़ बचाओ।",
+            "सामूहिक एकता: हम सब साथ हैं।",
+            "शिष्टाचार: नमस्ते, स्वागत है, प्रणाम।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "नंदनवन",
+          "पशु-पक्षी",
+          "पर्यावरण",
+          "पेड़",
+          "स्वागत"
+        ],
+        "question_variations": [
+          "चित्र में कौन-कौन से जानवर दिखाई दे रहे हैं?",
+          "चित्र में क्या संदेश लिखा है?",
+          "जानवर एक-दूसरे से क्या कह रहे हैं?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_02_bunde",
+    "chapter_title": "बूँदें (Bunde)",
+    "concepts": [
+      {
+        "id": "concept_02_01",
+        "topic": "Rain and its Effects",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A poem describing the beauty and impact of rain drops.",
+          "explanation_text": "यह कविता बारिश की बूँदों का सुंदर वर्णन करती है। रिमझिम गाती बूँदें धरती पर आती हैं और खेतों, बागों, मैदानों में हरियाली फैलाती हैं। बूँदें गर्मी से तपते लोगों को शीतलता पहुँचाती हैं और मेंढक, मोर, पपीहे, कोयल सबका मन हर्षाती हैं।",
+          "key_points": [
+            "बारिश की बूँदों का आगमन।",
+            "खेतों और बागों में हरियाली।",
+            "गर्मी से राहत और शीतलता।",
+            "पशु-पक्षियों की खुशी।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "बूँदें",
+          "बारिश",
+          "हरियाली",
+          "शीतलता",
+          "मोर"
+        ],
+        "question_variations": [
+          "बूँदें धरती पर कैसे आती हैं?",
+          "बूँदें क्या फैलाती हैं?",
+          "बूँदें किनको शीतलता पहुँचाती हैं?",
+          "पुरवाई के रथ पर कौन चढ़कर इठलाती है?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_03_yogya_chunav",
+    "chapter_title": "योग्य चुनाव (Yogya Chunav)",
+    "concepts": [
+      {
+        "id": "concept_03_01",
+        "topic": "Selection based on Virtue",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A story about selecting a minister based on kindness and honesty.",
+          "explanation_text": "राजा मंगलसेन के मंत्री जगतराम बूढ़े हो गए थे और सेवामुक्त होना चाहते थे। राजा ने शर्त रखी कि नया मंत्री सेवाभावी और परोपकारी होना चाहिए। चयन के दिन एक वृद्ध की बैलगाड़ी कीचड़ में फँस गई। कर्मवीर नामक युवक ने अपनी परवाह न करते हुए वृद्ध की मदद की। वह वृद्ध स्वयं मंत्री जगतराम थे। कर्मवीर के इस गुण को देखकर उसे राज्य का नया मंत्री चुना गया।",
+          "key_points": [
+            "मंत्री जगतराम की सेवामुक्ति की इच्छा।",
+            "नए मंत्री के चयन की शर्त: सेवाभावी और परोपकारी।",
+            "कर्मवीर द्वारा वृद्ध की सहायता।",
+            "कर्मवीर का मंत्री पद के लिए चयन।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "चुनाव",
+          "मंत्री",
+          "परोपकार",
+          "कर्मवीर",
+          "जगतराम"
+        ],
+        "question_variations": [
+          "जगतराम ने राजा से क्या विनती की?",
+          "कर्मवीर ने किसकी मदद की?",
+          "राजा मंगलसेन ने कर्मवीर को मंत्री क्यों चुना?",
+          "इस कहानी से क्या सीख मिलती है?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_04_kashmira",
+    "chapter_title": "कश्मीरा (Kashmira)",
+    "concepts": [
+      {
+        "id": "concept_04_01",
+        "topic": "Observation and Differentiation",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "An activity to find differences between two similar pictures of a Kashmiri girl.",
+          "explanation_text": "इस पाठ में जम्मू-कश्मीर की वेशभूषा में एक लड़की के दो चित्र दिए गए हैं। विद्यार्थियों को दोनों चित्रों को ध्यान से देखकर उनमें 10 अंतर ढूँढने हैं। यह गतिविधि निरीक्षण क्षमता को बढ़ाती है।",
+          "key_points": [
+            "दो चित्रों में अंतर ढूँढना।",
+            "कश्मीरी वेशभूषा और संस्कृति की झलक।",
+            "निरीक्षण शक्ति का विकास।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "कश्मीरा",
+          "अंतर",
+          "चित्र",
+          "वेशभूषा",
+          "निरीक्षण"
+        ],
+        "question_variations": [
+          "दोनों चित्रों में कितने अंतर हैं?",
+          "लड़की के हाथ में क्या है?",
+          "चित्र में कौन से पक्षी दिखाई दे रहे हैं?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_06_peturam",
+    "chapter_title": "पेटूराम (Peturam)",
+    "concepts": [
+      {
+        "id": "concept_06_01",
+        "topic": "Humor and Fasting",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A humorous dialogue about a person named Peturam who eats a lot even during a fast.",
+          "explanation_text": "पेटूराम उपवास के दिन भोजन करने से मना करते हैं, लेकिन उपवास के नाम पर ढेर सारा फलाहार मांगते हैं। वे आधा किलो अंगूर, आधा दर्जन केले, एक किलो सेब, एक पाव मेवा, सवा पाव मिठाई, आधा लीटर दूध और रबड़ी मांगते हैं। यह पाठ उपवास के बहाने अधिक खाने की प्रवृत्ति पर व्यंग्य करता है।",
+          "key_points": [
+            "पेटूराम का उपवास।",
+            "उपवास में खाए जाने वाले पदार्थों की लंबी सूची।",
+            "हास्य और व्यंग्य।",
+            "विरामचिह्नों का प्रयोग।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "पेटूराम",
+          "उपवास",
+          "भोजन",
+          "फलाहार",
+          "हास्य"
+        ],
+        "question_variations": [
+          "पेटूराम ने उपवास में क्या-क्या माँगा?",
+          "पेटूराम ने कितना दूध माँगा?",
+          "इस पाठ में किस बात पर व्यंग्य किया गया है?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_07_badhai_card",
+    "chapter_title": "बधाई कार्ड (Badhai Card)",
+    "concepts": [
+      {
+        "id": "concept_07_01",
+        "topic": "Art and Craft",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Instructions on how to make a greeting card.",
+          "explanation_text": "इस पाठ में जन्मदिन के लिए बधाई कार्ड बनाने की विधि बताई गई है। कागज, पुरानी साड़ी की लेस, टिकलियाँ, रंगीन काँच के टुकड़े आदि सामग्री का उपयोग करके सुंदर कार्ड बनाया जा सकता है। कार्ड पर संदेश लिखकर अपने प्रियजनों को शुभकामनाएँ दी जा सकती हैं।",
+          "key_points": [
+            "बधाई कार्ड बनाने की सामग्री।",
+            "कार्ड बनाने की विधि (काटना, चिपकाना, सजाना)।",
+            "बधाई संदेश लेखन।",
+            "सृजनात्मकता का विकास।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "बधाई कार्ड",
+          "जन्मदिन",
+          "सामग्री",
+          "सजावट",
+          "संदेश"
+        ],
+        "question_variations": [
+          "बधाई कार्ड बनाने के लिए कौन सी सामग्री चाहिए?",
+          "कार्ड पर क्या संदेश लिखा गया है?",
+          "आप अपने मित्र को जन्मदिन पर क्या देंगे?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_08_karo_aur_jano",
+    "chapter_title": "करो और जानो (Karo Aur Jano)",
+    "concepts": [
+      {
+        "id": "concept_08_01",
+        "topic": "Actions and Occupations",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Introduction to various daily activities and community helpers.",
+          "explanation_text": "इस पाठ में चित्रों के माध्यम से विभिन्न क्रियाओं (जैसे फुगड़ी खेलना, हँसना, नाचना, पगड़ी बाँधना, रस्सी कूदना, गाना, झाड़ू लगाना, रोटी बेलना, कपड़े धोना) और विभिन्न व्यवसायियों (जैसे कुम्हार, पंसारी, फूलवाली, फलवाला) का परिचय दिया गया है।",
+          "key_points": [
+            "दैनिक क्रियाएँ (खेलना, काम करना)।",
+            "विभिन्न व्यवसायी (कुम्हार, पंसारी, फलवाला, फूलवाली)।",
+            "चित्रों के माध्यम से पहचान।",
+            "क्रियात्मक ज्ञान।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "क्रियाएँ",
+          "व्यवसाय",
+          "कुम्हार",
+          "पंसारी",
+          "फलवाला"
+        ],
+        "question_variations": [
+          "चित्र में कौन-कौन से खेल दिखाए गए हैं?",
+          "कुम्हार क्या करता है?",
+          "पंसारी की दुकान में क्या मिलता है?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_09_neem",
+    "chapter_title": "नीम (Neem)",
+    "concepts": [
+      {
+        "id": "concept_09_01",
+        "topic": "Medicinal Plant",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A poem describing the benefits and uses of the Neem tree.",
+          "explanation_text": "नीम का पेड़ अपनी आत्मकथा बताता है। वह डॉक्टर, ओझा या वैद्य नहीं है, बल्कि एक साधारण पेड़ है। उसकी सूखी पत्तियां ऊनी कपड़ों और अनाज को कीड़ों से बचाती हैं। उसका धुआं मक्खी-मच्छरों को दूर भगाता है। उसकी घनी पत्तियां शीतलता देती हैं और वह हवा को शुद्ध करता है।",
+          "key_points": [
+            "नीम के औषधीय गुण।",
+            "कीटनाशक के रूप में उपयोग।",
+            "शीतलता और छाया।",
+            "हवा शुद्ध करना।",
+            "पेड़ न काटने का संदेश।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "नीम",
+          "पेड़",
+          "औषधि",
+          "शीतलता",
+          "हवा शुद्ध"
+        ],
+        "question_variations": [
+          "नीम अपने आप को क्या मानता है?",
+          "नीम की सूखी पत्तियां किस काम आती हैं?",
+          "नीम हवा को कैसे शुद्ध करता है?",
+          "नीम हमें क्या संदेश देता है?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_10_gada_dhan",
+    "chapter_title": "गड़ा धन (Gada Dhan)",
+    "concepts": [
+      {
+        "id": "concept_10_01",
+        "topic": "Importance of Hard Work",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A story teaching that hard work is the real wealth.",
+          "explanation_text": "रामदीन के चार आलसी बेटे थे। रामदीन ने तीर्थयात्रा पर जाते समय उनसे कहा कि खेत में धन गड़ा है। बेटों ने धन पाने के लिए पूरा खेत खोद डाला, पर धन नहीं मिला। रामदीन के मित्र हरिनाथ ने उन्हें खेत में बीज बोने की सलाह दी। फसल बहुत अच्छी हुई और उन्हें समझ आया कि परिश्रम ही असली गड़ा धन है।",
+          "key_points": [
+            "आलसी बेटों को परिश्रम का महत्व समझाना।",
+            "खेत की खुदाई और बीज बोना।",
+            "अच्छी फसल का होना।",
+            "परिश्रम ही सच्चा धन है।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "गड़ा धन",
+          "परिश्रम",
+          "किसान",
+          "फसल",
+          "आलस"
+        ],
+        "question_variations": [
+          "रामदीन अपने बेटों से क्यों परेशान था?",
+          "रामदीन ने बेटों को क्या बताया?",
+          "बेटों को गड़ा धन कब मिला?",
+          "इस कहानी से क्या सीख मिलती है?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_11_mitrata",
+    "chapter_title": "मित्रता (Mitrata)",
+    "concepts": [
+      {
+        "id": "concept_11_01",
+        "topic": "Friendship and Introduction",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A dialogue showing children introducing themselves and becoming friends.",
+          "explanation_text": "खेल के मैदान में अर्नाल्ड, तबस्सुम, क्षमा और विहंग आपस में बातचीत करते हैं। वे एक-दूसरे को अपना नाम, घर का पता और अपने माता-पिता के व्यवसाय के बारे में बताते हैं। अंत में वे सब अच्छे मित्र बन जाते हैं।",
+          "key_points": [
+            "बच्चों का आपस में परिचय।",
+            "परिवार और निवास स्थान की जानकारी।",
+            "माता-पिता के व्यवसाय पर चर्चा।",
+            "मित्रता का आरंभ।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "मित्रता",
+          "परिचय",
+          "संवाद",
+          "परिवार",
+          "दोस्त"
+        ],
+        "question_variations": [
+          "अर्नाल्ड कहाँ रहता है?",
+          "तबस्सुम की माँ क्या करती हैं?",
+          "विहंग के पिता क्या हैं?",
+          "बच्चे कहाँ बातचीत कर रहे हैं?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_12_bachat",
+    "chapter_title": "बचत (Bachat)",
+    "concepts": [
+      {
+        "id": "concept_12_01",
+        "topic": "Conservation of Resources",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A pictorial lesson emphasizing the importance of saving essential resources.",
+          "explanation_text": "इस पाठ में चित्रों के माध्यम से अन्न, पानी, पैसा, कागज-पेन्सिल और बिजली बचाने का संदेश दिया गया है। ये सभी संसाधन हमारे जीवन के लिए महत्वपूर्ण हैं और इनका सोच-समझकर उपयोग करना चाहिए।",
+          "key_points": [
+            "अन्न, जंगल, बिजली, पानी की बचत।",
+            "पैसों की बचत।",
+            "संसाधनों का महत्व।",
+            "जीवन को सजाना।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "बचत",
+          "अन्न",
+          "पानी",
+          "बिजली",
+          "संसाधन"
+        ],
+        "question_variations": [
+          "हमें किन-किन चीजों की बचत करनी चाहिए?",
+          "पानी न हो तो क्या होगा?",
+          "बिजली की बचत कैसे की जा सकती है?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_14_mai_sadak_hoon",
+    "chapter_title": "मैं सड़क हूँ (Main Sadak Hoon)",
+    "concepts": [
+      {
+        "id": "concept_14_01",
+        "topic": "Autobiography of a Road",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The road narrates its story, utility, and pain caused by human negligence.",
+          "explanation_text": "सड़क अपनी आत्मकथा बताती है। वह सबको मंजिल तक पहुँचाती है, घर और विद्यालय के बीच सेतु है। उसे दुख होता है जब लोग उसे गंदा करते हैं या गड्ढे खोदते हैं। वह चाहती है कि लोग उसे साफ रखें। वह देश में खुशहाली लाना चाहती है और हर गाँव को जोड़ना चाहती है।",
+          "key_points": [
+            "सड़क की उपयोगिता।",
+            "सड़क का निर्माण (कच्ची से पक्की)।",
+            "सड़क की पीड़ा (गंदगी, गड्ढे)।",
+            "सड़क का सपना (साफ-सुथरा रहना, सबको जोड़ना)।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "सड़क",
+          "आत्मकथा",
+          "यातायात",
+          "सफाई",
+          "विकास"
+        ],
+        "question_variations": [
+          "सड़क को दुख कब होता है?",
+          "सड़क क्या चाहती है?",
+          "सड़क किन-किन को जोड़ती है?",
+          "हम सड़क को साफ कैसे रख सकते हैं?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_15_vyayam",
+    "chapter_title": "व्यायाम (Vyayam)",
+    "concepts": [
+      {
+        "id": "concept_15_01",
+        "topic": "Physical Exercise",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Illustrations showing different yoga poses and exercises.",
+          "explanation_text": "इस पाठ में चित्रों के माध्यम से विभिन्न व्यायाम प्रकार दिखाए गए हैं, जैसे विश्राम की मुद्रा, सावधान की मुद्रा, एक पैर पर खड़े होना, हाथ फैलाना, झुकना, बैठकर पैर सीधे करना आदि। यह पाठ स्वास्थ्य के लिए व्यायाम का महत्व बताता है।",
+          "key_points": [
+            "विभिन्न व्यायाम मुद्राएँ।",
+            "शरीर का लचीलापन।",
+            "स्वास्थ्य के लिए व्यायाम का महत्व।",
+            "नियमित अभ्यास।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "व्यायाम",
+          "मुद्रा",
+          "स्वास्थ्य",
+          "योग",
+          "शरीर"
+        ],
+        "question_variations": [
+          "चित्र में कौन-कौन से व्यायाम दिखाए गए हैं?",
+          "व्यायाम क्यों जरूरी है?",
+          "आप कौन सा व्यायाम करते हैं?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.0",
+      "language_code": "hi",
+      "target_class": "05",
+      "generated_date": "2024-05-22",
+      "model_source": "Textbook PDF"
+    },
+    "chapter_id": "ch_16_bolo_aur_jano",
+    "chapter_title": "बोलो और जानो (Bolo Aur Jano)",
+    "concepts": [
+      {
+        "id": "concept_16_01",
+        "topic": "Vocabulary Building",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Identifying objects and learning their names in Hindi.",
+          "explanation_text": "इस पाठ में विभिन्न वस्तुओं के चित्र दिए गए हैं जैसे अमरूद, गुब्बारा, घर, बस्ता, बेला, पानी, गुड़िया, कुत्ता, पुस्तक, हवाई जहाज, कलम, उड़नतश्तरी, मूँछ, विद्यालय, तिलचट्टा। विद्यार्थियों को इन चित्रों को पहचानकर उनके नाम हिंदी में बोलने और जानने हैं।",
+          "key_points": [
+            "चित्रों की पहचान।",
+            "हिंदी शब्दावली का विकास।",
+            "मातृभाषा और हिंदी शब्दों में तुलना।",
+            "सही उच्चारण।"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "शब्द",
+          "चित्र",
+          "पहचान",
+          "हिंदी",
+          "नाम"
+        ],
+        "question_variations": [
+          "चित्र में क्या दिखाई दे रहा है?",
+          "इस वस्तु को हिंदी में क्या कहते हैं?",
+          "विद्यालय का चित्र कौन सा है?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  }
+]

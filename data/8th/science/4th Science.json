@@ -1,0 +1,1955 @@
+[
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_01_life_cycle_animals",
+    "chapter_title": "The Life Cycle of Animals",
+    "concepts": [
+      {
+        "id": "c_04_01_01",
+        "topic": "Metamorphosis",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The change of form in some animals as they grow from young to adult.",
+          "explanation_text": "In some animals, the young one looks very different from the adult. They undergo a series of changes to become an adult. This process is called metamorphosis. For example, a caterpillar looks very different from a butterfly.",
+          "key_points": [
+            "Significant change in form.",
+            "Common in insects like butterflies.",
+            "Stages: Egg, Larva, Pupa, Adult."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "metamorphosis",
+          "change of form",
+          "butterfly",
+          "caterpillar",
+          "stages"
+        ],
+        "question_variations": [
+          "What is metamorphosis?",
+          "Why do we say butterflies undergo metamorphosis?",
+          "Do kittens undergo metamorphosis?"
+        ],
+        "related_concept_ids": ["c_04_01_02"]
+      },
+      {
+        "id": "c_04_01_02",
+        "topic": "Life Cycle of Plain Tiger Butterfly",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The four stages of growth of a butterfly: Egg, Larva, Pupa, and Adult.",
+          "explanation_text": "The Plain Tiger butterfly lays an egg on the milkweed (rui) leaf. The larva (caterpillar) emerges, eats leaves, and grows rapidly. It moults several times. It then turns into a Pupa (Chrysalis). Finally, the adult butterfly emerges.",
+          "key_points": [
+            "4 Stages: Egg, Larva (Caterpillar), Pupa (Chrysalis), Adult.",
+            "Larva eats very fast and moults.",
+            "Pupa stage is inside the chrysalis."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Plain Tiger",
+          "egg",
+          "larva",
+          "pupa",
+          "chrysalis",
+          "adult",
+          "moult"
+        ],
+        "question_variations": [
+          "What are the four stages of a butterfly's life cycle?",
+          "What is the pupa stage of a butterfly called?",
+          "On which leaf does the Plain Tiger butterfly lay eggs?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_01_03",
+        "topic": "Hatching and Moulting",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Hatching is warming eggs to produce young; Moulting is shedding old skin.",
+          "explanation_text": "A hen sits on eggs to warm them so chicks can grow inside; this is hatching. Caterpillars grow so fast that their skin becomes too tight, so they shed the old skin to make way for new skin; this is moulting.",
+          "key_points": [
+            "Hatching: Warming eggs (e.g., Hens).",
+            "Moulting: Shedding old skin (e.g., Caterpillars, Snakes)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "hatch",
+          "moult",
+          "skin",
+          "growth",
+          "warmth"
+        ],
+        "question_variations": [
+          "Define moulting.",
+          "Why does a hen sit on her eggs?",
+          "Why do caterpillars moult?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_02_inter_relationships",
+    "chapter_title": "The Inter-relationships between Living Things",
+    "concepts": [
+      {
+        "id": "c_04_02_01",
+        "topic": "Basic Needs of Living Things",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The essential requirements for survival: Food, Water, Air, and Shelter.",
+          "explanation_text": "All living things need food, water, and air to survive. However, the amount and type vary. For example, a mouse drinks less water than an elephant. Different living things live in areas where their specific needs are met.",
+          "key_points": [
+            "Needs: Food, Water, Air, Clothes, Shelter.",
+            "Needs are met by the environment.",
+            "Different animals have different needs."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "needs",
+          "food",
+          "water",
+          "air",
+          "environment",
+          "survival"
+        ],
+        "question_variations": [
+          "What are the basic needs of living things?",
+          "Where do living things find their needs?",
+          "Do all animals need the same amount of water?"
+        ],
+        "related_concept_ids": ["c_04_02_02"]
+      },
+      {
+        "id": "c_04_02_02",
+        "topic": "Arboreal Animals",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Animals that live on trees.",
+          "explanation_text": "'Arbor' means tree. Arboreal animals like monkeys and squirrels live on trees. This keeps them safe from enemies and provides fruit for food. They also help trees by spreading seeds through their droppings.",
+          "key_points": [
+            "Live on trees.",
+            "Examples: Monkeys, Squirrels.",
+            "Benefits: Safety, Food.",
+            "Help nature: Seed dispersal."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "arboreal",
+          "trees",
+          "monkeys",
+          "squirrels",
+          "seeds"
+        ],
+        "question_variations": [
+          "What are arboreal animals?",
+          "How do arboreal animals help trees?",
+          "Give two examples of arboreal animals."
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_02_03",
+        "topic": "Seasonal Changes in Living Things",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "How plants and animals adapt to Summer, Rainy Season, and Winter.",
+          "explanation_text": "In Winter (Paangal), trees shed leaves and animals grow thick coats. In Summer, we drink more water and mangoes/cashews grow. In the Rainy season, grass grows green, frogs appear, and farmers sow crops.",
+          "key_points": [
+            "Winter: Shedding leaves (Paangal), furry coats.",
+            "Summer: Mangoes, Cashews, thirst.",
+            "Rainy Season: Greenery, frogs, farming."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "seasons",
+          "winter",
+          "summer",
+          "rainy season",
+          "paangal",
+          "adaptation"
+        ],
+        "question_variations": [
+          "What is the season of 'Paangal'?",
+          "What changes happen to furry animals in winter?",
+          "Which fruit blossoms in late winter?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_03_storage_of_water",
+    "chapter_title": "Storage of Water",
+    "concepts": [
+      {
+        "id": "c_04_03_01",
+        "topic": "Traditional Water Storage",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Old methods used to store water before modern systems.",
+          "explanation_text": "In the past, people stored water using Wells (rainwater seeping into ground), Water tanks in forts (dug into stone), Draw-wells (Ad - small wells using a pot/pohra), Rivers and Bunds, Old Reservoirs, and Old Tanks (Houd) in cities.",
+          "key_points": [
+            "Wells and Draw-wells (Ad).",
+            "Fort tanks.",
+            "Bunds on rivers.",
+            "Old reservoirs and Houds."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "wells",
+          "draw-wells",
+          "ad",
+          "tanks",
+          "houd",
+          "bunds"
+        ],
+        "question_variations": [
+          "What is a draw-well (Ad)?",
+          "How was water stored in forts?",
+          "List traditional methods of water storage."
+        ],
+        "related_concept_ids": ["c_04_03_02"]
+      },
+      {
+        "id": "c_04_03_02",
+        "topic": "Modern Water Storage",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Recent systems like Dams and Borewells for water management.",
+          "explanation_text": "Dams are the most important recent storage method, allowing huge quantities of water to be stored for cultivation, cities, and electricity (e.g., Jayakwadi, Koyna). Borewells use electric pumps to draw deep groundwater.",
+          "key_points": [
+            "Dams: Store huge water, generate electricity.",
+            "Borewells: Reach deep groundwater.",
+            "Panpoi: Drinking water stands for travelers."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "dams",
+          "borewells",
+          "electricity",
+          "panpoi",
+          "groundwater"
+        ],
+        "question_variations": [
+          "What are the benefits of dams?",
+          "How do borewells work?",
+          "What is a Panpoi?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_04_water_safe_drinking",
+    "chapter_title": "Water Safe for Drinking",
+    "concepts": [
+      {
+        "id": "c_04_04_01",
+        "topic": "Potable Water",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Water that is safe for drinking and does not endanger health.",
+          "explanation_text": "Potable water is safe to drink. Pure water has no taste, smell, or colour. Even if water looks clean, it might contain micro-organisms that cause disease, so it must be boiled or filtered.",
+          "key_points": [
+            "Safe for health.",
+            "No taste, smell, or colour.",
+            "Must be free of harmful micro-organisms."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "potable water",
+          "safe drinking water",
+          "health",
+          "pure water"
+        ],
+        "question_variations": [
+          "What is potable water?",
+          "Does pure water have a taste?",
+          "Why must we boil water during rainy seasons?"
+        ],
+        "related_concept_ids": ["c_04_04_02"]
+      },
+      {
+        "id": "c_04_04_02",
+        "topic": "Solution and Dissolving",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "A mixture formed when a substance dissolves in a liquid.",
+          "explanation_text": "When a substance (like salt or sugar) mixes completely with water and disappears, it is said to have dissolved. The resulting mixture is called a solution. ORS (Oral Rehydration Solution) is a solution of salt and sugar used to treat dehydration.",
+          "key_points": [
+            "Dissolve: Mix completely.",
+            "Solution: The mixture formed.",
+            "Example: Seawater (salt solution), ORS."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "solution",
+          "dissolve",
+          "ORS",
+          "salt",
+          "sugar"
+        ],
+        "question_variations": [
+          "What is a solution?",
+          "What is ORS used for?",
+          "Why does seawater taste salty?"
+        ],
+        "related_concept_ids": ["c_04_04_03"]
+      },
+      {
+        "id": "c_04_04_03",
+        "topic": "Purifying Muddy Water",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Methods to make muddy water clear: Settling, Swirling Alum, and Filtration.",
+          "explanation_text": "To clean muddy water, we can let it stand still (Settling) so mud sinks to the bottom. Swirling a piece of Alum helps soil particles settle faster. Filtration using a cloth or sieve removes floating rubbish.",
+          "key_points": [
+            "Settling: Allowing sediment to sink.",
+            "Alum: Helps particles settle faster.",
+            "Filtration: Straining water."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "settling",
+          "alum",
+          "filtration",
+          "muddy water",
+          "sediment"
+        ],
+        "question_variations": [
+          "How does alum help in cleaning water?",
+          "What is the process of settling?",
+          "Name three ways to make muddy water clear."
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_05_water_every_household",
+    "chapter_title": "Water for Every Household",
+    "concepts": [
+      {
+        "id": "c_04_05_01",
+        "topic": "Water Supply System",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The process of collecting, purifying, and distributing water to settlements.",
+          "explanation_text": "Water is collected from sources like lakes or dams. It is sent to a purification centre to make it safe. Then, it is stored in high water towers and distributed through pipes to households. This ensures everyone gets water.",
+          "key_points": [
+            "Source -> Purification Centre -> Water Tower -> Households.",
+            "Uses pipes for distribution.",
+            "Taps allow control of water flow."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "water supply",
+          "purification",
+          "water tower",
+          "pipes",
+          "distribution"
+        ],
+        "question_variations": [
+          "How does water reach our homes?",
+          "What is the function of a water tower?",
+          "Why is water purified before distribution?"
+        ],
+        "related_concept_ids": ["c_04_05_02"]
+      },
+      {
+        "id": "c_04_05_02",
+        "topic": "Care of Drinking Water",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Hygienic practices for storing and handling drinking water.",
+          "explanation_text": "Drinking water containers should be covered to prevent dust. We should use a dipper to take water or have taps on containers to prevent contamination from hands. Water does not become stale; it can be used for other purposes if not for drinking.",
+          "key_points": [
+            "Keep containers covered.",
+            "Use a dipper or tap.",
+            "Water does not become stale.",
+            "Don't waste water."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "hygiene",
+          "dipper",
+          "covered",
+          "stale",
+          "wastage"
+        ],
+        "question_variations": [
+          "Why should we keep water containers covered?",
+          "Does water become stale?",
+          "What is the best way to take water from a container?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_06_variety_in_food",
+    "chapter_title": "Variety in Food",
+    "concepts": [
+      {
+        "id": "c_04_06_01",
+        "topic": "Diversity in Food Crops",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Different crops grow in different regions based on climate, soil, and water.",
+          "explanation_text": "Agriculture depends on rainfall and soil. Rice grows in high rainfall areas (Konkan). Jowar and Bajra grow in low rainfall areas. Wheat and Toor grow in moderate rainfall areas. This leads to variety in the staple food of people in different regions.",
+          "key_points": [
+            "High Rainfall: Rice, Coconut.",
+            "Moderate Rainfall: Wheat, Toor, Soyabean.",
+            "Low Rainfall: Jowar, Bajra, Moth beans.",
+            "Staple food depends on local crops."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "agriculture",
+          "rainfall",
+          "rice",
+          "jowar",
+          "bajra",
+          "staple food"
+        ],
+        "question_variations": [
+          "Why is rice the staple food in Konkan?",
+          "Which crops grow in low rainfall areas?",
+          "What factors affect agriculture?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_07_food_and_nutrition",
+    "chapter_title": "Food and Nutrition",
+    "concepts": [
+      {
+        "id": "c_04_07_01",
+        "topic": "Staple Food",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The main food item that is eaten in large quantities in daily meals.",
+          "explanation_text": "Chapati, bhakari, or rice form a part of every meal we have. We eat more of these foods than of the others. Therefore, wheat, jowar, rice, and bajra are said to be our staple foods. The variety in foodstuffs allows us to make different dishes.",
+          "key_points": [
+            "Main part of the meal.",
+            "Examples: Wheat, Jowar, Rice, Bajra.",
+            "Accompanied by other items like bhaji, amti, etc."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "staple food",
+          "wheat",
+          "jowar",
+          "rice",
+          "diet"
+        ],
+        "question_variations": [
+          "What is meant by staple food?",
+          "Name three crops that constitute staple food in India.",
+          "Why are wheat and rice considered staple foods?"
+        ],
+        "related_concept_ids": ["c_04_07_02"]
+      },
+      {
+        "id": "c_04_07_02",
+        "topic": "Food Constituents and Diet",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Nutrients present in food that give energy, help growth, and fight disease.",
+          "explanation_text": "Our body needs different food constituents to work properly. Some give energy (carbohydrates), some help the body grow and repair wear and tear (proteins), and some build resistance to disease and give strength bones (vitamins/minerals). A diet containing all these is essential.",
+          "key_points": [
+            "Energy-giving constituents.",
+            "Body-building constituents.",
+            "Disease-fighting constituents.",
+            "All constituents make a balanced diet."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "constituents",
+          "energy",
+          "growth",
+          "disease resistance",
+          "diet"
+        ],
+        "question_variations": [
+          "Why do we need variety in our food?",
+          "What do food constituents do for our body?",
+          "Why should we include all food groups in our meals?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_07_03",
+        "topic": "Tongue and Taste",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "The sensory organ used to perceive different tastes through taste buds.",
+          "explanation_text": "Our tongue helps us to taste things. It has tiny peaks called 'taste buds'. These buds tell us the different tastes like sweet, sour, salty, and bitter. For example, sugar is sweet, lemon is sour, and salt is salty.",
+          "key_points": [
+            "Organ: Tongue.",
+            "Mechanism: Taste buds.",
+            "Tastes: Sweet, Sour, Salty, Bitter, Pungent (Spicy)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "tongue",
+          "taste buds",
+          "sweet",
+          "sour",
+          "bitter"
+        ],
+        "question_variations": [
+          "How do we perceive taste?",
+          "What are taste buds?",
+          "Name the different tastes the tongue can detect."
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_08_value_of_food",
+    "chapter_title": "The Value of Food",
+    "concepts": [
+      {
+        "id": "c_04_08_01",
+        "topic": "The Story of a Bhakari (Agriculture)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The long process of farming required to produce food.",
+          "explanation_text": "Producing food involves hard labour. The process includes ploughing the field, sowing seeds, harvesting (cutting the crops), threshing (separating grain from ears), and winnowing (separating grain from chaff using wind).",
+          "key_points": [
+            "Ploughing: Preparing soil.",
+            "Sowing: Planting seeds.",
+            "Harvesting: Cutting mature crops.",
+            "Threshing: Separating grain from ears.",
+            "Winnowing: Separating shells/chaff from grain."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "agriculture",
+          "ploughing",
+          "threshing",
+          "winnowing",
+          "harvesting"
+        ],
+        "question_variations": [
+          "What is threshing?",
+          "Explain the process of winnowing.",
+          "List the steps involved in farming from sowing to harvesting."
+        ],
+        "related_concept_ids": ["c_04_08_02"]
+      },
+      {
+        "id": "c_04_08_02",
+        "topic": "Respecting Food",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The importance of not wasting food due to the effort involved in its production.",
+          "explanation_text": "We get food through the hard work of farmers, fishermen, poultry keepers, and many others. Transporting and storing food also costs money and effort. Therefore, we must ensure that food is not wasted and we should be grateful for it.",
+          "key_points": [
+            "Food production requires hard work.",
+            "Involves many people (farmers, drivers, traders).",
+            "Wasting food wastes effort and resources."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "food wastage",
+          "hard work",
+          "farmers",
+          "transport",
+          "respect"
+        ],
+        "question_variations": [
+          "Why should we not waste food?",
+          "Who are the people involved in bringing food to our plates?",
+          "What happens if we waste food?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_09_air",
+    "chapter_title": "Air",
+    "concepts": [
+      {
+        "id": "c_04_09_01",
+        "topic": "The Atmosphere",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The covering of air around the earth.",
+          "explanation_text": "The earth is surrounded by air. This covering is called the atmosphere. The layers of air closest to the earth are dense, while layers at greater heights are rare (thinner).",
+          "key_points": [
+            "Covering of air around earth.",
+            "Dense near surface, rare at heights.",
+            "Present everywhere, even in 'empty' containers."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "atmosphere",
+          "air",
+          "layers",
+          "earth",
+          "rare"
+        ],
+        "question_variations": [
+          "What is the atmosphere?",
+          "How does air change as we go higher from the earth?",
+          "Is air present in an empty bottle?"
+        ],
+        "related_concept_ids": ["c_04_09_02"]
+      },
+      {
+        "id": "c_04_09_02",
+        "topic": "Constituents of Air",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Air is a mixture of several gases like Nitrogen, Oxygen, Carbon Dioxide, and Water Vapour.",
+          "explanation_text": "Air is not a single substance but a mixture. The largest part is Nitrogen. Oxygen is used for burning and breathing. Plants use Carbon Dioxide to make food. Air also contains water vapour.",
+          "key_points": [
+            "Nitrogen: Largest constituent.",
+            "Oxygen: Essential for burning and respiration.",
+            "Carbon Dioxide: Used by plants, present in soda water.",
+            "Air is a mixture."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "oxygen",
+          "nitrogen",
+          "carbon dioxide",
+          "mixture",
+          "burning"
+        ],
+        "question_variations": [
+          "Which gas is the largest part of the air?",
+          "Which gas helps in burning?",
+          "What is air a mixture of?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_10_clothes",
+    "chapter_title": "Clothes",
+    "concepts": [
+      {
+        "id": "c_04_10_01",
+        "topic": "Materials for Cloth",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Different sources from which yarn and cloth are made.",
+          "explanation_text": "Cloth is made from yarn. Yarn is made from fibres. Cotton comes from plants. Wool comes from sheep. Silk comes from silkworms. Modern cloth like Nylon and Rayon is made from artificial materials (like tar).",
+          "key_points": [
+            "Cotton: From plants.",
+            "Wool: From sheep.",
+            "Silk: From silkworms.",
+            "Nylon/Rayon: Artificial/Man-made."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "cotton",
+          "wool",
+          "yarn",
+          "nylon",
+          "rayon"
+        ],
+        "question_variations": [
+          "Where does cotton come from?",
+          "Name two man-made materials for cloth.",
+          "What is yarn made of?"
+        ],
+        "related_concept_ids": ["c_04_10_02"]
+      },
+      {
+        "id": "c_04_10_02",
+        "topic": "Diversity in Clothing",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Variations in clothing based on climate and culture.",
+          "explanation_text": "People wear different clothes based on the weather (woollens in winter, cotton in summer) and their culture. In Maharashtra, there is a diversity in clothing due to cultural and geographical differences.",
+          "key_points": [
+            "Climate affects clothing choice.",
+            "Cultural differences cause diversity.",
+            "Clean clothes are essential for health."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "diversity",
+          "climate",
+          "culture",
+          "cleanliness",
+          "season"
+        ],
+        "question_variations": [
+          "Why is there diversity in clothing in Maharashtra?",
+          "What kind of clothes do we wear in summer?",
+          "Why should we wear clean clothes?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_11_look_inside_body",
+    "chapter_title": "A Look inside the Body",
+    "concepts": [
+      {
+        "id": "c_04_11_01",
+        "topic": "Internal Organs and Cavities",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Organs situated inside the body within hollow spaces called cavities.",
+          "explanation_text": "Internal organs perform important functions and need to be secure. They are situated in hollow spaces called cavities. The head has the Cranial cavity. The torso has the Thoracic (chest), Abdominal (stomach), and Pelvic cavities.",
+          "key_points": [
+            "Internal Organs: Cannot be seen from outside.",
+            "Cranial Cavity: Head (Brain).",
+            "Thoracic Cavity: Chest (Heart, Lungs).",
+            "Abdominal/Pelvic Cavity: Stomach, Intestines."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "internal organs",
+          "cavity",
+          "cranial",
+          "thoracic",
+          "abdominal"
+        ],
+        "question_variations": [
+          "What is an internal organ?",
+          "Name the cavity in the head.",
+          "Which organs are in the thoracic cavity?"
+        ],
+        "related_concept_ids": ["c_04_11_02", "c_04_11_03", "c_04_11_04"]
+      },
+      {
+        "id": "c_04_11_02",
+        "topic": "The Heart",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "An internal organ that pumps blood throughout the body.",
+          "explanation_text": "The heart is located in the thoracic cavity, slightly to the left. It contracts and relaxes continuously to pump blood. This movement creates a heartbeat. The pulse can be felt at the wrist.",
+          "key_points": [
+            "Location: Thoracic cavity (center-left).",
+            "Function: Pumps blood.",
+            "Movement: Contraction and Relaxation.",
+            "Size: Roughly the size of one's fist."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "heart",
+          "blood",
+          "pulse",
+          "contraction",
+          "thoracic cavity"
+        ],
+        "question_variations": [
+          "Where is the heart located?",
+          "What is the function of the heart?",
+          "What is a pulse?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_11_03",
+        "topic": "The Lungs",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Organs involved in respiration (breathing).",
+          "explanation_text": "We have two lungs in the thoracic cavity. When we breathe in, air goes into the lungs through the windpipe. The lungs expand slightly when we breathe in.",
+          "key_points": [
+            "Two lungs (Right and Left).",
+            "Connected to nose by windpipe.",
+            "Function: Respiration."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "lungs",
+          "respiration",
+          "windpipe",
+          "breathing"
+        ],
+        "question_variations": [
+          "How many lungs do we have?",
+          "What happens to the lungs when we breathe in?",
+          "Which pipe carries air to the lungs?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_11_04",
+        "topic": "The Brain",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The most important organ that controls body movements and emotions.",
+          "explanation_text": "The brain is situated in the cranial cavity (skull). It controls all our movements. It makes us aware of emotions like anger and joy. It interprets information from sensory organs. Injury to the brain can be fatal.",
+          "key_points": [
+            "Location: Cranial cavity.",
+            "Function: Control, Emotions, Memory.",
+            "Protected by the skull."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "brain",
+          "cranial cavity",
+          "control",
+          "memory",
+          "emotions"
+        ],
+        "question_variations": [
+          "Where is the brain situated?",
+          "What are the functions of the brain?",
+          "Which organ helps us remember things?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_12_home_remedies",
+    "chapter_title": "Home Remedies for Simple Illnesses",
+    "concepts": [
+      {
+        "id": "c_04_12_01",
+        "topic": "Home Remedies",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Simple treatments used at home for minor illnesses.",
+          "explanation_text": "Minor illnesses can be cured with home remedies. For example, gargling with warm salt water for a sore throat, inhaling steam for a cold, or applying lemon sherbet for vomiting. Elderly people often know these cures.",
+          "key_points": [
+            "Sore throat: Warm salt water gargle.",
+            "Cold: Steam inhalation.",
+            "Vomiting: Cool lemon sherbet.",
+            "Small wounds: Wash and apply tincture of iodine."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "home remedies",
+          "gargle",
+          "steam",
+          "illness",
+          "first aid"
+        ],
+        "question_variations": [
+          "What is a home remedy for a cold?",
+          "What should be done for a small cut?",
+          "Why do we gargle with salt water?"
+        ],
+        "related_concept_ids": ["c_04_12_02"]
+      },
+      {
+        "id": "c_04_12_02",
+        "topic": "Medical Advice vs. Superstition",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Relying on doctors for serious illness instead of magic or mantras.",
+          "explanation_text": "Home remedies have limits. If an illness is severe (like jaundice or snake bite), one must see a doctor immediately. Mantras, incantations, amulets, or magic spells do NOT cure diseases.",
+          "key_points": [
+            "Consult a doctor for serious illness.",
+            "Mantras/Magic do not cure disease.",
+            "Example: Snake bite needs anti-snakebite injection, not a mantrik."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "doctor",
+          "superstition",
+          "mantras",
+          "snake bite",
+          "jaundice"
+        ],
+        "question_variations": [
+          "Do mantras cure snake bites?",
+          "When should we stop home remedies and see a doctor?",
+          "Why should we not go to a mantrik for illness?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_13_directions_and_maps",
+    "chapter_title": "Directions and Maps",
+    "concepts": [
+      {
+        "id": "c_04_13_01",
+        "topic": "Main Directions and Sub-directions",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The four main cardinal points and the four intermediate directions used for navigation.",
+          "explanation_text": "There are four main directions: East, West, North, and South. The sun rises in the East and sets in the West. To determine directions more precisely, we use sub-directions which lie between the main directions: North-east, South-east, South-west, and North-west.",
+          "key_points": [
+            "Main Directions: East, West, North, South.",
+            "Sub-directions: North-east, South-east, South-west, North-west.",
+            "Determined by the rising and setting sun."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "directions",
+          "sub-directions",
+          "east",
+          "west",
+          "north",
+          "south"
+        ],
+        "question_variations": [
+          "What are the four main directions?",
+          "Name the sub-direction between North and East.",
+          "How do we determine East and West?"
+        ],
+        "related_concept_ids": ["c_04_13_02"]
+      },
+      {
+        "id": "c_04_13_02",
+        "topic": "Scale in Maps",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "A ratio used to represent large ground distances on a small paper map.",
+          "explanation_text": "It is impossible to draw a map the same size as the real ground. Therefore, distances are reduced proportionately. For example, a distance of 10 kilometers on the ground might be shown as 1 centimeter on the map. This is called the scale of the map.",
+          "key_points": [
+            "Maps are smaller than reality.",
+            "Scale represents the ratio of distance.",
+            "Example: 1 cm = 1 km."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "scale",
+          "map",
+          "distance",
+          "proportion"
+        ],
+        "question_variations": [
+          "What is the scale of a map?",
+          "Why do we use a scale in maps?",
+          "If 1 cm on a map equals 10 km, what does 5 cm represent?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_14_maps_and_symbols",
+    "chapter_title": "Maps and Symbols",
+    "concepts": [
+      {
+        "id": "c_04_14_01",
+        "topic": "Map Symbols and Index",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Signs used to represent objects on a map and the key that explains them.",
+          "explanation_text": "To show various things like houses, hospitals, or rivers on a map, we use special signs or pictures called symbols. A list of these symbols and what they stand for is given on the map. This list is called the Index or Key.",
+          "key_points": [
+            "Symbols represent real objects.",
+            "Index/Key explains the symbols.",
+            "Helps in reading the map."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "symbols",
+          "index",
+          "key",
+          "map reading"
+        ],
+        "question_variations": [
+          "What is an index in a map?",
+          "Why do we use symbols on a map?",
+          "How do symbols help us read a map?"
+        ],
+        "related_concept_ids": ["c_04_14_02"]
+      },
+      {
+        "id": "c_04_14_02",
+        "topic": "Natural and Man-made Elements",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Distinction between things found in nature and things made by humans.",
+          "explanation_text": "Our environment contains both natural and man-made objects. Natural elements include rivers, trees, hills, and grass. Man-made elements include schools, water towers, houses, and roads. Man-made objects are created using natural resources.",
+          "key_points": [
+            "Natural: River, Hill, Tree.",
+            "Man-made: House, Road, Well.",
+            "Man-made objects use natural resources."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "natural",
+          "man-made",
+          "environment",
+          "resources"
+        ],
+        "question_variations": [
+          "Give two examples of man-made objects.",
+          "Is a river a natural or man-made element?",
+          "What are man-made objects made from?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_15_my_district_my_state",
+    "chapter_title": "My District, My State",
+    "concepts": [
+      {
+        "id": "c_04_15_01",
+        "topic": "Formation of a State",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The hierarchy of settlements forming a state.",
+          "explanation_text": "Man began farming and settled near water, forming hamlets. Many hamlets formed a village. Villages grew into cities. Several villages make a Taluka. Several Talukas make a District. Several Districts make a State.",
+          "key_points": [
+            "Hamlet -> Village -> City.",
+            "Village -> Taluka -> District -> State.",
+            "Example: Maharashtra State."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "state",
+          "district",
+          "taluka",
+          "village",
+          "hamlet"
+        ],
+        "question_variations": [
+          "How is a state formed?",
+          "What makes up a district?",
+          "Arrange in order: Village, State, Taluka, District."
+        ],
+        "related_concept_ids": ["c_04_15_02"]
+      },
+      {
+        "id": "c_04_15_02",
+        "topic": "Maharashtra State Profile",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Key geographical and political facts about Maharashtra.",
+          "explanation_text": "Maharashtra State was formed on 1 May 1960. Mumbai is the capital, and Nagpur is the second capital. Physically, it is divided into the Coastal region, Mountainous region, and Plateau region. The highest peak is Kalsubai.",
+          "key_points": [
+            "Formation: 1 May 1960.",
+            "Capital: Mumbai.",
+            "Second Capital: Nagpur.",
+            "Highest Peak: Kalsubai.",
+            "Longest River: Godavari."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "Maharashtra",
+          "Mumbai",
+          "Nagpur",
+          "Kalsubai",
+          "Godavari",
+          "1960"
+        ],
+        "question_variations": [
+          "When was Maharashtra State formed?",
+          "Which is the capital of Maharashtra?",
+          "Name the highest peak in Maharashtra."
+        ],
+        "related_concept_ids": ["c_04_15_03"]
+      },
+      {
+        "id": "c_04_15_03",
+        "topic": "Agriculture and Climate",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "The relationship between rainfall and crop variety in Maharashtra.",
+          "explanation_text": "Crops depend on climate, soil, and water. In Maharashtra, Rice is grown in high rainfall regions (Konkan). Jowar and Tur are grown in medium rainfall regions. Bajra and Moth beans are grown in low rainfall regions. Agriculture is the main occupation.",
+          "key_points": [
+            "High Rainfall: Rice.",
+            "Medium Rainfall: Jowar, Tur, Soyabean.",
+            "Low Rainfall: Bajra, Moth beans.",
+            "Main occupation: Agriculture."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "agriculture",
+          "rainfall",
+          "crops",
+          "rice",
+          "jowar"
+        ],
+        "question_variations": [
+          "Which crop is grown in low rainfall regions?",
+          "What is the main occupation in Maharashtra?",
+          "How does rainfall affect crop distribution?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_16_day_and_night",
+    "chapter_title": "Day and Night",
+    "concepts": [
+      {
+        "id": "c_04_16_01",
+        "topic": "Rotation of the Earth",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The spinning of the earth around itself causing day and night.",
+          "explanation_text": "The earth spins around itself like a top. This is called rotation. The part facing the sun has day, and the part in darkness has night. The sun rises in the East and sets in the West because of this rotation.",
+          "key_points": [
+            "Earth spins around itself.",
+            "Causes Day and Night.",
+            "Sunlight does not reach the whole earth at once."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "rotation",
+          "spinning",
+          "day",
+          "night",
+          "sun"
+        ],
+        "question_variations": [
+          "What causes day and night?",
+          "What is the rotation of the earth?",
+          "Why do we see the sun rise in the East?"
+        ],
+        "related_concept_ids": ["c_04_16_02"]
+      },
+      {
+        "id": "c_04_16_02",
+        "topic": "Unequal Day and Night",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "The variation in the length of day and night throughout the year.",
+          "explanation_text": "Day and night are not always 12 hours each. On March 21 and September 22, they are equal. On June 21, the day is longest. On December 22, the night is longest. In summer, days are long; in winter, nights are long.",
+          "key_points": [
+            "Equal Day/Night: 21 March, 22 September.",
+            "Longest Day: 21 June.",
+            "Longest Night: 22 December.",
+            "Summer: Long days. Winter: Long nights."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "21 June",
+          "22 December",
+          "equinox",
+          "summer",
+          "winter"
+        ],
+        "question_variations": [
+          "On which date is the day the longest?",
+          "When are day and night of equal length?",
+          "What happens to the length of the day in winter?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_17_my_upbringing",
+    "chapter_title": "My Upbringing",
+    "concepts": [
+      {
+        "id": "c_04_17_01",
+        "topic": "Learning from Environment",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "How children learn habits, values, and skills from people around them.",
+          "explanation_text": "We learn many things as we grow up. Our parents teach us basics like walking and eating. We also learn from close relatives, friends, and neighbours through observation. This shapes our upbringing.",
+          "key_points": [
+            "Learnt from: Parents, Relatives, Neighbours.",
+            "Method: Observation and Instruction.",
+            "Result: Development of habits and likes/dislikes."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "upbringing",
+          "learning",
+          "parents",
+          "neighbours",
+          "habits"
+        ],
+        "question_variations": [
+          "What is upbringing?",
+          "Who plays an important part in our upbringing?",
+          "How do we learn from our neighbours?"
+        ],
+        "related_concept_ids": ["c_04_17_02"]
+      },
+      {
+        "id": "c_04_17_02",
+        "topic": "Diversity and Upbringing",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Exposure to different cultures through neighbours enriches upbringing.",
+          "explanation_text": "People from different backgrounds live in our neighbourhood. We see their festivals, food, and customs. This helps us become familiar with diversity and creates affection for others.",
+          "key_points": [
+            "Neighbours may have different customs.",
+            "Exposure to diversity.",
+            "Builds friendly relations."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "diversity",
+          "culture",
+          "neighbours",
+          "customs"
+        ],
+        "question_variations": [
+          "How does diversity in the neighbourhood help us?",
+          "What do we learn from neighbours of different cultures?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_18_changes_family_neighbourhood",
+    "chapter_title": "Changes in the Family and Neighbourhood",
+    "concepts": [
+      {
+        "id": "c_04_18_01",
+        "topic": "Migration and Family Structure",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Movement of people for work/education causing changes in family size.",
+          "explanation_text": "In the past, many people lived together in big families (agriculture based). As trade and industries grew, people migrated to cities for jobs. Big families scattered into smaller families. Migration is moving from one place to another to live.",
+          "key_points": [
+            "Migration: Moving for jobs/education.",
+            "Big families became small/nuclear.",
+            "Reason: Agriculture could not feed everyone."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "migration",
+          "family structure",
+          "jobs",
+          "agriculture",
+          "nuclear family"
+        ],
+        "question_variations": [
+          "What is migration?",
+          "Why did big families scatter?",
+          "How does migration affect family structure?"
+        ],
+        "related_concept_ids": ["c_04_18_02"]
+      },
+      {
+        "id": "c_04_18_02",
+        "topic": "Communication",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Means of staying in touch with separated family members.",
+          "explanation_text": "When family members migrate, they stay in touch through letters, telephone calls, and now the internet. Modern communication has brought the world closer.",
+          "key_points": [
+            "Old means: Letters.",
+            "Modern means: Telephone, Internet.",
+            "Keeps migrated family members connected."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "communication",
+          "internet",
+          "telephone",
+          "letters"
+        ],
+        "question_variations": [
+          "How do migrated family members stay in touch?",
+          "Name modern means of communication."
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_19_my_delightful_school",
+    "chapter_title": "My Delightful School",
+    "concepts": [
+      {
+        "id": "c_04_19_01",
+        "topic": "Learning Together",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The joy of learning and playing with friends in school.",
+          "explanation_text": "We go to school to learn. We make many friends, study with each other's help, and play together. Participating in school functions and trips together makes learning enjoyable. Helping each other is key to a delightful school experience.",
+          "key_points": [
+            "School is for learning and friendship.",
+            "Mutual help makes learning joyful.",
+            "Participation in functions and trips."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "school",
+          "friends",
+          "learning",
+          "help",
+          "enjoyable"
+        ],
+        "question_variations": [
+          "How does learning become more enjoyable?",
+          "What do we do in school besides studying?",
+          "Why do we like going to school?"
+        ],
+        "related_concept_ids": ["c_04_19_02"]
+      },
+      {
+        "id": "c_04_19_02",
+        "topic": "Diversity in School",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Understanding and respecting differences among students.",
+          "explanation_text": "In school, we meet students from different backgrounds. They may speak different languages at home or have different customs. This diversity helps us understand our country better. We should respect this diversity and help each other.",
+          "key_points": [
+            "Students come from different backgrounds.",
+            "Different languages and customs.",
+            "Diversity enriches our understanding."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "diversity",
+          "languages",
+          "customs",
+          "respect",
+          "backgrounds"
+        ],
+        "question_variations": [
+          "What do we learn about in school regarding our country?",
+          "Why is there diversity in school?",
+          "How should we treat friends who speak different languages?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_19_03",
+        "topic": "Education for Children with Special Needs",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The right of every child, including those with special needs, to attend school.",
+          "explanation_text": "Every child has the right to the joy of learning. Children with special needs (like those who cannot see, hear, or walk easily) also attend school. The government has schemes to support their education. We should help them.",
+          "key_points": [
+            "Right to education for all.",
+            "Special needs children attend regular schools.",
+            "Government schemes support them."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "special needs",
+          "right to education",
+          "government schemes",
+          "inclusion"
+        ],
+        "question_variations": [
+          "Do children with special needs have the right to education?",
+          "How can we help special needs children in school?",
+          "Why is it important for everyone to go to school?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_20_responsible_sensitive",
+    "chapter_title": "I'll be responsible and sensitive",
+    "concepts": [
+      {
+        "id": "c_04_20_01",
+        "topic": "Sensitivity towards Old People and Patients",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Understanding the needs of the elderly and the sick and helping them.",
+          "explanation_text": "Old people and patients cannot run about or do heavy tasks. They need rest, peace, and timely medicine/food. We should be sensitive to their needs, not play loud music, and help them with small tasks. We should not give medical advice without a doctor.",
+          "key_points": [
+            "Old people need love and small help.",
+            "Patients need rest and quiet.",
+            "Do not ignore them.",
+            "Do not give unverified medical advice."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "sensitivity",
+          "old people",
+          "patients",
+          "responsibility",
+          "care"
+        ],
+        "question_variations": [
+          "How should we behave with old people?",
+          "Why should we not play loud music near a patient?",
+          "What is meant by being sensitive?"
+        ],
+        "related_concept_ids": ["c_04_20_02"]
+      },
+      {
+        "id": "c_04_20_02",
+        "topic": "People with Special Needs",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Respecting and assisting people with physical disabilities.",
+          "explanation_text": "People with special needs (blind, deaf, etc.) face inconveniences but live with determination. We should not pity them but respect and help them. Blind people use Braille and white canes. Deaf people use Sign Language.",
+          "key_points": [
+            "Treat with respect, not pity.",
+            "Blind people use Braille script and white canes.",
+            "Deaf people use Sign Language.",
+            "Example: Sudha Chandran (dancer), Ravindra Jain (musician)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "special needs",
+          "Braille",
+          "Sign Language",
+          "white cane",
+          "respect"
+        ],
+        "question_variations": [
+          "What script do blind people use?",
+          "How do deaf people communicate?",
+          "Name a famous person who overcame a disability."
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_21_management_community_life",
+    "chapter_title": "Management of Community Life",
+    "concepts": [
+      {
+        "id": "c_04_21_01",
+        "topic": "Importance of Management",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Planning and coordination required to complete tasks smoothly.",
+          "explanation_text": "Management is necessary for any work to be done properly, whether it is studying, running a house, or managing a school/town. It involves planning (what to do, how to do it) and coordination among people. Without management, there is confusion.",
+          "key_points": [
+            "First step: Prepare an outline/plan.",
+            "Coordination among people.",
+            "Prevents confusion and mistakes."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "management",
+          "planning",
+          "coordination",
+          "community life",
+          "rules"
+        ],
+        "question_variations": [
+          "What is the first step in management?",
+          "Why is management necessary?",
+          "What happens if there is no management?"
+        ],
+        "related_concept_ids": ["c_04_21_02"]
+      },
+      {
+        "id": "c_04_21_02",
+        "topic": "Local Government Bodies",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Organizations elected by people to provide public facilities.",
+          "explanation_text": "To manage community life (roads, lights, water, garbage), we have local government bodies like the Gram Panchayat, Municipal Council, or Municipal Corporation. People elect representatives to these bodies to attend to their needs.",
+          "key_points": [
+            "Provide public facilities.",
+            "Elected by the people.",
+            "Examples: Gram Panchayat, Municipal Corporation."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "local government",
+          "Gram Panchayat",
+          "Municipal Corporation",
+          "representatives",
+          "facilities"
+        ],
+        "question_variations": [
+          "Who provides facilities for daily needs in a town?",
+          "What is the function of the local government body?",
+          "Who elects the representatives?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_21_03",
+        "topic": "School Management Committee",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "A committee of parents and teachers to ensure the development of students.",
+          "explanation_text": "Every school has a School Management Committee consisting of parents, teachers, and local experts. It helps in solving difficulties and recommends development plans for the school. It ensures the all-round development of students.",
+          "key_points": [
+            "Members: Parents, Teachers, Experts.",
+            "Role: Solve problems, guide development.",
+            "Goal: All-round development of children."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "School Management Committee",
+          "parents",
+          "teachers",
+          "development"
+        ],
+        "question_variations": [
+          "Who are the members of the School Management Committee?",
+          "What is the function of the School Management Committee?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_22_transport_communication",
+    "chapter_title": "Transport and Communication",
+    "concepts": [
+      {
+        "id": "c_04_22_01",
+        "topic": "Evolution of Transport",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The development of transport from walking/animals to modern vehicles.",
+          "explanation_text": "In ancient times, man used logs and stones to roll loads, leading to the invention of the wheel. This increased speed and saved effort. Today, we have ultra-modern means like ships, trains, and airplanes, but animals (yaks, camels) are still used in some places.",
+          "key_points": [
+            "Invention of the wheel was crucial.",
+            "Modern means: Faster and safer.",
+            "Animals still used in difficult terrains."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "transport",
+          "wheel",
+          "invention",
+          "vehicles",
+          "speed"
+        ],
+        "question_variations": [
+          "What invention changed transport significantly?",
+          "Why are modern means of transport better?",
+          "Which animals are used for transport in deserts?"
+        ],
+        "related_concept_ids": ["c_04_22_02"]
+      },
+      {
+        "id": "c_04_22_02",
+        "topic": "Means of Communication",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Methods used to exchange information and messages.",
+          "explanation_text": "Communication has evolved from gestures and pigeons to letters, telephones, and now the internet and satellites. Man-made satellites help in telecommunication and mass media (TV, Radio). However, excess use of mobile phones can be harmful (e.g., radiation affecting sparrows).",
+          "key_points": [
+            "Obtaining/sending information.",
+            "Modern means: Mobile, Internet, Satellite.",
+            "Mass media: TV, Newspaper.",
+            "Excess use is harmful."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "communication",
+          "satellite",
+          "mobile",
+          "internet",
+          "pollution"
+        ],
+        "question_variations": [
+          "What is communication?",
+          "How are man-made satellites useful?",
+          "Why are sparrows disappearing?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_23_natural_disasters",
+    "chapter_title": "Natural Disasters",
+    "concepts": [
+      {
+        "id": "c_04_23_01",
+        "topic": "Natural Disaster",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A serious mishap caused by natural forces that causes damage to life and property.",
+          "explanation_text": "Disasters are serious mishaps. Some are man-made, but others like earthquakes, floods, storms, and lightning are natural. We cannot prevent them, but we can learn to face them. They cause injury, death, and collapse of houses.",
+          "key_points": [
+            "Serious mishap.",
+            "Natural causes (cannot be prevented).",
+            "Causes loss of life and property.",
+            "Examples: Earthquake, Flood, Tsunami."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "disaster",
+          "natural",
+          "mishap",
+          "damage",
+          "prevention"
+        ],
+        "question_variations": [
+          "What is a natural disaster?",
+          "Give three examples of natural disasters.",
+          "Can we prevent natural disasters?"
+        ],
+        "related_concept_ids": ["c_04_23_02", "c_04_23_03", "c_04_23_04"]
+      },
+      {
+        "id": "c_04_23_02",
+        "topic": "Untimely Rain and Hailstorms",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Rain that falls outside the monsoon season, often damaging crops.",
+          "explanation_text": "In Maharashtra, rain usually falls in June-September. Rain at other times is 'untimely rain'. It causes waterlogging and crop damage. Sometimes it is accompanied by hail (hailstorm), which injures people/animals and destroys crops and orchards.",
+          "key_points": [
+            "Rain outside monsoon season.",
+            "Causes crop damage.",
+            "Hailstorms involve ice pellets (hail)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "untimely rain",
+          "hailstorm",
+          "crops",
+          "damage",
+          "monsoon"
+        ],
+        "question_variations": [
+          "What is untimely rain?",
+          "How does a hailstorm affect crops?",
+          "When does the monsoon season occur in Maharashtra?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_23_03",
+        "topic": "Floods",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Overflow of water from rivers due to heavy continuous rain.",
+          "explanation_text": "Heavy rains cause the water level in rivers to rise, leading to floods. Water enters settlements, causing houses to collapse and people/animals to drown. During floods, one should go to a safe height and not swim in the water.",
+          "key_points": [
+            "Caused by heavy rain.",
+            "River overflows banks.",
+            "Safety measure: Go to high ground.",
+            "Currents are dangerous."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "flood",
+          "river",
+          "rain",
+          "drowning",
+          "safety"
+        ],
+        "question_variations": [
+          "What causes floods?",
+          "What should we do during a flood?",
+          "Why is it dangerous to swim in flood waters?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_23_04",
+        "topic": "Earthquakes and Tsunami",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Shaking of the ground due to movement in rocks; Tsunami is a sea wave caused by an underwater earthquake.",
+          "explanation_text": "Rocks inside the earth move, causing waves that shake the ground (Earthquake). This causes buildings to collapse. If the earthquake originates in the sea, it causes gigantic waves called Tsunamis, which devastate coastal areas.",
+          "key_points": [
+            "Earthquake: Shaking ground.",
+            "Tsunami: Giant sea waves.",
+            "Safety: Sit under a table/bed or stand in a doorframe."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "earthquake",
+          "tsunami",
+          "waves",
+          "collapse",
+          "coast"
+        ],
+        "question_variations": [
+          "What is an earthquake?",
+          "What causes a Tsunami?",
+          "What should you do if an earthquake occurs while you are at school?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_EVS1",
+      "generated_date": "2025-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "evs1_04_24_endangering_environment",
+    "chapter_title": "Are we endangering our environment?",
+    "concepts": [
+      {
+        "id": "c_04_24_01",
+        "topic": "Human Progress vs Environment",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "How human activities to make life comfortable harm the environment.",
+          "explanation_text": "Man uses intelligence to use natural resources. However, the growing population and the need for houses, roads, and industries lead to deforestation and pollution. This destroys the habitat of birds and animals and harms the environment.",
+          "key_points": [
+            "Population growth increases demand.",
+            "Deforestation for settlement/farming.",
+            "Loss of biodiversity (birds/animals)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "environment",
+          "progress",
+          "population",
+          "deforestation",
+          "habitat"
+        ],
+        "question_variations": [
+          "Why are birds and insects disappearing from cities?",
+          "How does population growth affect the environment?",
+          "What is the effect of cutting down forests?"
+        ],
+        "related_concept_ids": ["c_04_24_02"]
+      },
+      {
+        "id": "c_04_24_02",
+        "topic": "Pollution and Groundwater",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Contamination of air/water and depletion of groundwater due to human activity.",
+          "explanation_text": "Vehicles and factories release smoke (air pollution) and waste water (water pollution). This causes diseases like asthma. Excessive pumping of water for farming and cities is causing groundwater levels to dry up.",
+          "key_points": [
+            "Air Pollution: Smoke from vehicles/factories.",
+            "Water Pollution: Waste water in rivers.",
+            "Groundwater: Drying up due to borewells/pumps.",
+            "Health impact: Asthma, breathing disorders."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "pollution",
+          "groundwater",
+          "smoke",
+          "waste water",
+          "asthma"
+        ],
+        "question_variations": [
+          "What causes air pollution?",
+          "Why is groundwater drying up?",
+          "What are the ill effects of polluted water?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  }
+]

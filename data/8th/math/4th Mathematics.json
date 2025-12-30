@@ -1,0 +1,729 @@
+[
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_01_geometrical_figures",
+    "chapter_title": "Geometrical Figures",
+    "concepts": [
+      {
+        "id": "c_04_01_01",
+        "topic": "Angles (Right, Acute, Obtuse)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Angles are formed where two lines meet. They are classified based on their size relative to a right angle.",
+          "explanation_text": "When two lines meet, they make an angle. A 'Right Angle' is like the corner of a book or a window. An angle smaller than a right angle is called an 'Acute Angle'. An angle bigger than a right angle is called an 'Obtuse Angle'.",
+          "key_points": [
+            "Right Angle: 90 degrees (like a square corner).",
+            "Acute Angle: Smaller than a right angle.",
+            "Obtuse Angle: Bigger than a right angle."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "angle",
+          "right angle",
+          "acute",
+          "obtuse",
+          "corner",
+          "geometry"
+        ],
+        "question_variations": [
+          "What is the difference between an acute and obtuse angle?",
+          "Identify the type of angle formed by the hands of a clock at 3 o'clock.",
+          "Define a right angle.",
+          "If an angle is smaller than a right angle, what is it called?"
+        ],
+        "related_concept_ids": [
+          "c_04_01_02_vertex_side"
+        ]
+      },
+      {
+        "id": "c_04_01_02",
+        "topic": "Circle Components (Centre, Radius, Diameter, Chord)",
+        "relevance_score": 0.95,
+        "content_payload": {
+          "short_definition": "The structural parts of a circle including the fixed middle point and lines connecting points on the curve.",
+          "explanation_text": "A circle has a 'Centre' in the exact middle. A line from the centre to the edge is the 'Radius'. A line passing through the centre connecting two points on the edge is the 'Diameter'. Any line connecting two points on the circle is a 'Chord'.",
+          "key_points": [
+            "Centre: The middle point.",
+            "Radius: Line from centre to edge.",
+            "Chord: Line connecting two points on the circle.",
+            "Diameter: A chord that passes through the centre."
+          ],
+          "formula_latex": "Diameter = 2 \\times Radius"
+        },
+        "keywords": [
+          "circle",
+          "radius",
+          "diameter",
+          "chord",
+          "centre",
+          "compass"
+        ],
+        "question_variations": [
+          "What is the relationship between radius and diameter?",
+          "Define the chord of a circle.",
+          "Is a diameter also a chord?",
+          "How do you find the centre of a circle?"
+        ],
+        "related_concept_ids": []
+      },
+      {
+        "id": "c_04_01_03",
+        "topic": "Vertex and Side",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "The basic building blocks of polygons like rectangles, squares, and triangles.",
+          "explanation_text": "In a shape, the straight lines are called 'sides' or 'edges'. The point where two sides meet is called a 'vertex' (plural: vertices).",
+          "key_points": [
+            "Rectangle: 4 sides, 4 vertices. Opposite sides are equal.",
+            "Square: 4 sides, 4 vertices. All sides are equal.",
+            "Triangle: 3 sides, 3 vertices."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "vertex",
+          "vertices",
+          "side",
+          "edge",
+          "rectangle",
+          "square",
+          "triangle"
+        ],
+        "question_variations": [
+          "How many vertices does a triangle have?",
+          "What is a vertex?",
+          "Compare the sides of a square and a rectangle.",
+          "Where two sides meet is called what?"
+        ],
+        "related_concept_ids": [
+          "c_04_01_01_angles"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_02_number_work",
+    "chapter_title": "Number Work",
+    "concepts": [
+      {
+        "id": "c_04_02_01",
+        "topic": "Place Value and Expanded Form",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The value of a digit based on its position in a number, and writing the number as the sum of these values.",
+          "explanation_text": "The place of a digit determines its value (Units, Tens, Hundreds, Thousands). The expanded form writes the number as an addition problem of these values. For example, 5,324 is 5000 + 300 + 20 + 4.",
+          "key_points": [
+            "Place values: Units (U), Tens (T), Hundreds (H), Thousands (Th), Ten Thousands (TTh).",
+            "Expanded form shows the sum of place values."
+          ],
+          "formula_latex": "Number = \\sum (Digit \\times PlaceValue)"
+        },
+        "keywords": [
+          "place value",
+          "expanded form",
+          "units",
+          "tens",
+          "hundreds",
+          "thousands"
+        ],
+        "question_variations": [
+          "Write the expanded form of 54,300.",
+          "What is the place value of the digit 5 in 5,200?",
+          "How do you read a five-digit number?",
+          "Convert 4000 + 300 + 5 into a number."
+        ],
+        "related_concept_ids": [
+          "c_04_02_02_numerals"
+        ]
+      },
+      {
+        "id": "c_04_02_02",
+        "topic": "International vs Devanagari Numerals",
+        "relevance_score": 0.8,
+        "content_payload": {
+          "short_definition": "Comparison between the English (International) number script and the Marathi (Devanagari) number script.",
+          "explanation_text": "Numbers can be written in different scripts. In English, we use International numerals (0, 1, 2, 3...). In Marathi, Devanagari numerals are used. The value remains the same, only the symbol changes.",
+          "key_points": [
+            "International: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+            "Devanagari: ०, १, २, ३, ४, ५, ६, ७, ८, ९"
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "devanagari",
+          "international numerals",
+          "script",
+          "digits"
+        ],
+        "question_variations": [
+          "Convert the Devanagari number ४५६ to International numerals.",
+          "Read the number 568 in Devanagari script.",
+          "Why do we use international numerals?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_10_fractions",
+    "chapter_title": "Fractions",
+    "concepts": [
+      {
+        "id": "c_04_10_01",
+        "topic": "Concept of Fractions (Half, Quarter)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Fractions represent equal parts of a whole object or a collection.",
+          "explanation_text": "When an object is divided into equal parts, each part is a fraction. If divided into 2 equal parts, each is a 'Half' (1/2). If divided into 4 equal parts, each is a 'Quarter' (1/4). Three of those quarters make 'Three Quarters' (3/4).",
+          "key_points": [
+            "Half: 1 part out of 2.",
+            "Quarter: 1 part out of 4.",
+            "Three Quarters: 3 parts out of 4.",
+            "Numerator is the top number, Denominator is the bottom number."
+          ],
+          "formula_latex": "\\frac{1}{2}, \\frac{1}{4}, \\frac{3}{4}"
+        },
+        "keywords": [
+          "fraction",
+          "half",
+          "quarter",
+          "numerator",
+          "denominator",
+          "equal parts"
+        ],
+        "question_variations": [
+          "How many quarters make a whole?",
+          "Write the fraction for 'three quarters'.",
+          "What does the denominator in a fraction represent?",
+          "If I eat half a cake, how much is left?"
+        ],
+        "related_concept_ids": [
+          "c_04_10_02_mixed_fractions"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_11_measurement",
+    "chapter_title": "Measurement",
+    "concepts": [
+      {
+        "id": "c_04_11_01",
+        "topic": "Length Conversion (m, cm, mm)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Standard units for measuring length and the relationship between Kilometres, Metres, Centimetres, and Millimetres.",
+          "explanation_text": "We measure small things in millimetres (mm) and centimetres (cm), and long distances in kilometres (km). 1 centimetre has 10 small lines called millimetres. 1 metre is made of 100 centimetres. 1 kilometre is 1000 metres.",
+          "key_points": [
+            "1 cm = 10 mm",
+            "1 m = 100 cm",
+            "1 km = 1000 m"
+          ],
+          "formula_latex": "1m = 100cm"
+        },
+        "keywords": [
+          "length",
+          "metre",
+          "centimetre",
+          "kilometre",
+          "ruler",
+          "conversion"
+        ],
+        "question_variations": [
+          "How many metres are in a kilometre?",
+          "Convert 5 metres into centimetres.",
+          "Which unit is used to measure the distance between cities?",
+          "What is the smallest unit on a standard ruler?"
+        ],
+        "related_concept_ids": [
+          "c_04_11_02_mass_volume"
+        ]
+      },
+      {
+        "id": "c_04_11_02",
+        "topic": "Mass and Capacity",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "Units for measuring weight (Mass) and liquids (Capacity).",
+          "explanation_text": "Mass is measured in Grams (g) and Kilograms (kg). 1000 grams make 1 kilogram. Capacity (liquids like water or milk) is measured in Millilitres (ml) and Litres (l). 1000 millilitres make 1 Litre.",
+          "key_points": [
+            "Mass: 1 kg = 1000 g",
+            "Capacity: 1 litre = 1000 ml",
+            "Half a litre = 500 ml"
+          ],
+          "formula_latex": "1kg = 1000g, 1l = 1000ml"
+        },
+        "keywords": [
+          "mass",
+          "weight",
+          "capacity",
+          "litre",
+          "kilogram",
+          "gram"
+        ],
+        "question_variations": [
+          "How many grams are in half a kilogram?",
+          "What unit would you use to measure a sack of rice?",
+          "Convert 2 litres into millilitres.",
+          "How many 500ml milk packets make 1 litre?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_12_perimeter_area",
+    "chapter_title": "Perimeter and Area",
+    "concepts": [
+      {
+        "id": "c_04_12_01",
+        "topic": "Perimeter",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The total length of the boundary of a closed figure.",
+          "explanation_text": "Perimeter is the distance around the outside of a shape. You find it by adding the lengths of all the sides together. For a square, it's the sum of all four sides.",
+          "key_points": [
+            "Sum of all sides.",
+            "Measured in units of length (cm, m)."
+          ],
+          "formula_latex": "P = side_1 + side_2 + side_3 + ..."
+        },
+        "keywords": [
+          "perimeter",
+          "boundary",
+          "sum",
+          "sides",
+          "length"
+        ],
+        "question_variations": [
+          "Calculate the perimeter of a square with side 4cm.",
+          "What is the definition of perimeter?",
+          "If a triangle has sides 3cm, 4cm, and 5cm, what is its perimeter?"
+        ],
+        "related_concept_ids": [
+          "c_04_12_02_area"
+        ]
+      },
+      {
+        "id": "c_04_12_02",
+        "topic": "Area",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The measure of the place or surface occupied by a figure.",
+          "explanation_text": "Area is the amount of space inside a shape. It is measured by counting how many unit squares (e.g., 1 cm x 1 cm squares) fit inside the shape. The unit is 'square centimetre' (sq cm).",
+          "key_points": [
+            "Measures surface space.",
+            "Unit: sq cm or sq m.",
+            "Found by counting squares or multiplying dimensions."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "area",
+          "surface",
+          "space",
+          "square centimetre",
+          "sq cm"
+        ],
+        "question_variations": [
+          "What is the unit of area?",
+          "How is area different from perimeter?",
+          "Find the area of a shape covering 10 squares of 1 cm each."
+        ],
+        "related_concept_ids": [
+          "c_04_12_01_perimeter"
+        ]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_16_patterns",
+    "chapter_title": "Patterns",
+    "concepts": [
+      {
+        "id": "c_04_16_01",
+        "topic": "Geometric and Number Patterns",
+        "relevance_score": 0.85,
+        "content_payload": {
+          "short_definition": "A repeated decorative design or a sequence of numbers following a specific rule.",
+          "explanation_text": "Patterns can be shapes that repeat in a specific order (like circle, triangle, circle, triangle). Patterns can also be in numbers, like multiplication tables (5, 10, 15, 20...) where the rule is adding 5 each time.",
+          "key_points": [
+            "Visual patterns repeat shapes.",
+            "Number patterns follow mathematical rules (tables, addition, subtraction)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "pattern",
+          "sequence",
+          "repetition",
+          "order",
+          "series"
+        ],
+        "question_variations": [
+          "Complete the pattern: 2, 4, 6, 8, ...",
+          "Identify the shape pattern in the fence design.",
+          "What is the rule for the pattern 10, 20, 30?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_03_addition",
+    "chapter_title": "Addition",
+    "concepts": [
+      {
+        "id": "c_04_03_01",
+        "topic": "Addition with Carrying Over",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "The process of adding numbers where the sum of a column exceeds 9, requiring the extra value to be moved to the next place value.",
+          "explanation_text": "When adding numbers, if the sum in the units place is more than 9, we make a group of 10 and move (carry) it to the tens place. This applies to hundreds and thousands as well. This is often done using vertical arrangement.",
+          "key_points": [
+            "Arrange numbers vertically (units under units).",
+            "Carry over if sum > 9.",
+            "10 Units = 1 Ten, 10 Tens = 1 Hundred."
+          ],
+          "formula_latex": null
+        },
+        "keywords": ["addition", "carrying over", "sum", "total", "vertical arrangement"],
+        "question_variations": [
+          "What do you do when the sum of units is 15?",
+          "Add 637 and 574 using the carrying over method.",
+          "Explain vertical arrangement in addition."
+        ],
+        "related_concept_ids": ["c_04_03_02_horizontal_add"]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_04_subtraction",
+    "chapter_title": "Subtraction",
+    "concepts": [
+      {
+        "id": "c_04_04_01",
+        "topic": "Subtraction by Borrowing (Untying)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A method used when the digit being subtracted is larger than the digit above it, requiring value to be taken from the next higher place value.",
+          "explanation_text": "If you cannot subtract 8 units from 2 units, you must 'untie' or borrow one ten from the tens place. That one ten becomes 10 units, giving you 12 units in total, allowing you to subtract 8.",
+          "key_points": [
+            "Used when top digit < bottom digit.",
+            "Untie 1 Ten to get 10 Units.",
+            "Untie 1 Hundred to get 10 Tens."
+          ],
+          "formula_latex": null
+        },
+        "keywords": ["subtraction", "borrowing", "untying", "difference", "minus"],
+        "question_variations": [
+          "How do you solve 4215 - 2649?",
+          "What does it mean to untie a ten?",
+          "Subtract 321 from 452."
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_05_multiplication",
+    "chapter_title": "Multiplication",
+    "concepts": [
+      {
+        "id": "c_04_05_01",
+        "topic": "Lattice Method",
+        "relevance_score": 0.9,
+        "content_payload": {
+          "short_definition": "A grid-based method for multiplying numbers by breaking them into their place values (expanded form).",
+          "explanation_text": "To multiply 38 by 24 using the Lattice method, we break 38 into 30 and 8, and 24 into 20 and 4. We multiply these parts separately in a box (grid) and then add all the results together.",
+          "key_points": [
+            "Break numbers into expanded form.",
+            "Multiply parts in a grid.",
+            "Add the products."
+          ],
+          "formula_latex": "Product = Sum (Partial Products)"
+        },
+        "keywords": ["multiplication", "lattice method", "grid", "product", "times"],
+        "question_variations": [
+          "Multiply 53 by 8 using the lattice method.",
+          "Explain how to use the lattice method for two-digit numbers.",
+          "What is the first step in the lattice method?"
+        ],
+        "related_concept_ids": ["c_04_13_vertical_mult"]
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_06_division",
+    "chapter_title": "Division",
+    "concepts": [
+      {
+        "id": "c_04_06_01",
+        "topic": "Concept of Division",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Splitting a quantity into equal groups or shares.",
+          "explanation_text": "Division means sharing equally. If 20 chocolates are divided among 5 children, we ask 'how many 5s are in 20?'. The number to be divided is the Dividend, the number dividing is the Divisor, and the answer is the Quotient.",
+          "key_points": [
+            "Dividend: Number being divided.",
+            "Divisor: Number we divide by.",
+            "Quotient: The answer.",
+            "Remainder: What is left over."
+          ],
+          "formula_latex": "Dividend = Divisor \\times Quotient + Remainder"
+        },
+        "keywords": ["division", "dividend", "divisor", "quotient", "remainder", "share"],
+        "question_variations": [
+          "Divide 20 by 5.",
+          "What is the remainder when 9 is divided by 2?",
+          "Define dividend and divisor."
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_07_coins_notes",
+    "chapter_title": "Coins and Notes",
+    "concepts": [
+      {
+        "id": "c_04_07_01",
+        "topic": "Currency Change and Value",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Exchanging larger denomination notes for smaller ones of equal total value.",
+          "explanation_text": "A 500-rupee note can be exchanged for five 100-rupee notes. The total value remains the same. We use combinations of notes and coins to pay for items.",
+          "key_points": [
+            "1 Rupee = 100 Paise.",
+            "Change: Breaking a large note into smaller notes.",
+            "Total value must match."
+          ],
+          "formula_latex": null
+        },
+        "keywords": ["money", "rupees", "paise", "change", "notes", "coins"],
+        "question_variations": [
+          "How many 50 rupee notes make 500 rupees?",
+          "Get change for a 2000 rupee note.",
+          "What is the value of four 5-rupee coins?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_08_time",
+    "chapter_title": "Measuring Time",
+    "concepts": [
+      {
+        "id": "c_04_08_01",
+        "topic": "Reading the Clock",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "Determining time using the hour and minute hands, and understanding terms like 'quarter past' and 'half past'.",
+          "explanation_text": "The short hand shows hours, the long hand shows minutes. 30 minutes past the hour is 'half past'. 15 minutes past is 'quarter past'. 45 minutes past is 'quarter to' the next hour.",
+          "key_points": [
+            "1 hour = 60 minutes.",
+            "Half past = 30 min.",
+            "Quarter past = 15 min.",
+            "Quarter to = 45 min."
+          ],
+          "formula_latex": null
+        },
+        "keywords": ["time", "clock", "minutes", "hours", "quarter past", "half past"],
+        "question_variations": [
+          "What time is it when the minute hand is on 6 and hour hand is between 2 and 3?",
+          "Define quarter past 5.",
+          "How many minutes are in a quarter of an hour?"
+        ],
+        "related_concept_ids": ["c_04_08_02_calendar"]
+      },
+      {
+        "id": "c_04_08_02",
+        "topic": "Calendar and Leap Year",
+        "relevance_score": 0.85,
+        "content_payload": {
+          "short_definition": "Tracking days, weeks, and months, and understanding the concept of a Leap Year.",
+          "explanation_text": "A year usually has 365 days. A Leap Year has 366 days because February has 29 days instead of 28. A leap year occurs every 4 years (divisible by 4).",
+          "key_points": [
+            "Leap Year: 366 days (Feb has 29).",
+            "Normal Year: 365 days (Feb has 28).",
+            "Leap years are divisible by 4 (e.g., 2012, 2016)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": ["calendar", "leap year", "february", "days", "weeks"],
+        "question_variations": [
+          "How many days does February have in a leap year?",
+          "Is 2020 a leap year?",
+          "How do you calculate a leap year?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_15_pictographs",
+    "chapter_title": "Pictographs",
+    "concepts": [
+      {
+        "id": "c_04_15_01",
+        "topic": "Reading Pictographs",
+        "relevance_score": 0.95,
+        "content_payload": {
+          "short_definition": "Representing numerical data using pictures, where one picture represents a specific quantity (Scale).",
+          "explanation_text": "A pictograph uses images to show information. A 'Scale' tells us how many items one picture stands for. For example, if 1 picture of a tree = 10 trees, then 3 pictures = 30 trees.",
+          "key_points": [
+            "Uses pictures for data.",
+            "Scale is crucial (e.g., 1 icon = 10 units).",
+            "Count pictures and multiply by scale."
+          ],
+          "formula_latex": "Total = Number of Pictures \\times Scale"
+        },
+        "keywords": ["pictograph", "data", "scale", "chart", "table"],
+        "question_variations": [
+          "If one smiley face equals 5 students, how many students are represented by 4 faces?",
+          "What is the importance of scale in a pictograph?",
+          "How do you read a pictorial chart?"
+        ],
+        "related_concept_ids": []
+      }
+    ]
+  },
+  {
+    "meta": {
+      "pack_version": "1.3",
+      "language_code": "en-IN",
+      "target_class": "04_SSC",
+      "generated_date": "2024-11-26",
+      "model_source": "Gemini-1.5-Pro"
+    },
+    "chapter_id": "math_04_09_word_problems",
+    "chapter_title": "Word Problems: Addition and Subtraction",
+    "concepts": [
+      {
+        "id": "c_04_09_01",
+        "topic": "Solving Word Problems (Methodology)",
+        "relevance_score": 1.0,
+        "content_payload": {
+          "short_definition": "A systematic approach to solving text-based math problems by identifying the given information, what is asked, and the correct operation.",
+          "explanation_text": "To solve a word problem, we must first read it carefully. We write down 'What information is given?', then 'What is asked?', and finally decide 'What method should be used?' (Addition or Subtraction).",
+          "key_points": [
+            "Step 1: Read and understand.",
+            "Step 2: Write what is 'Given'.",
+            "Step 3: Write what is 'Asked'.",
+            "Step 4: Choose the operation (+ or -)."
+          ],
+          "formula_latex": null
+        },
+        "keywords": [
+          "word problems",
+          "given",
+          "asked",
+          "method",
+          "total",
+          "difference"
+        ],
+        "question_variations": [
+          "In a word problem, what does 'What is asked' mean?",
+          "If the problem asks for the 'Total', which operation do you use?",
+          "Identify the information given: 'Create a problem where Ram has 5 apples and Sita has 4.'"
+        ],
+        "related_concept_ids": [
+          "c_04_03_01_addition",
+          "c_04_04_01_subtraction"
+        ]
+      }
+    ]
+  }
+]
